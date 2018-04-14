@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "async-lodash": "^1.0.9",
+    "bluebird": "^3.5.1",
+    "debug": "^3.1.0",
+    "lodash": "^4.17.5",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "requests": "^0.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
