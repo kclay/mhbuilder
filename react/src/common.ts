@@ -6,13 +6,17 @@ interface NodeModule {
 }
 
 interface Build {
-    head: Gear,
-    charm: Gear,
-    chest: Gear,
-    hands: Gear,
-    legs: Gear,
-    waist: Gear
+    head?: Armor,
+    charm?: Gear,
+    chest?: Armor,
+    hands?: Armor,
+    legs?: Armor,
+    waist?: Armor
 
+}
+
+interface RootState {
+    build: Build
 }
 
 enum GearType {
@@ -36,6 +40,7 @@ type Gear = {
     type: GearType,
     rank: Rank
     attributes: GearAttributes;
+    slots?: Slots;
 }
 
 type GearAttributes = {}
@@ -46,7 +51,7 @@ interface ArmorAttributes extends GearAttributes {
     water?: number;
     ice?: number;
     dragon?: number;
-    slots?: Slots;
+
 }
 
 interface Slots {
@@ -76,6 +81,7 @@ interface ArmorSkills {
 }
 
 interface BuildSkill {
+    id: number;
     name: string,
     image: '',
     points: number,

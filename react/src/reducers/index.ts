@@ -1,4 +1,5 @@
 import {combineReducers} from 'redux';
+import buildReducer from './build'
 
 /**
  * combineReducers is important to understand. As your app might grow in size
@@ -14,6 +15,10 @@ import {combineReducers} from 'redux';
  * More info: http://rackt.org/redux/docs/api/combineReducers.html
  */
 
-const rootReducer = combineReducers({});
+
+
+const rootReducer = combineReducers({
+    build: buildReducer
+});
 
 export default rootReducer;

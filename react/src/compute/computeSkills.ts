@@ -1,3 +1,3 @@
-export default function computeSkills(build: Build): BuildSkill[] {
+export default function computeSkills(build: Build, forSet: boolean): BuildSkill[] {
     return []
 }

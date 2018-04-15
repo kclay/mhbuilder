@@ -5,7 +5,7 @@ import App from './App';
 /**
  * Component is exported for conditional usage in Root.js
  */
-export default class Root extends React.Component {
+export default class Root extends React.Component<any, any> {
     render() {
         const {store} = this.props;
         return (

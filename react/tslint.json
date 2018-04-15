@@ -1,5 +1,15 @@
 {
-  "extends": ["tslint:recommended", "tslint-react", "tslint-config-prettier"],
+  "extends": [
+    
+    "tslint-react",
+    "tslint-config-prettier"
+  ],
+  "rules": {
+    "member-access": [
+      true,
+      "no-public"
+    ]
+  },
   "linterOptions": {
     "exclude": [
       "config/**/*.js",

@@ -1,26 +1,30 @@
 import React from 'react'
+import {connect} from "react-redux";
 import {PreviewRow} from "./PreviewRow";
 
-const BuildPreview = (props) => {
+type Props = {
+    build: Build
+}
+export const UnconnectedBuildPreview = ({build}: Props) => {
     const rows = {
         'first-row': [
-            {small: true, type: 'kinsect'},
+            {small: true, kind: 'kinsect'},
             {
-                type: 'head', item: {
+                kind: 'head', item: {
                 slots: {1: true, 3: true}
             }
             },
-            {small: true, type: 'charm'}
+            {small: true, kind: 'charm'}
 
         ],
         'second-row': [
-            {type: 'weapon'},
-            {type: 'chest'},
-            {type: 'hands'}
+            {kind: 'weapon'},
+            {kind: 'chest'},
+            {kind: 'hands'}
         ],
         'third-row': [
-            {type: 'legs'},
-            {type: 'waist'}
+            {kind: 'legs'},
+            {kind: 'waist'}
         ]
     };
 
@@ -30,6 +34,12 @@ const BuildPreview = (props) => {
         })}
     </div>
 };
+const mapStateToProps = (state: RootState) => {
+    return {
+        build: state.build
+    }
+};
+const BuildPreview = connect(mapStateToProps)(UnconnectedBuildPreview);
 
 export {
     BuildPreview

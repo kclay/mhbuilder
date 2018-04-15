@@ -6,7 +6,7 @@
 
 export const CATCH_ALL = '@@ThunkActionType/catchAll';
 
-export function createCatchAllType(type) {
+export function createCatchAllType(type: string) {
     return `${CATCH_ALL}|${type}`
 }
 
@@ -15,7 +15,7 @@ export function createCatchAllType(type) {
  * @param {string}type
  * @returns {*}
  */
-export function extractType(type) {
+export function extractType(type: string) {
     const extracted = type.substring(0, type.lastIndexOf('_'));
     if (!extracted || !extracted.length) {
         return type
@@ -23,12 +23,12 @@ export function extractType(type) {
     return extracted
 }
 
-export function createTypes(type) {
-    const TYPE_START = `${type}_STARTED`
-    const TYPE_SUCCEEDED = `${type}_SUCCEEDED`
-    const TYPE_FAILED = `${type}_FAILED`
-    const TYPE_ENDED = `${type}_ENDED`
-    const TYPE_ALL = createCatchAllType(type)
+export function createTypes(type: string) {
+    const TYPE_START = `${type}_STARTED`;
+    const TYPE_SUCCEEDED = `${type}_SUCCEEDED`;
+    const TYPE_FAILED = `${type}_FAILED`;
+    const TYPE_ENDED = `${type}_ENDED`;
+    const TYPE_ALL = createCatchAllType(type);
     return {
         TYPE_START,
         TYPE_SUCCEEDED,
@@ -51,7 +51,7 @@ export function createTypes(type) {
  * @param type
  * @returns String|ThunkActionType
  */
-function makeThunkActionType(type) {
+function makeThunkActionType(type:string) {
     const {
         TYPE_START,
         TYPE_SUCCEEDED,

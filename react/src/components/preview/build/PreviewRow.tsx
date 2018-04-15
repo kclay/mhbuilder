@@ -1,12 +1,21 @@
 import React from 'react'
 import {ItemPreview} from "./ItemPreview";
 
-const PreviewRow = ({rows, id}) => {
+type Row = {
+    small?: boolean,
+    kind: string,
+    item: Gear
+}
+type Props = {
+    rows: Row[],
+    id: string;
+}
+const PreviewRow = ({rows, id}: Props) => {
 
     return <div className="preview-row" id={id}>
-        {rows.map((row) => {
-            return <ItemPreview key={row.type} small={row.small}
-                                type={row.type} item={row.item}
+        {rows.map(({kind, small = false, item}) => {
+            return <ItemPreview key={kind} small={small}
+                                kind={kind} item={item}
             />
         })}
     </div>
