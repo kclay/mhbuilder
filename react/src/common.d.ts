@@ -1,5 +1,11 @@
-// @flow
-type Build = {
+/* SystemJS module definition */
+declare var module: NodeModule;
+
+interface NodeModule {
+    id: string;
+}
+
+interface Build {
     head: Gear,
     charm: Gear,
     chest: Gear,
@@ -9,31 +15,32 @@ type Build = {
 
 }
 
-const GearName = {
-    Head: 'head',
-    Charm: 'charm',
-    Chest: 'chest',
-    Hands: 'hands',
-    Legs: 'legs',
-    Waist: 'waist'
-};
-type GearType = $Keys<typeof GearName>
+enum GearType {
+    Head = 'head',
+    Charm = 'charm',
+    Chest = 'chest',
+    Hands = 'hands',
+    Legs = 'legs',
+    Waist = 'waist'
+}
 
-const Rank = {
-    High: 'high',
-    Low: 'low'
-};
-type RankType = $Keys<typeof Rank>
+
+enum Rank {
+    High = 'high',
+    Low = 'low'
+}
+
 type Gear = {
     id: number,
     name: string,
     type: GearType,
-    rank: RankType
+    rank: Rank
     attributes: GearAttributes;
 }
 
 type GearAttributes = {}
-type ArmorAttributes = GearAttributes & {
+
+interface ArmorAttributes extends GearAttributes {
     defense?: number;
     fire?: number;
     water?: number;
@@ -41,32 +48,34 @@ type ArmorAttributes = GearAttributes & {
     dragon?: number;
     slots?: Slots;
 }
-type Slots = {
+
+interface Slots {
     1?: boolean,
     2?: boolean,
     3?: boolean
 }
-const Slot = {
-    One: 1,
-    Two: 2,
-    Three: 3
-};
 
-type SlotType = $Keys<typeof Slot>
+enum Slot {
+    One = 1,
+    Two = 2,
+    Three = 3
+}
 
-type Armor = Gear & {
+
+interface Armor extends Gear {
     attributes: ArmorAttributes
     skills: ArmorSkills[]
 }
 
-type ArmorSkills = {
+interface ArmorSkills {
     id: number,
     slug: string,
     skill: number,
     level: number,
     description: string,
 }
-type BuildSkill = {
+
+interface BuildSkill {
     name: string,
     image: '',
     points: number,
