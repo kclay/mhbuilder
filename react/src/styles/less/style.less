@@ -1,6 +1,6 @@
 @import "./lesshat/build/lesshat.less";
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,700');
-@import "./custom_font/style.css";
+@import "../css/custom_font/style.css";
 
 /* ---------------------------------------------------------------------------------- FONTS */
 
@@ -137,6 +137,7 @@ body {
       .skills-informations-wrapper {
         width: 60%;
         padding: 1rem;
+        
 
         .skills_tabs_buttons {
           display: flex;
@@ -154,8 +155,7 @@ body {
             outline: none;
             cursor: pointer;
             position: relative;
-            .transition
-            (all ease 250ms);
+            .transition(all ease 250ms);
 
             &:before {
               position: absolute;
