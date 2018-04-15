@@ -1,5 +1,5 @@
 import React from 'react'
-import {BuildPreview} from "./BuildPreview";
+import {BuildPreview} from "./build/BuildPreview";
 
 const PreviewSection = (props) => {
     return <section className="preview-section">

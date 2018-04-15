@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
     "lodash": "^4.17.5",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
@@ -10,12 +11,14 @@
     "react-scripts": "1.1.4",
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "redux-thunk-actions": "^1.1.6"
   },
   "devDependencies": {
     "async-lodash": "^1.0.9",
     "bluebird": "^3.5.1",
     "debug": "^3.1.0",
+    "flow-bin": "^0.69.0",
     "request": "^2.85.0"
   },
   "scripts": {
