@@ -4274,7 +4274,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2
     },
     "skills": [
@@ -4300,7 +4302,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2
     },
     "skills": [],
@@ -4317,7 +4321,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2
     },
     "skills": [],
@@ -4334,7 +4340,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2
     },
     "skills": [],
@@ -4351,7 +4359,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2
     },
     "skills": [],
@@ -4503,7 +4513,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 2
     },
     "skills": [
@@ -4529,7 +4541,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 2
     },
     "skills": [],
@@ -4546,7 +4560,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 2
     },
     "skills": [],
@@ -4563,7 +4579,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 2
     },
     "skills": [],
@@ -4580,7 +4598,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 32,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 2
     },
     "skills": [],
@@ -4736,7 +4756,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2
     },
@@ -4760,7 +4782,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2
     },
@@ -4784,7 +4808,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2
     },
@@ -4808,7 +4834,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2
     },
@@ -4832,7 +4860,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2
     },
@@ -5021,7 +5051,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5051,7 +5083,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5081,7 +5115,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5109,7 +5145,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5137,7 +5175,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5332,7 +5372,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5360,7 +5402,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5390,7 +5434,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5420,7 +5466,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5448,7 +5496,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 36,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5548,7 +5598,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5585,7 +5637,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5622,7 +5676,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5659,7 +5715,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5688,7 +5746,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5717,8 +5777,10 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5747,8 +5809,10 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5777,8 +5841,10 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5987,7 +6053,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6016,7 +6084,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6045,8 +6115,10 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6075,8 +6147,10 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6105,8 +6179,10 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6296,7 +6372,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6326,7 +6404,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6356,7 +6436,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6386,7 +6468,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6416,7 +6500,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6623,7 +6709,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -6651,7 +6739,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -6679,7 +6769,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -6707,7 +6799,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -6735,7 +6829,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 38,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -6824,7 +6920,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4
     },
     "skills": [
@@ -6885,7 +6983,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 5
     },
     "skills": [
@@ -6956,7 +7056,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2,
       "ice": -3
@@ -7153,7 +7255,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7183,7 +7287,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7213,7 +7319,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7243,7 +7351,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7273,7 +7383,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7473,7 +7585,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "ice": 1
     },
@@ -7502,7 +7616,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "ice": 1
     },
@@ -7529,7 +7645,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": -3,
       "ice": 1
     },
@@ -7556,7 +7674,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": -3,
       "ice": 1
     },
@@ -7583,7 +7703,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "ice": 1
     },
@@ -7778,7 +7900,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -7805,7 +7929,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -7832,7 +7958,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -7859,7 +7987,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -7886,7 +8016,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -8064,7 +8196,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8092,7 +8226,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8120,7 +8256,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8148,7 +8286,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8176,7 +8316,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8363,7 +8505,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8391,7 +8535,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8419,7 +8565,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8447,7 +8595,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8475,7 +8625,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8667,7 +8819,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -8696,7 +8850,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -8725,7 +8881,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -8754,7 +8912,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -8783,7 +8943,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 42,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -8992,7 +9154,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9023,7 +9187,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9052,7 +9218,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9081,7 +9249,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9112,7 +9282,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9298,7 +9470,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -9326,7 +9500,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -9354,7 +9530,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -9384,7 +9562,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -9414,7 +9594,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -9602,7 +9784,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": -3,
       "thunder": 3
     },
@@ -9629,7 +9813,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": -3,
       "thunder": 3
     },
@@ -9656,7 +9842,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": -3,
       "thunder": 3
     },
@@ -9683,7 +9871,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "thunder": 3
     },
@@ -9712,7 +9902,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "water": -3,
       "thunder": 3
     },
@@ -9892,7 +10084,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -9920,7 +10114,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -9948,7 +10144,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -9976,7 +10174,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -10004,7 +10204,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -10195,7 +10397,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -10233,7 +10437,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -10269,7 +10475,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -10297,7 +10505,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -10335,7 +10545,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -10524,7 +10736,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -10552,7 +10766,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -10580,7 +10796,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -10608,7 +10826,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -10638,7 +10858,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -10817,7 +11039,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 46,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -10845,7 +11069,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -10873,7 +11099,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -10909,7 +11137,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 46,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -10937,7 +11167,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -10998,7 +11230,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 48,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3
     },
     "skills": [
@@ -11059,7 +11293,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 48,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "water": 1,
       "ice": 1,
@@ -11236,7 +11472,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 48,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -3,
       "dragon": 2
@@ -11264,7 +11502,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 48,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -3,
       "dragon": 2
@@ -11292,7 +11532,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 48,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -3,
       "dragon": 2
@@ -11320,7 +11562,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 48,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -3,
       "dragon": 2
@@ -11348,7 +11592,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 48,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "thunder": -3,
       "dragon": 2
@@ -11562,7 +11808,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -11594,7 +11842,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -11624,7 +11874,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 44,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -11654,7 +11906,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -11684,7 +11938,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 44,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -11901,7 +12157,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -11931,7 +12189,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -11969,7 +12229,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -11999,7 +12261,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -12027,7 +12291,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -12216,7 +12482,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -12246,7 +12514,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -12276,7 +12546,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -12306,7 +12578,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -12334,7 +12608,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 50,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -12352,8 +12628,8 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/ingot_greaves_beta_male.png",
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/ingot_greaves_beta_female.png"
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/ingot_greaves_beta_female.png",
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/ingot_greaves_male.png"
     }
   },
   {
@@ -12399,7 +12675,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -12497,7 +12775,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -12533,7 +12813,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -12561,7 +12843,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank2": 2,
+      "slots": {
+        "2": true
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -12577,7 +12861,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/brigade_suit_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/brigade_suit_beta_female.png"
     }
   },
@@ -12589,7 +12872,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -12617,7 +12902,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -12645,7 +12932,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 52,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -12661,7 +12950,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/brigade_boots_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/brigade_boots_beta_female.png"
     }
   },
@@ -12702,7 +12990,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -12812,7 +13102,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 56,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -12887,7 +13179,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -12927,7 +13221,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -12967,7 +13263,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -12999,7 +13297,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 56,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -13029,7 +13329,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -13059,7 +13361,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 56,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -13275,7 +13579,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -13304,7 +13610,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -13333,7 +13641,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -13362,7 +13672,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -13393,7 +13705,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -13612,7 +13926,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -13641,7 +13957,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -13670,7 +13988,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -13699,7 +14019,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -13730,7 +14052,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -13747,8 +14071,8 @@
       }
     ],
     "images": {
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/odogaron_greaves_beta_female.png",
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/odogaron_greaves_male.png"
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/odogaron_greaves_beta_male.png",
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/odogaron_greaves_beta_female.png"
     }
   },
   {
@@ -13956,7 +14280,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -13976,8 +14302,8 @@
       }
     ],
     "images": {
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rathalos_helm_beta_female.png",
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rathalos_helm_male.png"
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rathalos_helm_beta_male.png",
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rathalos_helm_beta_female.png"
     }
   },
   {
@@ -13988,7 +14314,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -14018,7 +14346,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -14050,7 +14380,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -14082,7 +14414,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -14149,7 +14483,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -14175,7 +14511,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rath_soul_mail_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rath_soul_mail_alpha_female.png"
     }
   },
@@ -14187,7 +14522,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -14213,6 +14550,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rath_soul_braces_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rath_soul_braces_alpha_female.png"
     }
   },
@@ -14298,7 +14636,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -14328,7 +14668,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -14346,7 +14688,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rath_soul_mail_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rath_soul_mail_beta_female.png"
     }
   },
@@ -14358,7 +14699,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -14388,7 +14731,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -14418,7 +14763,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -14472,8 +14819,8 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_helm_alpha_male.png",
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_helm_alpha_female.png"
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_helm_alpha_female.png",
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_helm_male.png"
     }
   },
   {
@@ -14508,8 +14855,8 @@
       }
     ],
     "images": {
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_mail_alpha_female.png",
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_mail_male.png"
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_mail_alpha_male.png",
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_mail_alpha_female.png"
     }
   },
   {
@@ -14580,8 +14927,8 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_coil_alpha_male.png",
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_coil_alpha_female.png"
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_coil_alpha_female.png",
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_coil_male.png"
     }
   },
   {
@@ -14616,8 +14963,8 @@
       }
     ],
     "images": {
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_greaves_alpha_female.png",
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_greaves_male.png"
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_greaves_alpha_male.png",
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_greaves_alpha_female.png"
     }
   },
   {
@@ -14628,7 +14975,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -14657,7 +15006,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -14686,7 +15037,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -14715,7 +15068,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -14744,7 +15099,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 54,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -14773,7 +15130,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -14801,7 +15160,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -14902,7 +15263,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -14927,7 +15290,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_nero_greaves_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_nero_greaves_alpha_female.png"
     }
   },
@@ -14939,7 +15301,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -14968,8 +15332,10 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -14998,8 +15364,10 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -15016,6 +15384,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_nero_braces_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_nero_braces_beta_female.png"
     }
   },
@@ -15027,7 +15396,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -15056,7 +15427,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 56,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -15085,7 +15458,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15117,7 +15492,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15146,7 +15523,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15186,7 +15565,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15214,7 +15595,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/uragaan_coil_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/uragaan_coil_alpha_female.png"
     }
   },
@@ -15226,7 +15606,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15256,8 +15638,10 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank3": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "3": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15289,7 +15673,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15319,7 +15705,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15337,6 +15725,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/uragaan_vambraces_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/uragaan_vambraces_beta_female.png"
     }
   },
@@ -15348,8 +15737,10 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15367,7 +15758,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/uragaan_coil_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/uragaan_coil_beta_female.png"
     }
   },
@@ -15379,7 +15769,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 4,
       "water": -3,
       "thunder": 1,
@@ -15409,7 +15801,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -15435,7 +15829,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_helm_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_helm_alpha_female.png"
     }
   },
@@ -15521,7 +15914,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -15547,6 +15942,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_coil_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_coil_alpha_female.png"
     }
   },
@@ -15558,7 +15954,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -15584,6 +15982,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_greaves_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_greaves_alpha_female.png"
     }
   },
@@ -15595,8 +15994,10 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank3": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "3": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -15626,7 +16027,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -15644,6 +16047,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_mail_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_mail_beta_female.png"
     }
   },
@@ -15655,7 +16059,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -15673,7 +16079,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_vambraces_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_vambraces_beta_female.png"
     }
   },
@@ -15685,7 +16090,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -15715,7 +16122,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -15733,7 +16142,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_greaves_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_greaves_beta_female.png"
     }
   },
@@ -15745,7 +16153,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -2
     },
@@ -15782,7 +16192,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -2
     },
@@ -15855,7 +16267,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -2
     },
@@ -15890,7 +16304,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -2
     },
@@ -15927,7 +16343,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 4,
       "water": -2
     },
@@ -15956,7 +16374,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 3,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -2
     },
@@ -15983,7 +16403,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -2
     },
@@ -16000,6 +16422,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/damascus_vambraces_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/damascus_vambraces_beta_female.png"
     }
   },
@@ -16011,7 +16434,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 3,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "water": -2
     },
@@ -16026,7 +16451,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/damascus_coil_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/damascus_coil_beta_female.png"
     }
   },
@@ -16038,7 +16462,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 4,
       "water": -2
     },
@@ -16103,7 +16529,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -16130,7 +16558,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dober_mail_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dober_mail_alpha_female.png"
     }
   },
@@ -16178,7 +16605,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -16243,6 +16672,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dober_greaves_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dober_greaves_alpha_female.png"
     }
   },
@@ -16254,7 +16684,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -16283,7 +16715,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -16314,7 +16748,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -16351,7 +16787,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -16368,7 +16806,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dober_coil_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dober_coil_beta_female.png"
     }
   },
@@ -16380,7 +16817,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 60,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -16411,7 +16850,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 62,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -16488,7 +16929,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -16602,7 +17045,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 62,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -16620,8 +17065,8 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_brain_beta_male.png",
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_brain_beta_female.png"
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_brain_beta_female.png",
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_brain_male.png"
     }
   },
   {
@@ -16632,7 +17077,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 62,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -16650,8 +17097,8 @@
       }
     ],
     "images": {
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_muscle_beta_female.png",
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_muscle_male.png"
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_muscle_beta_male.png",
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_muscle_beta_female.png"
     }
   },
   {
@@ -16662,7 +17109,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -16680,7 +17129,7 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_grip_male.png",
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_grip_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_grip_female.png"
     }
   },
@@ -16692,7 +17141,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -16710,8 +17161,8 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_bowels_beta_male.png",
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_bowels_beta_female.png"
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_bowels_beta_female.png",
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_bowels_male.png"
     }
   },
   {
@@ -16722,7 +17173,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -16742,8 +17195,8 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_heel_beta_male.png",
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_heel_beta_female.png"
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_heel_beta_female.png",
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_heel_male.png"
     }
   },
   {
@@ -16754,7 +17207,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 64,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": -3,
       "water": -1,
       "thunder": -1,
@@ -16773,7 +17228,9 @@
         }
       }
     ],
-    "images": {}
+    "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/skull_mask_alpha_male.png"
+    }
   },
   {
     "id": 558,
@@ -16783,7 +17240,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -16823,7 +17282,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -16849,7 +17310,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_mail_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_mail_alpha_female.png"
     }
   },
@@ -16888,6 +17348,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_vambraces_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_vambraces_alpha_female.png"
     }
   },
@@ -16938,7 +17399,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -16975,7 +17438,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -17004,8 +17469,10 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -17023,7 +17490,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_mail_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_mail_beta_female.png"
     }
   },
@@ -17035,7 +17501,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -17064,7 +17532,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -17084,7 +17554,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_coil_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_coil_beta_female.png"
     }
   },
@@ -17096,7 +17565,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -17190,7 +17661,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -17208,6 +17681,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser_vambraces_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser_vambraces_alpha_female.png"
     }
   },
@@ -17281,6 +17755,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser_greaves_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser_greaves_alpha_female.png"
     }
   },
@@ -17292,7 +17767,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -17321,7 +17798,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -17351,7 +17830,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -17369,6 +17850,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser_vambraces_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser_vambraces_beta_female.png"
     }
   },
@@ -17380,7 +17862,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -17410,7 +17894,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -17468,7 +17954,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_glare_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_glare_alpha_female.png"
     }
   },
@@ -17506,6 +17991,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_cista_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_cista_alpha_female.png"
     }
   },
@@ -17627,7 +18113,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 3,
+      "slots": {
+        "1": true
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -17658,7 +18146,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -17677,7 +18167,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_cista_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_cista_beta_female.png"
     }
   },
@@ -17689,7 +18178,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -17718,7 +18209,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -17737,6 +18230,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_cocoon_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_cocoon_beta_female.png"
     }
   },
@@ -17748,7 +18242,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -17802,6 +18298,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_helm_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_helm_alpha_female.png"
     }
   },
@@ -17813,7 +18310,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -17850,7 +18349,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -17875,7 +18376,9 @@
         "modifiers": []
       }
     ],
-    "images": {}
+    "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_braces_alpha_male.png"
+    }
   },
   {
     "id": 591,
@@ -17885,7 +18388,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -17923,7 +18428,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -17948,7 +18455,9 @@
         "modifiers": []
       }
     ],
-    "images": {}
+    "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_greaves_alpha_male.png"
+    }
   },
   {
     "id": 593,
@@ -17958,7 +18467,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -17988,7 +18499,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -18006,6 +18519,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_mail_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_mail_beta_female.png"
     }
   },
@@ -18017,7 +18531,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 3,
+      "slots": {
+        "1": true
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -18035,6 +18551,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_braces_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_braces_beta_female.png"
     }
   },
@@ -18046,7 +18563,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -18064,6 +18583,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_coil_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal_hazak_coil_beta_female.png"
     }
   },
@@ -18075,7 +18595,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -18296,7 +18818,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -18326,7 +18850,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -18356,7 +18882,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -18388,7 +18916,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 3,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -18418,7 +18948,9 @@
     "rarity": 6,
     "attributes": {
       "defense": 64,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -18448,7 +18980,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18483,7 +19017,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18518,7 +19054,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18553,7 +19091,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18588,7 +19128,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18623,7 +19165,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18650,7 +19194,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18677,7 +19223,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18704,8 +19252,10 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18732,7 +19282,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 72,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": -3,
       "water": 2,
       "thunder": 2,
@@ -18759,7 +19311,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 1
+      "slots": {
+        "1": true
+      }
     },
     "skills": [
       {
@@ -18793,7 +19347,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 1
+      "slots": {
+        "1": true
+      }
     },
     "skills": [
       {
@@ -18825,7 +19381,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 1
+      "slots": {
+        "1": true
+      }
     },
     "skills": [
       {
@@ -18847,9 +19405,7 @@
         "modifiers": []
       }
     ],
-    "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/guild_cross_vambraces_alpha_male.png"
-    }
+    "images": {}
   },
   {
     "id": 621,
@@ -18859,7 +19415,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 1
+      "slots": {
+        "1": true
+      }
     },
     "skills": [
       {
@@ -18879,7 +19437,9 @@
         "modifiers": []
       }
     ],
-    "images": {}
+    "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/guild_cross_coil_alpha_male.png"
+    }
   },
   {
     "id": 622,
@@ -18889,7 +19449,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 1
+      "slots": {
+        "1": true
+      }
     },
     "skills": [
       {
@@ -18923,7 +19485,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 3
+      "slots": {
+        "1": true
+      }
     },
     "skills": [
       {
@@ -18947,7 +19511,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank3": 1
+      "slots": {
+        "3": true
+      }
     },
     "skills": [
       {
@@ -18971,7 +19537,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank3": 1
+      "slots": {
+        "3": true
+      }
     },
     "skills": [
       {
@@ -18993,7 +19561,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank1": 3
+      "slots": {
+        "1": true
+      }
     },
     "skills": [
       {
@@ -19017,7 +19587,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 62,
-      "slotsRank3": 1
+      "slots": {
+        "3": true
+      }
     },
     "skills": [
       {
@@ -19041,7 +19613,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 70,
-      "slotsRank3": 1
+      "slots": {
+        "3": true
+      }
     },
     "skills": [
       {
@@ -19065,7 +19639,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 70,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -19128,7 +19704,6 @@
       }
     ],
     "images": {
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/commission_jacket_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/commission_jacket_alpha_female.png"
     }
   },
@@ -19140,7 +19715,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 70,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -19178,7 +19755,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 70,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -19253,7 +19832,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 70,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -19283,7 +19864,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 70,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -19313,7 +19896,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 70,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -19331,6 +19916,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/commission_vambraces_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/commission_vambraces_beta_female.png"
     }
   },
@@ -19342,7 +19928,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 70,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -19372,7 +19960,9 @@
     "rarity": 8,
     "attributes": {
       "defense": 70,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -19402,8 +19992,10 @@
     "rarity": 5,
     "attributes": {
       "defense": 46,
-      "slotsRank2": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "2": true
+      },
       "fire": 3,
       "water": 2,
       "ice": 2
@@ -19432,7 +20024,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -19472,7 +20066,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -19549,7 +20145,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -19626,8 +20224,10 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank3": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "3": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -19657,7 +20257,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank3": 1,
+      "slots": {
+        "3": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -19687,7 +20289,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank2": 1,
+      "slots": {
+        "2": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -19717,8 +20321,10 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank3": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "3": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -19736,6 +20342,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vangis_coil_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vangis_coil_beta_female.png"
     }
   },
@@ -19747,7 +20354,9 @@
     "rarity": 7,
     "attributes": {
       "defense": 58,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -19777,7 +20386,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 3,
+      "slots": {
+        "1": true
+      },
       "fire": 4,
       "thunder": 4,
       "ice": 2
@@ -20068,7 +20679,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "female",
       "fire": 1,
       "water": 1,
@@ -20096,7 +20709,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "female",
       "fire": 1,
       "water": 1,
@@ -20124,7 +20739,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "female",
       "fire": 1,
       "water": 1,
@@ -20152,7 +20769,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "female",
       "fire": 1,
       "water": 1,
@@ -20180,7 +20799,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 40,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "requiredGender": "female",
       "fire": 1,
       "water": 1,
@@ -20208,8 +20829,10 @@
     "rarity": 5,
     "attributes": {
       "defense": 46,
-      "slotsRank3": 1,
-      "slotsRank1": 1,
+      "slots": {
+        "1": true,
+        "3": true
+      },
       "fire": 2,
       "thunder": 2,
       "ice": 3,
@@ -20235,7 +20858,9 @@
     "rarity": 5,
     "attributes": {
       "defense": 46,
-      "slotsRank1": 2,
+      "slots": {
+        "1": true
+      },
       "water": 4,
       "dragon": 4
     },

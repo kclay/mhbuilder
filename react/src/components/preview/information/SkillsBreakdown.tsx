@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import {Build} from "../../../common";
 import computeSkills from "../../../compute/computeSkills";
 import {SkillItem} from "./SkillItem";
 

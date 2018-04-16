@@ -1,5 +1,6 @@
 import React from 'react'
 import {range} from "../../../utils";
+import {BuildSkill} from "../../../common";
 
 type Props = {
     skill: BuildSkill

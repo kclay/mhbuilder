@@ -1,9 +1,11 @@
 import React from 'react'
+import {Slots} from "../../../common";
 import {assets} from "../../../utils";
 
 type Props = {
     slots: Slots
 }
+
 
 const DecorationSlots = ({slots = []}: Props) => {
 

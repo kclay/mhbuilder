@@ -51,27 +51,73 @@ const transformAttributes = (transform) => {
         return item;
     }
 };
+
+const transformObject = (objectKey, transform, booleanValue = false) => {
+    return (item) => {
+        if (!item.attributes) return item;
+        item.attributes = _.reduce(item.attributes, (acc, value, key) => {
+            const updated = transform(key);
+            const changed = key !== updated;
+            if (changed) {
+                return {...acc, [objectKey]: {...acc[objectKey], [updated]: booleanValue ? true : value}}
+            }
+            return {...acc, [key]: value}
+        }, {});
+        return item;
+    };
+};
+const transformSlots = transformObject('slots', rename(/slotsRank/, ''), true);
+const transformSharpness = transformObject('sharpness', rename(/sharpness/, '', true));
+const transformElement = transformObject('element', rename(/element/, '', true));
+const resolvedImages = {};
 const images = (armor = true) => {
     return async (item) => {
         const lookup = item.name.toLowerCase().replace(/ /g, '_');
-        const base = lookup.replace('_alpha', '').replace('_beta', '');
+        let base = lookup.replace('_alpha', '').replace('_beta', '');
 
-        if (item.name === 'Diablos Mail Alpha') {
-            const a = '';
+        let checks = [];
+        if (armor) {
+            checks = [
+                ['male', `${lookup}_male.png`],
+                ['female', `${lookup}_female.png`],
+                ['male', `${base}_male.png`],
+                ['female', `${base}_female.png`],
+                ['base', `${base}.png`]
+            ]
+        } else {
+            const number = /_([\d])$/;
+            const matched = base.match(number);
+            let version = matched ? parseInt(matched[1]) : 0;
+            checks = [];
+            base = base.replace(number, '');
+            while (version > 0) {
+                checks.push(['base', `${base}_${'i'.repeat(version)}.png`]);
+                version--;
+            }
+            checks.push(
+                ['preview', `${base}_96x96.png`],
+                ['base', `${base}.png`]
+            )
         }
-        const checks = armor ? [
-            ['male', `${lookup}_male.png`],
-            ['female', `${lookup}_female.png`],
-            ['male', `${base}_male.png`],
-            ['female', `${base}_female.png`],
-            ['base', `${base}.png`]
-        ] : [];
+
+
+        const returnValue = (acc, image, name, url) => {
+            if (url) {
+                resolvedImages[image] = url;
+            }
+            return url ? {...acc, [name]: url} : acc;
+        };
+
         item.images = await Promise.reduce(checks, (acc, check) => {
             const [name, image] = check;
             if (acc[name]) return acc;
+            const url = resolvedImages[image];
+            if (url) {
+                return returnValue(acc, image, name, url);
+            }
             return checkImage(image)
                 .then((url) => {
-                    return url ? {...acc, [name]: url} : acc;
+                    return returnValue(acc, image, name, url);
                 })
         }, {});
         return item;
@@ -82,7 +128,7 @@ const images = (armor = true) => {
 const pull = async (name, fn) => {
     const data = await time(`pull(${name})`, fn);
     write(data, name);
-}
+};
 const select = (...fields) => {
     return (item) => {
         return _.pick(item, fields)
@@ -108,13 +154,16 @@ const run = async (name, items, steps) => {
 
 
 };
-const applyRunner = async (endpoint, fields,) => {
+const applyRunner = async (endpoint, fields, armor = true) => {
     const normalize = async (items) => {
         return await Promise.all(run(endpoint, items,
             {
                 fields,
-                transform: transformAttributes(transformResists),
-                images: images()
+                transformAttributes: transformAttributes(transformResists),
+                transformSlots,
+                transformSharpness,
+                transformElement,
+                images: images(armor)
             }
         ));
 
@@ -122,7 +171,7 @@ const applyRunner = async (endpoint, fields,) => {
     };
     return await get(endpoint)
         .then(normalize);
-}
+};
 const armor = async (uri = '') => {
     const fields = select('id', 'name', 'type', 'rank', 'rarity', 'attributes',
         'skills');
@@ -146,7 +195,7 @@ const skills = async () => {
 };
 const weapons = async () => {
     const fields = select('id', 'slug', 'name', 'type', 'rarity', 'attributes');
-    return applyRunner('weapons', fields);
+    return applyRunner('weapons', fields, false);
 };
 
 
@@ -168,7 +217,7 @@ const sync = async (mapping) => {
 
 const sink = time("sync", async () => {
     return sync({
-        armor,
+        //armor,
         weapons,
         //decorations,
         //skills

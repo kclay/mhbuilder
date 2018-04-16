@@ -1,5 +1,6 @@
 import React from 'react'
 import {connect} from "react-redux";
+import {Build, RootState} from "../../../common";
 import {PreviewRow} from "./PreviewRow";
 
 type Props = {
@@ -8,23 +9,21 @@ type Props = {
 export const UnconnectedBuildPreview = ({build}: Props) => {
     const rows = {
         'first-row': [
-            {small: true, kind: 'kinsect'},
+            {small: true, type: 'kinsect'},
             {
-                kind: 'head', item: {
-                slots: {1: true, 3: true}
-            }
+                type: 'head', item: build.head
             },
-            {small: true, kind: 'charm'}
+            {small: true, type: 'charm'}
 
         ],
         'second-row': [
-            {kind: 'weapon'},
-            {kind: 'chest'},
-            {kind: 'hands'}
+            {type: 'weapon'},
+            {type: 'chest', item: build.chest},
+            {type: 'hands', item: build.hands}
         ],
         'third-row': [
-            {kind: 'legs'},
-            {kind: 'waist'}
+            {type: 'legs', item: build.legs},
+            {type: 'waist', item: build.waist}
         ]
     };
 
@@ -36,7 +35,7 @@ export const UnconnectedBuildPreview = ({build}: Props) => {
 };
 const mapStateToProps = (state: RootState) => {
     return {
-        build: state.build
+        build: state.build.current
     }
 };
 const BuildPreview = connect(mapStateToProps)(UnconnectedBuildPreview);

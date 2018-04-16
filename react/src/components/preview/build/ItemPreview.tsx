@@ -1,19 +1,24 @@
 import get from 'lodash/get'
 import React from 'react'
+import {Gear, GearType} from "../../../common";
 import {assets} from "../../../utils";
 import {DecorationSlots} from "./DecorationSlots";
 
 type Props = {
-    item?: Gear | Armor,
-    small: boolean,
-    kind: string
+    item?: Gear,
+    type: GearType,
+    small: boolean
+
 }
-const ItemPreview = ({item, small = false, kind}: Props) => {
+
+const ItemPreview = ({type, item, small = false}: Props) => {
     const classNames = [
         'item-wrapper'
     ];
     if (small) classNames.push('item-small');
-    const image = get(item, 'images.base', assets(`armors/${kind}.png`));
+    const image = get(item, 'images.male',
+        get(item, 'images.base', assets(`armors/${type}.png`))
+    );
 
     return <div className={classNames.join(' ')}>
         <div className="item">

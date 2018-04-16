@@ -3,7 +3,9 @@
  * within your app. Combined with the DevTools/logger, you can see how state and subsequently
  * your UI is being affected.
  */
+import actionCreatorFactory from 'typescript-fsa';
 
+const actionCreator = actionCreatorFactory();
 export const CATCH_ALL = '@@ThunkActionType/catchAll';
 
 export function createCatchAllType(type: string) {
@@ -28,12 +30,14 @@ export function createTypes(type: string) {
     const TYPE_SUCCEEDED = `${type}_SUCCEEDED`;
     const TYPE_FAILED = `${type}_FAILED`;
     const TYPE_ENDED = `${type}_ENDED`;
+    const TYPE_DONE = `${type}_DONE`;
     const TYPE_ALL = createCatchAllType(type);
     return {
         TYPE_START,
         TYPE_SUCCEEDED,
         TYPE_FAILED,
         TYPE_ENDED,
+        TYPE_DONE,
         TYPE_ALL,
     }
 }
@@ -51,13 +55,14 @@ export function createTypes(type: string) {
  * @param type
  * @returns String|ThunkActionType
  */
-function makeThunkActionType(type:string) {
+function makeThunkActionType(type: string) {
     const {
         TYPE_START,
         TYPE_SUCCEEDED,
         TYPE_FAILED,
         TYPE_ENDED,
         TYPE_ALL,
+        TYPE_DONE
     } = createTypes(type);
     return Object.assign(type,
         {
@@ -65,7 +70,10 @@ function makeThunkActionType(type:string) {
             SUCCEEDED: TYPE_SUCCEEDED,
             FAILED: TYPE_FAILED,
             ENDED: TYPE_ENDED,
+            DONE: TYPE_DONE,
             ALL: TYPE_ALL,
+            Creator: {}
+
 
         },
     )
@@ -73,3 +81,10 @@ function makeThunkActionType(type:string) {
 }
 
 export const LOAD_DB = makeThunkActionType('LOAD_DB');
+export const INIT_DB = makeThunkActionType('INIT_DB');
+export const LOAD_BUILD = makeThunkActionType('LOAD_BUILD');
+
+export function creator<T>(type: string) {
+    return actionCreator<T>(type)
+}
+

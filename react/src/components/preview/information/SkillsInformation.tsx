@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import {Build} from "../../../common";
 import {SkillsBreakdown} from "./SkillsBreakdown";
 
 
@@ -9,6 +10,7 @@ const Tabs = {
 type State = {
     tab: string
 }
+
 
 
 export class SkillsInformation extends Component<any, State> {
