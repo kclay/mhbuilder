@@ -5,6 +5,7 @@ const debug = require('debug')('mhbuilder:db');
 const IMAGE_PATH = 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/';
 const fs = require('fs');
 const path = require('path');
+const extraArmorDBUrl = 'https://raw.githubusercontent.com/CarlosFdez/MHWorldData/master/data/armors/armor_data.json';
 const get = async (endpoint) => {
     const url = `https://mhw-db.com/${endpoint}`;
     debug('get - %s', url);
@@ -108,6 +109,17 @@ const transformSlots = transformArray('slots', rename(/slotsRank/, ''), 'rank', 
 const transformSharpness = transformObject('sharpness', rename(/sharpness/, '', true));
 const transformElement = transformArray('element', rename(/element/, '', true), false, false, elementArrayMerger);
 const resolvedImages = {};
+const transformDefense = (item) => {
+    const found = extraArmorDB[item.name];
+    if (found) {
+        item.attributes['defense'] = {
+            base: found.defense_base,
+            max: found.defense_max,
+            augmented: found.defense_augment_max
+        }
+    }
+    return item;
+};
 const images = (armor = true) => {
     return async (item) => {
         const lookup = item.name.toLowerCase().replace(/ /g, '_');
@@ -201,7 +213,8 @@ const applyRunner = async (endpoint, fields, armor = true) => {
                 transformSlots,
                 transformSharpness,
                 transformElement,
-                images: images(armor)
+                images: images(armor),
+                transformDefense
             }
         ));
 
@@ -263,14 +276,20 @@ const sync = async (mapping) => {
     });
 };
 
+let extraArmorDB = {};
 const sink = time("sync", async () => {
-    return sync({
-        armor,
-        weapons,
-        decorations,
-        charms,
-        skills
-    })
+    request.get(extraArmorDBUrl)
+        .then(body => {
+            extraArmorDB = JSON.parse(body);
+            return sync({
+                armor,
+                weapons,
+                decorations,
+                charms,
+                skills
+            })
+        });
+
 });
     
 

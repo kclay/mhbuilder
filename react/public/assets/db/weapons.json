@@ -34,7 +34,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/buster_sword_i.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/buster_sword_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/buster_sword_96x96.png"
     }
   },
   {
@@ -423,7 +424,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/freeze_blade_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/freeze_blade_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/freeze_blade.png"
     }
   },
   {
@@ -871,6 +873,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/lava_blaze_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/lava_blaze.png"
     }
   },
@@ -1568,7 +1571,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/aqua_slasher_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/aqua_slasher_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/aqua_slasher.png"
     }
   },
   {
@@ -1593,6 +1597,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/aqua_slasher_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/aqua_slasher.png"
     }
   },
@@ -1754,8 +1759,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_buster_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_buster.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_buster_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_buster_96x96.png"
     }
   },
   {
@@ -1843,7 +1848,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barroth_shredder_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barroth_shredder_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barroth_shredder.png"
     }
   },
   {
@@ -1905,6 +1911,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/spiked_blade_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/spiked_blade.png"
     }
   },
@@ -2259,6 +2266,7 @@
       "elderseal": "low"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blacksteel_chopper_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blacksteel_chopper.png"
     }
   },
@@ -2318,6 +2326,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/icesteel_edge_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/icesteel_edge.png"
     }
   },
@@ -2411,6 +2420,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wyvern_jawblade_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wyvern_jawblade.png"
     }
   },
@@ -2774,7 +2784,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dazzling_flash_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dazzling_flash_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dazzling_flash.png"
     }
   },
   {
@@ -2931,7 +2942,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/last_dance_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/last_dance_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/last_dance.png"
     }
   },
   {
@@ -3274,8 +3286,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_shotel_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_shotel.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_shotel_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_shotel_96x96.png"
     }
   },
   {
@@ -4440,7 +4452,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/magda_facultas_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/magda_facultas_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/magda_facultas.png"
     }
   },
   {
@@ -4524,6 +4537,7 @@
       "elderseal": "low"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blacksteel_long_sword_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blacksteel_long_sword.png"
     }
   },
@@ -5170,7 +5184,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/master_bang_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/master_bang_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/master_bang.png"
     }
   },
   {
@@ -7427,7 +7442,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/chrome_slicers_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/chrome_slicers_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/chrome_slicers.png"
     }
   },
   {
@@ -8472,6 +8488,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_hatchets_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_hatchets.png"
     }
   },
@@ -8744,7 +8761,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/lava_cyclone_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/lava_cyclone_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/lava_cyclone.png"
     }
   },
   {
@@ -9231,7 +9249,8 @@
       "elderseal": "low"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dragonbone_twinblades_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dragonbone_twinblades_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dragonbone_twinblades.png"
     }
   },
   {
@@ -9961,8 +9980,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/aqua_hammer_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/aqua_hammer.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/aqua_hammer_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/aqua_hammer_96x96.png"
     }
   },
   {
@@ -10807,6 +10826,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_spike_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_spike.png"
     }
   },
@@ -11288,7 +11308,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_sledge_i.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_sledge_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_sledge_96x96.png"
     }
   },
   {
@@ -11465,7 +11486,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_hammer_i.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_hammer_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_hammer_96x96.png"
     }
   },
   {
@@ -12065,6 +12087,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/fortissimo_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/fortissimo.png"
     }
   },
@@ -13195,6 +13218,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/anja_barone_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/anja_barone.png"
     }
   },
@@ -13974,6 +13998,7 @@
       "elderseal": "low"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dragonbone_auldhorn_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dragonbone_auldhorn.png"
     }
   },
@@ -16300,6 +16325,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_myniad_rookslayer_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_myniad_rookslayer.png"
     }
   },
@@ -16353,6 +16379,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/thunderspear_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/thunderspear.png"
     }
   },
@@ -16759,6 +16786,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/chrome_gunlance_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/chrome_gunlance.png"
     }
   },
@@ -16860,6 +16888,7 @@
       "elderseal": "high"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/eradication_flame_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/eradication_flame.png"
     }
   },
@@ -16887,8 +16916,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pulsar_gunlance_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pulsar_gunlance.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pulsar_gunlance_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pulsar_gunlance_96x96.png"
     }
   },
   {
@@ -16977,6 +17006,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kadachi_striker_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kadachi_striker.png"
     }
   },
@@ -17010,6 +17040,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kadachi_striker+_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kadachi_striker+.png"
     }
   },
@@ -17203,6 +17234,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blue_chariot_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blue_chariot.png"
     }
   },
@@ -17230,6 +17262,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/princess_panoply_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/princess_panoply.png"
     }
   },
@@ -17263,6 +17296,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/princess_panoply+_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/princess_panoply+.png"
     }
   },
@@ -17357,8 +17391,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_gunlance_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_gunlance.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_gunlance_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_gunlance_96x96.png"
     }
   },
   {
@@ -17384,8 +17418,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_gunlance_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_gunlance.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_gunlance_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_gunlance_96x96.png"
     }
   },
   {
@@ -18439,8 +18473,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_gunlance_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_gunlance_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_gunlance_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_gunlance.png"
     }
   },
   {
@@ -19026,6 +19060,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/perfected_alloy_axe_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/perfected_alloy_axe.png"
     }
   },
@@ -19839,8 +19874,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_axe_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_axe.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_axe_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_axe_96x96.png"
     }
   },
   {
@@ -20093,8 +20128,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_axe_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_axe.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_axe_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_axe_96x96.png"
     }
   },
   {
@@ -20656,7 +20691,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_semper_tyrannis_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_semper_tyrannis.png"
     }
   },
@@ -20726,6 +20760,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_of_demons_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_of_demons.png"
     }
   },
@@ -20808,6 +20843,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gnashing_flammenbeil_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gnashing_flammenbeil.png"
     }
   },
@@ -21546,8 +21582,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mudslide_blade_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mudslide_blade.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mudslide_blade_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mudslide_blade_96x96.png"
     }
   },
   {
@@ -21916,7 +21952,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatel_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatel.png"
     }
   },
@@ -22280,8 +22315,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_strongarm_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_strongarm.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_strongarm_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_strongarm_96x96.png"
     }
   },
   {
@@ -24387,8 +24422,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_rod_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_rod_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_rod_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_rod.png"
     }
   },
   {
@@ -25495,6 +25530,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/verdant_levin_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/verdant_levin.png"
     }
   },
@@ -29005,7 +29041,8 @@
       "specialAmmo": "Wyvernblast"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/frost_blitz_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/frost_blitz_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/frost_blitz.png"
     }
   },
   {
@@ -30598,8 +30635,8 @@
       "specialAmmo": "Wyvernblast"
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_rifle_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_rifle_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_rifle_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_rifle.png"
     }
   },
   {
@@ -32236,6 +32273,7 @@
       "specialAmmo": "Wyvernblast"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/karma_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/karma.png"
     }
   },
@@ -33565,7 +33603,6 @@
       "specialAmmo": "Wyvernblast"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/cross_bowgun_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/cross_bowgun.png"
     }
   },
@@ -35835,6 +35872,7 @@
       "specialAmmo": "Wyvernheart"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/shattercryst+_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/shattercryst+.png"
     }
   },
@@ -36792,6 +36830,7 @@
       "specialAmmo": "Wyvernheart"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/flammenkanone_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/flammenkanone.png"
     }
   },
@@ -40497,6 +40536,7 @@
       "specialAmmo": "Wyvernsnipe"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/quickquiver_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/quickquiver.png"
     }
   },
@@ -40787,7 +40827,8 @@
       "specialAmmo": "Wyvernheart"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blacksteel_cannon_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blacksteel_cannon_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blacksteel_cannon.png"
     }
   },
   {
@@ -41175,8 +41216,8 @@
       ]
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_bow_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_bow_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_bow_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_bow.png"
     }
   },
   {
@@ -41562,6 +41603,7 @@
       ]
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/brazencord_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/brazencord.png"
     }
   },
@@ -42996,6 +43038,7 @@
       ]
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/icesteel_bow_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/icesteel_bow.png"
     }
   },
@@ -43338,7 +43381,6 @@
       "elderseal": "high"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wrathful_predation_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wrathful_predation.png"
     }
   },
@@ -43455,7 +43497,6 @@
       "elderseal": "high"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/deep_vero_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/deep_vero.png"
     }
   },
@@ -43573,6 +43614,7 @@
       "elderseal": "high"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/insatiable_gunlance_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/insatiable_gunlance.png"
     }
   },

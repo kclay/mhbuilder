@@ -19,7 +19,7 @@ interface Build {
 }
 
 
-export interface BuildState {
+interface BuildState {
     loading: boolean;
     current: Build
 }
@@ -70,13 +70,19 @@ type GearAttributes = {
 }
 
 interface ArmorAttributes extends GearAttributes {
-    defense?: number;
+    defense: ArmorDefense;
     fire?: number;
     water?: number;
     ice?: number;
     dragon?: number;
 
 
+}
+
+interface ArmorDefense {
+    base: number;
+    max: number;
+    augmented: number;
 }
 
 
@@ -134,6 +140,7 @@ interface BuildSkill {
     image: string,
     points: number,
     max: number,
-    completed:boolean
+    completed: boolean
 
 }
+

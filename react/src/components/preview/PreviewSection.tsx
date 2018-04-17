@@ -1,12 +1,18 @@
 import React from 'react'
 import {BuildPreview} from "./build/BuildPreview";
-import {PreviewInformation} from "./skill/PreviewInformation";
+import {SkillsInformation} from "./skill/SkillsInformation";
+import {StatusOverview} from "./status/StatusOverview";
 
 const PreviewSection = (props: any) => {
     return <section className="preview-section">
         <div className="container preview-container">
             <BuildPreview/>
-            <PreviewInformation/>
+            <div className="preview-informations">
+                <SkillsInformation/>
+                <StatusOverview/>
+            </div>
+
+
         </div>
     </section>
 };

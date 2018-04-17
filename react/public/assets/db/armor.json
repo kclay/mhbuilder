@@ -6,7 +6,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "fire": 2
     },
     "skills": [
@@ -32,7 +36,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "fire": 2
     },
     "skills": [],
@@ -48,7 +56,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "fire": 2
     },
     "skills": [],
@@ -64,7 +76,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "fire": 2
     },
     "skills": [],
@@ -80,7 +96,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "fire": 2
     },
     "skills": [],
@@ -96,7 +116,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "water": 2
     },
     "skills": [
@@ -122,7 +146,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "water": 2
     },
     "skills": [],
@@ -138,7 +166,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "water": 2
     },
     "skills": [],
@@ -154,7 +186,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "water": 2
     },
     "skills": [],
@@ -170,7 +206,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 2,
+      "defense": {
+        "base": 2,
+        "max": 38,
+        "augmented": 68
+      },
       "water": 2
     },
     "skills": [],
@@ -186,7 +226,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "water": 2
     },
@@ -210,7 +254,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "water": 2
     },
@@ -234,7 +282,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "water": 2
     },
@@ -258,7 +310,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "water": 2
     },
@@ -282,7 +338,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "water": 2
     },
@@ -306,7 +366,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -336,7 +400,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -366,7 +434,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -394,7 +466,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -422,7 +498,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 6,
+      "defense": {
+        "base": 6,
+        "max": 42,
+        "augmented": 72
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -450,7 +530,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -480,7 +564,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -510,7 +598,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -540,7 +632,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -570,7 +666,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -600,7 +700,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 12,
+      "defense": {
+        "base": 12,
+        "max": 48,
+        "augmented": 78
+      },
       "fire": 4
     },
     "skills": [
@@ -626,7 +730,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 12,
+      "defense": {
+        "base": 12,
+        "max": 48,
+        "augmented": 78
+      },
       "water": 5
     },
     "skills": [
@@ -652,7 +760,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -682,7 +794,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -712,7 +828,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -742,7 +862,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -772,7 +896,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 44,
+        "augmented": 74
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -802,7 +930,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 10,
+      "defense": {
+        "base": 10,
+        "max": 46,
+        "augmented": 76
+      },
       "water": -3,
       "ice": 1
     },
@@ -830,7 +962,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 10,
+      "defense": {
+        "base": 10,
+        "max": 46,
+        "augmented": 76
+      },
       "water": -3,
       "ice": 1
     },
@@ -857,7 +993,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 10,
+      "defense": {
+        "base": 10,
+        "max": 46,
+        "augmented": 76
+      },
       "water": -3,
       "ice": 1
     },
@@ -884,7 +1024,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 10,
+      "defense": {
+        "base": 10,
+        "max": 46,
+        "augmented": 76
+      },
       "water": -3,
       "ice": 1
     },
@@ -911,7 +1055,11 @@
     "rank": "low",
     "rarity": 1,
     "attributes": {
-      "defense": 10,
+      "defense": {
+        "base": 10,
+        "max": 46,
+        "augmented": 76
+      },
       "water": -3,
       "ice": 1
     },
@@ -940,7 +1088,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 40,
+        "augmented": 66
+      },
       "fire": -2,
       "water": 1,
       "thunder": -2,
@@ -970,7 +1122,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 40,
+        "augmented": 66
+      },
       "fire": -2,
       "water": 1,
       "thunder": -2,
@@ -1002,7 +1158,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 40,
+        "augmented": 66
+      },
       "fire": -2,
       "water": 1,
       "thunder": -2,
@@ -1034,7 +1194,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 40,
+        "augmented": 66
+      },
       "fire": -2,
       "water": 1,
       "thunder": -2,
@@ -1064,7 +1228,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 8,
+      "defense": {
+        "base": 8,
+        "max": 40,
+        "augmented": 66
+      },
       "fire": -2,
       "water": 1,
       "thunder": -2,
@@ -1094,7 +1262,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 12,
+      "defense": {
+        "base": 12,
+        "max": 44,
+        "augmented": 70
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -1122,7 +1294,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 12,
+      "defense": {
+        "base": 12,
+        "max": 44,
+        "augmented": 70
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -1150,7 +1326,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 12,
+      "defense": {
+        "base": 12,
+        "max": 44,
+        "augmented": 70
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -1178,7 +1358,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 12,
+      "defense": {
+        "base": 12,
+        "max": 44,
+        "augmented": 70
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -1206,7 +1390,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 12,
+      "defense": {
+        "base": 12,
+        "max": 44,
+        "augmented": 70
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -1234,7 +1422,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 38,
+        "augmented": 72
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -1263,7 +1455,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 38,
+        "augmented": 72
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -1292,7 +1488,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 38,
+        "augmented": 72
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -1321,7 +1521,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 38,
+        "augmented": 72
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -1350,7 +1554,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 38,
+        "augmented": 72
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -1378,7 +1586,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 46,
+        "augmented": 72
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -1406,7 +1618,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 46,
+        "augmented": 72
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -1434,7 +1650,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 46,
+        "augmented": 72
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -1464,7 +1684,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 46,
+        "augmented": 72
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -1494,7 +1718,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 14,
+      "defense": {
+        "base": 14,
+        "max": 46,
+        "augmented": 72
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -1522,7 +1750,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 16,
+      "defense": {
+        "base": 16,
+        "max": 48,
+        "augmented": 74
+      },
       "water": -3,
       "thunder": 3
     },
@@ -1549,7 +1781,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 16,
+      "defense": {
+        "base": 16,
+        "max": 48,
+        "augmented": 74
+      },
       "water": -3,
       "thunder": 3
     },
@@ -1576,7 +1812,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 16,
+      "defense": {
+        "base": 16,
+        "max": 48,
+        "augmented": 74
+      },
       "water": -3,
       "thunder": 3
     },
@@ -1603,7 +1843,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 16,
+      "defense": {
+        "base": 16,
+        "max": 48,
+        "augmented": 74
+      },
       "water": -3,
       "thunder": 3
     },
@@ -1632,7 +1876,11 @@
     "rank": "low",
     "rarity": 2,
     "attributes": {
-      "defense": 16,
+      "defense": {
+        "base": 16,
+        "max": 48,
+        "augmented": 74
+      },
       "water": -3,
       "thunder": 3
     },
@@ -1661,7 +1909,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -1691,7 +1943,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -1719,7 +1975,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -1748,7 +2008,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -1776,7 +2040,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -1804,7 +2072,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -1833,7 +2105,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -1862,7 +2138,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -1891,7 +2171,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -1920,7 +2204,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -1949,7 +2237,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -1978,7 +2270,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -2007,7 +2303,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -2036,7 +2336,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -2065,7 +2369,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -2094,7 +2402,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2,
       "ice": -3
@@ -2122,7 +2434,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -2150,7 +2466,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -2177,7 +2497,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -2205,7 +2529,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -2233,7 +2561,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -2263,7 +2595,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -2294,7 +2630,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -2323,7 +2663,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -2352,7 +2696,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -2383,7 +2731,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -2412,7 +2764,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -2442,7 +2798,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -2470,7 +2830,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -2498,7 +2862,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -2526,7 +2894,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 22,
+      "defense": {
+        "base": 22,
+        "max": 50,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -2554,7 +2926,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -2581,7 +2957,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -2608,7 +2988,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -2635,7 +3019,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -2662,7 +3050,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 18,
+      "defense": {
+        "base": 18,
+        "max": 46,
+        "augmented": 70
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -2689,7 +3081,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -2717,7 +3113,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -2745,7 +3145,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -2773,7 +3177,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -2801,7 +3209,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -2829,7 +3241,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -2857,7 +3273,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -2885,7 +3305,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -2913,7 +3337,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -2941,7 +3369,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 20,
+      "defense": {
+        "base": 20,
+        "max": 48,
+        "augmented": 72
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -2969,7 +3401,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 24,
+      "defense": {
+        "base": 24,
+        "max": 52,
+        "augmented": 76
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -2997,7 +3433,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 24,
+      "defense": {
+        "base": 24,
+        "max": 52,
+        "augmented": 76
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -3025,7 +3465,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 24,
+      "defense": {
+        "base": 24,
+        "max": 52,
+        "augmented": 76
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -3053,7 +3497,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 24,
+      "defense": {
+        "base": 24,
+        "max": 52,
+        "augmented": 76
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -3081,7 +3529,11 @@
     "rank": "low",
     "rarity": 3,
     "attributes": {
-      "defense": 24,
+      "defense": {
+        "base": 24,
+        "max": 52,
+        "augmented": 76
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -3109,7 +3561,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -3139,7 +3595,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -3169,7 +3629,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -3199,7 +3663,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -3227,7 +3695,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -3257,7 +3729,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -3287,7 +3763,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -3317,7 +3797,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -3347,7 +3831,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -3377,7 +3865,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -3406,7 +3898,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -3433,7 +3929,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -3460,7 +3960,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -3487,7 +3991,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -3514,7 +4022,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 28,
+      "defense": {
+        "base": 28,
+        "max": 52,
+        "augmented": 72
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -3541,7 +4053,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -3570,7 +4086,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -3599,7 +4119,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -3628,7 +4152,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -3659,7 +4187,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -3690,7 +4222,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -3719,7 +4255,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -3748,7 +4288,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -3777,7 +4321,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -3808,7 +4356,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -3837,7 +4389,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -3869,7 +4425,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -3898,7 +4458,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -3930,7 +4494,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -3962,7 +4530,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 30,
+      "defense": {
+        "base": 30,
+        "max": 54,
+        "augmented": 74
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -3992,7 +4564,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -4021,7 +4597,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -4050,7 +4630,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -4079,7 +4663,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -4108,7 +4696,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 56,
+        "augmented": 76
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -4137,7 +4729,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 34,
+      "defense": {
+        "base": 34,
+        "max": 58,
+        "augmented": 78
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -4167,7 +4763,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 34,
+      "defense": {
+        "base": 34,
+        "max": 58,
+        "augmented": 78
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -4197,7 +4797,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 34,
+      "defense": {
+        "base": 34,
+        "max": 58,
+        "augmented": 78
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -4227,7 +4831,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 34,
+      "defense": {
+        "base": 34,
+        "max": 58,
+        "augmented": 78
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -4259,7 +4867,11 @@
     "rank": "low",
     "rarity": 4,
     "attributes": {
-      "defense": 34,
+      "defense": {
+        "base": 34,
+        "max": 58,
+        "augmented": 78
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -4291,7 +4903,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "fire": 2
     },
     "skills": [
@@ -4317,7 +4933,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "fire": 2
     },
     "skills": [
@@ -4345,7 +4965,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "fire": 2
     },
     "skills": [
@@ -4371,7 +4995,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "fire": 2
     },
     "skills": [
@@ -4397,7 +5025,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "fire": 2
     },
     "skills": [
@@ -4423,7 +5055,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4454,7 +5090,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4475,7 +5115,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4496,7 +5140,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4517,7 +5165,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4538,7 +5190,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "water": 2
     },
     "skills": [
@@ -4573,7 +5229,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "water": 2
     },
     "skills": [
@@ -4601,7 +5261,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "water": 2
     },
     "skills": [
@@ -4627,7 +5291,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "water": 2
     },
     "skills": [
@@ -4653,7 +5321,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "water": 2
     },
     "skills": [
@@ -4679,7 +5351,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4710,7 +5386,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4731,7 +5411,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4752,7 +5436,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4773,7 +5461,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 32,
+      "defense": {
+        "base": 32,
+        "max": 54,
+        "augmented": 70
+      },
       "slots": [
         {
           "rank": "1"
@@ -4794,7 +5486,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2
     },
@@ -4827,7 +5523,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2
     },
@@ -4851,7 +5551,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2
     },
@@ -4875,7 +5579,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2
     },
@@ -4908,7 +5616,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "water": 2
     },
@@ -4941,7 +5653,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -4970,7 +5686,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -4999,7 +5719,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5028,7 +5752,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5057,7 +5785,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5086,7 +5818,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5125,7 +5861,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5155,7 +5895,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5194,7 +5938,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5231,7 +5979,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": 2,
       "thunder": 2,
       "dragon": 2
@@ -5259,7 +6011,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5294,7 +6050,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5329,7 +6089,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5362,7 +6126,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5395,7 +6163,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5428,7 +6200,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5467,7 +6243,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5497,7 +6277,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5536,7 +6320,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5575,7 +6363,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "fire": -2,
       "thunder": -2,
       "ice": -2
@@ -5603,7 +6395,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5636,7 +6432,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5671,7 +6471,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5706,7 +6510,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5739,7 +6547,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 36,
+      "defense": {
+        "base": 36,
+        "max": 58,
+        "augmented": 74
+      },
       "slots": [
         {
           "rank": "1"
@@ -5772,7 +6584,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5810,7 +6626,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "requiredGender": "male",
       "fire": -1,
       "water": -1,
@@ -5848,7 +6668,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -5891,7 +6715,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -5934,7 +6762,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -5977,7 +6809,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -6011,7 +6847,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -6045,7 +6885,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "2"
@@ -6082,7 +6926,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "2"
@@ -6119,7 +6967,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "2"
@@ -6156,7 +7008,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6194,7 +7050,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6232,7 +7092,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6270,7 +7134,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6308,7 +7176,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "requiredGender": "female",
       "fire": -1,
       "water": -1,
@@ -6346,7 +7218,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -6380,7 +7256,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -6414,7 +7294,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "2"
@@ -6451,7 +7335,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "2"
@@ -6488,7 +7376,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "2"
@@ -6525,7 +7417,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6564,7 +7460,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6594,7 +7494,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6624,7 +7528,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6654,7 +7562,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -2,
       "water": 1,
       "thunder": 1,
@@ -6693,7 +7605,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -6728,7 +7644,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -6763,7 +7683,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -6798,7 +7722,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -6833,7 +7761,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -6868,7 +7800,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -6905,7 +7841,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -6942,7 +7882,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -6979,7 +7923,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -7016,7 +7964,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "fire": -1,
       "water": -1,
       "dragon": 2
@@ -7055,7 +8007,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -7088,7 +8044,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -7121,7 +8081,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -7154,7 +8118,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -7187,7 +8155,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 38,
+      "defense": {
+        "base": 38,
+        "max": 60,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -7249,7 +8221,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "fire": 4
     },
     "skills": [
@@ -7284,7 +8260,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -7315,7 +8295,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": 5
     },
     "skills": [
@@ -7352,7 +8336,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -7394,7 +8382,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "fire": 2,
       "water": 2,
       "ice": -3
@@ -7431,7 +8423,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -7464,7 +8460,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7494,7 +8494,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7524,7 +8528,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7563,7 +8571,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7602,7 +8614,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "fire": -2,
       "water": 2,
       "thunder": -1,
@@ -7641,7 +8657,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -7676,7 +8696,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -7711,7 +8735,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -7746,7 +8774,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -7781,7 +8813,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -7816,7 +8852,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "ice": 1
     },
@@ -7854,7 +8894,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "ice": 1
     },
@@ -7892,7 +8936,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "ice": 1
     },
@@ -7930,7 +8978,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "ice": 1
     },
@@ -7957,7 +9009,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "ice": 1
     },
@@ -7995,7 +9051,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8029,7 +9089,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8061,7 +9125,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "2"
@@ -8093,7 +9161,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "2"
@@ -8125,7 +9197,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8159,7 +9235,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -8195,7 +9275,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -8233,7 +9317,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -8269,7 +9357,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -8307,7 +9399,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "thunder": -3,
       "ice": -2
     },
@@ -8334,7 +9430,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8366,7 +9466,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8398,7 +9502,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8430,7 +9538,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "2"
@@ -8462,7 +9574,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8494,7 +9610,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8531,7 +9651,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8559,7 +9683,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8587,7 +9715,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8624,7 +9756,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "water": -3,
       "thunder": 2,
       "dragon": 1
@@ -8652,7 +9788,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8685,7 +9825,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8718,7 +9862,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8751,7 +9899,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8784,7 +9936,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 40,
+      "defense": {
+        "base": 40,
+        "max": 62,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -8817,7 +9973,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8845,7 +10005,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8882,7 +10046,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8919,7 +10087,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8947,7 +10119,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "water": 3,
       "thunder": -3,
       "dragon": 1
@@ -8984,7 +10160,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -9017,7 +10197,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -9050,7 +10234,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -9083,7 +10271,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -9116,7 +10308,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "2"
@@ -9149,7 +10345,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -9178,7 +10378,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -9207,7 +10411,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -9245,7 +10453,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -9283,7 +10495,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "fire": -3,
       "water": -1,
       "thunder": 3,
@@ -9321,7 +10537,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -9355,7 +10575,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -9389,7 +10613,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -9423,7 +10651,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "2"
@@ -9457,7 +10689,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 42,
+      "defense": {
+        "base": 42,
+        "max": 64,
+        "augmented": 80
+      },
       "slots": [
         {
           "rank": "1"
@@ -9491,7 +10727,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9533,7 +10773,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9571,7 +10815,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9611,7 +10859,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9651,7 +10903,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": 3,
       "water": -3,
       "thunder": -1,
@@ -9680,7 +10936,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -9716,7 +10976,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -9750,7 +11014,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -9784,7 +11052,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -9820,7 +11092,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -9854,7 +11130,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -9882,7 +11162,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -9921,7 +11205,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -9960,7 +11248,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -9990,7 +11282,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3
@@ -10018,7 +11314,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10051,7 +11351,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10084,7 +11388,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10119,7 +11427,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10154,7 +11466,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -10187,7 +11503,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "water": -3,
       "thunder": 3
     },
@@ -10214,7 +11534,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "water": -3,
       "thunder": 3
     },
@@ -10250,7 +11574,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "water": -3,
       "thunder": 3
     },
@@ -10277,7 +11605,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "water": -3,
       "thunder": 3
     },
@@ -10317,7 +11649,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "water": -3,
       "thunder": 3
     },
@@ -10355,7 +11691,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -10387,7 +11727,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -10419,7 +11763,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -10451,7 +11799,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10485,7 +11837,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10519,7 +11875,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -10547,7 +11907,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -10584,7 +11948,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -10612,7 +11980,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -10640,7 +12012,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "fire": -3,
       "water": 2,
       "ice": 1
@@ -10677,7 +12053,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -10710,7 +12090,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10743,7 +12127,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10776,7 +12164,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10809,7 +12201,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 66,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -10842,7 +12238,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -10881,7 +12281,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -10918,7 +12322,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -10946,7 +12354,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -10985,7 +12397,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "fire": 2,
       "thunder": -2,
       "dragon": -3
@@ -11013,7 +12429,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -11057,7 +12477,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -11099,7 +12523,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -11132,7 +12560,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -11176,7 +12608,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -11209,7 +12645,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -11246,7 +12686,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -11274,7 +12718,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -11302,7 +12750,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -11341,7 +12793,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "fire": 3,
       "thunder": -3,
       "dragon": -4
@@ -11378,7 +12834,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -11411,7 +12871,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -11444,7 +12908,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -11477,7 +12945,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -11512,7 +12984,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -11545,7 +13021,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -11573,7 +13053,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -11610,7 +13094,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -11647,7 +13135,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -11675,7 +13167,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "water": 2,
       "ice": -1,
       "dragon": -2
@@ -11703,7 +13199,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "2"
@@ -11736,7 +13236,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -11769,7 +13273,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -11811,7 +13319,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "2"
@@ -11844,7 +13356,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 66,
+        "augmented": 78
+      },
       "slots": [
         {
           "rank": "1"
@@ -11877,7 +13393,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "fire": 3
     },
     "skills": [
@@ -11912,7 +13432,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -11942,7 +13466,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "fire": 1,
       "water": 1,
       "ice": 1,
@@ -11980,7 +13508,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -12014,7 +13546,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "fire": 2,
       "thunder": -3,
       "dragon": 2
@@ -12042,7 +13578,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "fire": 2,
       "thunder": -3,
       "dragon": 2
@@ -12070,7 +13610,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "fire": 2,
       "thunder": -3,
       "dragon": 2
@@ -12098,7 +13642,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "fire": 2,
       "thunder": -3,
       "dragon": 2
@@ -12169,7 +13717,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -12202,7 +13754,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -12235,7 +13791,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -12268,7 +13828,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -12301,7 +13865,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 48,
+      "defense": {
+        "base": 48,
+        "max": 70,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -12334,7 +13902,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -12375,7 +13947,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -12413,7 +13989,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -12452,7 +14032,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -12491,7 +14075,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "fire": 4,
       "water": -3,
       "thunder": -1,
@@ -12530,7 +14118,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -12567,7 +14159,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "2"
@@ -12602,7 +14198,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "1"
@@ -12637,7 +14237,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "2"
@@ -12672,7 +14276,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 44,
+      "defense": {
+        "base": 44,
+        "max": 64,
+        "augmented": 76
+      },
       "slots": [
         {
           "rank": "2"
@@ -12707,7 +14315,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -12746,7 +14358,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -12785,7 +14401,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -12826,7 +14446,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -12865,7 +14489,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "water": -1,
       "thunder": -2,
       "ice": 3
@@ -12904,7 +14532,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -12939,7 +14571,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -12983,7 +14619,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -13018,7 +14658,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -13051,7 +14695,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -13084,7 +14732,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -13114,7 +14766,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -13144,7 +14800,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -13185,7 +14845,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -13213,7 +14877,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "fire": -2,
       "thunder": 3,
       "ice": -1
@@ -13252,7 +14920,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -13287,7 +14959,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -13322,7 +14998,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -13357,7 +15037,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "3"
@@ -13390,7 +15074,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 50,
+      "defense": {
+        "base": 50,
+        "max": 70,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -13425,7 +15113,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -13462,7 +15154,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -13495,7 +15191,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -13532,7 +15232,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "fire": 1,
       "thunder": 2,
       "dragon": 2
@@ -13569,7 +15273,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -13611,7 +15319,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -13644,7 +15356,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -13677,7 +15393,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -13710,7 +15430,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -13743,7 +15467,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 52,
+      "defense": {
+        "base": 52,
+        "max": 72,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "3"
@@ -13776,7 +15504,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -13806,7 +15538,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "1"
@@ -13843,7 +15579,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -13884,7 +15624,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -13925,7 +15669,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "2"
@@ -13969,7 +15717,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -14008,7 +15760,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "1"
@@ -14054,7 +15810,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "1"
@@ -14100,7 +15860,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "1"
@@ -14137,7 +15901,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "3"
@@ -14172,7 +15940,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "1"
@@ -14207,7 +15979,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 76,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "2"
@@ -14242,7 +16018,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -14282,7 +16062,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -14320,7 +16104,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -14358,7 +16146,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -14398,7 +16190,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": -1,
       "water": 2,
       "thunder": -3,
@@ -14438,7 +16234,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -14472,7 +16272,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -14506,7 +16310,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -14540,7 +16348,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -14576,7 +16388,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -14612,7 +16428,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -14652,7 +16472,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -14690,7 +16514,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -14730,7 +16558,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -14770,7 +16602,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 2,
       "water": 2,
       "thunder": -2,
@@ -14810,7 +16646,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -14844,7 +16684,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -14878,7 +16722,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -14912,7 +16760,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -14948,7 +16800,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -14982,7 +16838,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -15025,7 +16885,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -15066,7 +16930,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -15109,7 +16977,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -15150,7 +17022,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": 1,
       "thunder": -2,
@@ -15189,7 +17065,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -15226,7 +17106,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -15261,7 +17145,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -15298,7 +17186,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -15335,7 +17227,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -15370,7 +17266,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -15409,7 +17309,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -15453,7 +17357,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -15497,7 +17405,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -15536,7 +17448,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "fire": 3,
       "water": 2,
       "thunder": 2,
@@ -15575,7 +17491,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -15610,7 +17530,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -15645,7 +17569,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -15680,7 +17608,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "3"
@@ -15715,7 +17647,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -15750,7 +17686,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -15788,7 +17728,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -15826,7 +17770,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -15864,7 +17812,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -15902,7 +17854,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "fire": 3,
       "water": -2,
       "ice": -3,
@@ -15940,7 +17896,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -15974,7 +17934,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -16008,7 +17972,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -16042,7 +18010,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -16076,7 +18048,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 54,
+      "defense": {
+        "base": 54,
+        "max": 74,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -16110,7 +18086,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -16144,7 +18124,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -16178,7 +18162,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -16216,7 +18204,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "fire": 2,
       "water": -3,
       "ice": -4,
@@ -16254,7 +18246,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -16297,7 +18293,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "3"
@@ -16331,7 +18331,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -16368,7 +18372,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -16405,7 +18413,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -16439,7 +18451,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 56,
+      "defense": {
+        "base": 56,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "2"
@@ -16473,7 +18489,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -16510,7 +18530,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -16545,7 +18569,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -16591,7 +18619,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -16637,7 +18669,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -16672,7 +18708,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -16712,7 +18752,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -16747,7 +18791,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -16782,7 +18830,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -16820,7 +18872,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -16855,7 +18911,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -16899,7 +18959,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -16938,7 +19002,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": 3,
       "water": 1,
       "thunder": -4,
@@ -16977,7 +19045,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -17021,7 +19093,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -17065,7 +19141,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "3"
@@ -17103,7 +19183,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -17138,7 +19222,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "3"
@@ -17173,7 +19261,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "3"
@@ -17208,7 +19300,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 58,
+      "defense": {
+        "base": 58,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "3"
@@ -17243,7 +19339,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17286,7 +19386,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17329,7 +19433,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "fire": 4,
       "water": -2
     },
@@ -17367,7 +19475,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17408,7 +19520,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17451,7 +19567,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -17485,7 +19605,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17517,7 +19641,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17551,7 +19679,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17583,7 +19715,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -17617,7 +19753,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -17655,7 +19795,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17700,7 +19844,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -17738,7 +19886,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "2"
@@ -17783,7 +19935,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "fire": -2,
       "thunder": -1,
       "ice": -1,
@@ -17823,7 +19979,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17857,7 +20017,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -17893,7 +20057,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -17936,7 +20104,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "3"
@@ -17970,7 +20142,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 60,
+      "defense": {
+        "base": 60,
+        "max": 72,
+        "augmented": 86
+      },
       "slots": [
         {
           "rank": "1"
@@ -18006,7 +20182,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "2"
@@ -18052,7 +20232,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -18091,7 +20275,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "1"
@@ -18135,7 +20323,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -18174,7 +20366,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "fire": 3,
       "water": 2,
       "thunder": -2,
@@ -18215,7 +20411,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "3"
@@ -18250,7 +20450,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "3"
@@ -18285,7 +20489,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "1"
@@ -18320,7 +20528,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "1"
@@ -18355,7 +20567,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 74,
+        "augmented": 88
+      },
       "slots": [
         {
           "rank": "1"
@@ -18392,7 +20608,11 @@
     "rank": "high",
     "rarity": 7,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "2"
@@ -18428,7 +20648,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -18474,7 +20698,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -18518,7 +20746,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -18559,7 +20791,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": 1,
       "water": 1,
       "thunder": -3,
@@ -18600,7 +20836,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -18644,7 +20884,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -18679,7 +20923,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -18717,7 +20965,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -18751,7 +21003,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -18788,7 +21044,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -18823,7 +21083,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -18853,7 +21117,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -18892,7 +21160,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -18927,7 +21199,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -18966,7 +21242,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": 3,
       "water": -3,
       "thunder": 1,
@@ -19005,7 +21285,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -19040,7 +21324,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19075,7 +21363,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "3"
@@ -19110,7 +21402,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -19145,7 +21441,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19180,7 +21480,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -19222,7 +21526,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -19262,7 +21570,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -19302,7 +21614,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -19342,7 +21658,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "water": 2,
       "thunder": -3,
       "ice": 4,
@@ -19381,7 +21701,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19417,7 +21741,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
@@ -19453,7 +21781,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "3"
@@ -19487,7 +21819,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19523,7 +21859,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "3"
@@ -19557,7 +21897,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": -4,
       "water": 4,
       "thunder": 1,
@@ -19596,7 +21940,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19640,7 +21988,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19683,7 +22035,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19727,7 +22083,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19770,7 +22130,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19805,7 +22169,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19840,7 +22208,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19875,7 +22247,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19910,7 +22286,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -19945,7 +22325,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -19984,7 +22368,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -20025,7 +22413,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -20066,7 +22458,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -20105,7 +22501,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "fire": -3,
       "water": -2,
       "thunder": 4,
@@ -20146,7 +22546,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -20181,7 +22585,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -20216,7 +22624,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -20253,7 +22665,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -20288,7 +22704,11 @@
     "rank": "high",
     "rarity": 6,
     "attributes": {
-      "defense": 64,
+      "defense": {
+        "base": 64,
+        "max": 70,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "1"
@@ -20323,7 +22743,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "1"
@@ -20364,7 +22788,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "1"
@@ -20405,7 +22833,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "1"
@@ -20446,7 +22878,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "3"
@@ -20487,7 +22923,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "1"
@@ -20528,7 +22968,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "2"
@@ -20560,7 +23004,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "1"
@@ -20592,7 +23040,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "3"
@@ -20624,7 +23076,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "2"
@@ -20659,7 +23115,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 72,
+      "defense": {
+        "base": 72,
+        "max": 78,
+        "augmented": 92
+      },
       "slots": [
         {
           "rank": "1"
@@ -20691,7 +23151,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -20731,7 +23195,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -20769,7 +23237,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -20809,7 +23281,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -20847,7 +23323,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -20887,7 +23367,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -20916,7 +23400,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "3"
@@ -20945,7 +23433,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "3"
@@ -20972,7 +23464,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "1"
@@ -21001,7 +23497,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 62,
+      "defense": {
+        "base": 62,
+        "max": 68,
+        "augmented": 82
+      },
       "slots": [
         {
           "rank": "3"
@@ -21030,7 +23530,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "3"
@@ -21059,7 +23563,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "1"
@@ -21103,7 +23611,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -21142,7 +23654,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "1"
@@ -21186,7 +23702,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "1"
@@ -21230,7 +23750,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "fire": 2,
       "water": 2,
       "thunder": 2,
@@ -21269,7 +23793,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "2"
@@ -21304,7 +23832,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "1"
@@ -21339,7 +23871,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "2"
@@ -21374,7 +23910,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "2"
@@ -21409,7 +23949,11 @@
     "rank": "high",
     "rarity": 8,
     "attributes": {
-      "defense": 70,
+      "defense": {
+        "base": 70,
+        "max": 76,
+        "augmented": 90
+      },
       "slots": [
         {
           "rank": "2"
@@ -21444,7 +23988,11 @@
     "rank": "high",
     "rarity": 5,
     "attributes": {
-      "defense": 46,
+      "defense": {
+        "base": 46,
+        "max": 68,
+        "augmented": 84
+      },
       "slots": [
         {
           "rank": "2"
