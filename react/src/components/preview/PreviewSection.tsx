@@ -1,6 +1,6 @@
 import React from 'react'
 import {BuildPreview} from "./build/BuildPreview";
-import {PreviewInformation} from "./information/PreviewInformation";
+import {PreviewInformation} from "./skill/PreviewInformation";
 
 const PreviewSection = (props: any) => {
     return <section className="preview-section">
