@@ -1,21 +1,20 @@
 import React from 'react'
-import {Slots} from "../../../common";
+import {Slot} from "../../../common";
 import {assets} from "../../../utils";
 
 type Props = {
-    slots: Slots
+    slots: Slot[]
 }
 
 
 const DecorationSlots = ({slots = []}: Props) => {
 
-
     return <div className="item-decoration-slots">
         <ul>
-            {[1, 2, 3].map(slot => {
-                return slots[slot] ?
-                    <li key={slot}><img src={assets(`decorations/gem_level_${slot}.png`)}
-                                        alt=""/></li>
+            {slots.map(slot => {
+                return slot.rank ?
+                    <li key={`slot-${slot.rank}`}><img src={assets(`decorations/gem_level_${slot.rank}.png`)}
+                                                       alt=""/></li>
                     : null;
 
             })}

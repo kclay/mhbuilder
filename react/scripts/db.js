@@ -12,6 +12,7 @@ const get = async (endpoint) => {
 };
 const write = (json, name) => {
     const output = path.resolve(`${__dirname}/../public/assets/db/${name}.json`);
+    debug('write %s - %s', json.length);
     const data = JSON.stringify(json, null, 2);
     if (data) {
         fs.writeFileSync(output, data)
@@ -66,9 +67,46 @@ const transformObject = (objectKey, transform, booleanValue = false) => {
         return item;
     };
 };
-const transformSlots = transformObject('slots', rename(/slotsRank/, ''), true);
+const defaultArrayMerger = (acc, objectKey, valueKey, value) => {
+    const currentValue = acc[objectKey] || [];
+    return [...currentValue, {[valueKey]: value}]
+};
+const transformArray = (objectKey, transform, valueKey,
+                        useTransform = false, merger = defaultArrayMerger) => {
+    return (item) => {
+        if (!item.attributes) return item;
+        item.attributes = _.reduce(item.attributes, (acc, value, key) => {
+            const updated = transform(key);
+            const changed = key !== updated;
+            const updatedValue = useTransform ? updated : value;
+            if (changed) {
+                return {...acc, [objectKey]: merger(acc, objectKey, valueKey || updated, updatedValue)}
+            }
+            return {...acc, [key]: value}
+        }, {});
+        return item;
+    };
+};
+
+const elementArrayMerger = (acc, objectKey, valueKey, value) => {
+    let currentValue = acc[objectKey] || [];
+    const number = /([\d])$/;
+    const matched = valueKey.match(number);
+    const index = matched ? parseInt(matched[1]) - 1 : 0;
+    let element = {};
+    if (index < currentValue.length) {
+        element = currentValue[index];
+    } else {
+        currentValue.splice(index, 1, element)
+    }
+    valueKey = valueKey.replace(number, '').toLowerCase();
+    element[valueKey] = value;
+    return currentValue;
+};
+
+const transformSlots = transformArray('slots', rename(/slotsRank/, ''), 'rank', true);
 const transformSharpness = transformObject('sharpness', rename(/sharpness/, '', true));
-const transformElement = transformObject('element', rename(/element/, '', true));
+const transformElement = transformArray('element', rename(/element/, '', true), false, false, elementArrayMerger);
 const resolvedImages = {};
 const images = (armor = true) => {
     return async (item) => {
@@ -180,18 +218,28 @@ const armor = async (uri = '') => {
 };
 
 const charms = async () => {
-
+    const number = /([\d])$/;
+    return get('charms').then(charms => {
+        charms = charms.reduce((acc, charm) => {
+            const name = charm.name.replace(number, '').trim();
+            if (!acc[name]) {
+                acc[name] = {
+                    name: name,
+                    id: charm.id,
+                    ranks: []
+                }
+            }
+            acc[name].ranks.push(charm);
+            return acc;
+        }, {});
+        return Object.values(charms);
+    })
 };
 const decorations = () => {
-    return get('decorations').then(decos => {
-            return write(decos, 'decorations');
-        }
-    );
+    return get('decorations');
 };
 const skills = async () => {
-    return get('skills').then(skills => {
-        return write(skills, 'skills');
-    })
+    return get('skills');
 };
 const weapons = async () => {
     const fields = select('id', 'slug', 'name', 'type', 'rarity', 'attributes');
@@ -217,10 +265,11 @@ const sync = async (mapping) => {
 
 const sink = time("sync", async () => {
     return sync({
-        //armor,
+        armor,
         weapons,
-        //decorations,
-        //skills
+        decorations,
+        charms,
+        skills
     })
 });
     

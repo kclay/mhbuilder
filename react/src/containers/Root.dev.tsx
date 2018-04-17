@@ -19,7 +19,6 @@ export default class Root extends React.Component<any, any> {
                 <div>
                     <App/>
 
-
                 </div>
             </Provider>
         );

@@ -16,14 +16,16 @@ const ItemPreview = ({type, item, small = false}: Props) => {
         'item-wrapper'
     ];
     if (small) classNames.push('item-small');
+
     const image = get(item, 'images.male',
         get(item, 'images.base', assets(`armors/${type}.png`))
     );
+    const {slots = null} = item && item.attributes || {};
 
     return <div className={classNames.join(' ')}>
         <div className="item">
             <div className="img-wrapper">
-                {item && item.slots && <DecorationSlots slots={item.slots}/>}
+                {slots && <DecorationSlots slots={slots}/>}
                 {image && <img src={image} alt=""/>}
             </div>
             <div className="item-tooltip"/>

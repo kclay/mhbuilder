@@ -58,15 +58,16 @@ interface Gear extends MHItem {
     type: GearType;
     rank?: Rank;
     attributes: GearAttributes;
-    slots?: Slots;
-    skills: GearSkill[]
+    skills?: GearSkill[]
 }
 
 interface Charm extends Gear {
     name: string;
 }
 
-type GearAttributes = {}
+type GearAttributes = {
+    slots?: Slot[];
+}
 
 interface ArmorAttributes extends GearAttributes {
     defense?: number;
@@ -75,15 +76,13 @@ interface ArmorAttributes extends GearAttributes {
     ice?: number;
     dragon?: number;
 
+
 }
 
-interface Slots {
-    1?: boolean,
-    2?: boolean,
-    3?: boolean
-}
 
-type Slot = 1 | 2 | 3;
+interface Slot {
+    rank: number;
+}
 
 /*
 enum Slot {
@@ -98,12 +97,35 @@ interface Armor extends Gear {
 
 }
 
+interface Skill {
+    id: number,
+    slug: string,
+    name: string,
+    description: string,
+    ranks: SkillRank[]
+}
+
+interface SkillRank {
+    id: number,
+    skill: number,
+    level: number,
+    description: string,
+    modifiers: SkillModifiers,
+    slug: string,
+
+}
+
+interface SkillModifiers {
+    [key: string]: string
+}
+
 interface GearSkill {
     id: number,
     slug: string,
     skill: number,
     level: number,
     description: string,
+    skillName: string;
 }
 
 interface BuildSkill {
@@ -111,6 +133,7 @@ interface BuildSkill {
     name: string,
     image: string,
     points: number,
-    max: number
+    max: number,
+    completed:boolean
 
 }

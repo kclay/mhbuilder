@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
-import {Build} from "../../../common";
+import {connect} from "react-redux";
+import {RootState} from "../../../common";
 import {SkillsBreakdown} from "./SkillsBreakdown";
 
 
@@ -12,8 +13,7 @@ type State = {
 }
 
 
-
-export class SkillsInformation extends Component<any, State> {
+export class UnconnectedSkillsInformation extends Component<any, State> {
 
     state = {
         tab: 'active'
@@ -38,7 +38,7 @@ export class SkillsInformation extends Component<any, State> {
     }
 
     render() {
-        const build: Build = {};
+        const {build} = this.props;
         return <div className="skills-informations-wrapper">
             <div className="skills_tabs_buttons">
                 <button {...this.getTabProps(Tabs.Active)}> Active Skills</button>
@@ -55,4 +55,11 @@ export class SkillsInformation extends Component<any, State> {
         </div>
     }
 }
+
+const mapStateToProps = (state: RootState) => {
+    return {
+        build: state.build.current
+    }
+};
+export const SkillsInformation = connect(mapStateToProps)(UnconnectedSkillsInformation);
 

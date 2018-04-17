@@ -1,7 +1,7 @@
 import axios from 'axios';
 import actionCreatorFactory from 'typescript-fsa';
 import {bindThunkAction} from 'typescript-fsa-redux-thunk';
-import {Armor, Charm, Gear, MHItem} from "../common";
+import {Armor, Charm, Gear, MHItem, Skill} from "../common";
 import * as t from '../constants/actionTypes'
 import {assets} from "../utils";
 import {loadBuild} from "./build";
@@ -13,7 +13,7 @@ class DB {
     armor: Armor[] = [];
     charms: Charm[] = [];
     decoration: any;
-    skills: any;
+    skills: Skill[];
     weapons: any;
 }
 
@@ -45,21 +45,34 @@ type Query = string | number | object;
 
 const search = <T extends MHItem>(records: T[], query: Query): SearchResults<T> => {
     let results: T[] = [];
-    if (typeof query === 'string') {
-        results = records.filter(record => {
-            return record.name.includes(query)
-        })
+    switch (typeof query) {
+        case 'string': {
+            results = records.filter(record => {
+                return record.name.includes(<string>query)
+            })
+        }
+            break;
+        case 'number':
+            results = records.filter(record => {
+                return record.id === <number>query
+            });
+            break;
     }
+
+
     return {
         head: results.length ? results[0] : null,
         results
     }
 };
-const armor = (query: Query): SearchResults<Armor> => {
+export const armor = (query: Query): SearchResults<Armor> => {
     return search(database.armor, query);
 };
-const charms = (query: Query): SearchResults<Charm> => {
+export const charms = (query: Query): SearchResults<Charm> => {
     return search(database.charms, query);
+};
+export const skills = (query: Query): SearchResults<Skill> => {
+    return search(database.skills, query);
 };
 
 const initAction = actionCreator.async(t.INIT_DB);
