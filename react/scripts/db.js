@@ -88,6 +88,9 @@ const transformArray = (objectKey, transform, valueKey,
                         useTransform = false, merger = defaultArrayMerger) => {
     return (item) => {
         if (!item.attributes) return item;
+        if (item.name === 'Damascus Mail Beta') {
+            console.log(item);
+        }
         item.attributes = _.reduce(item.attributes, (acc, value, key) => {
             const updated = transform(key);
             const changed = key !== updated;
@@ -117,7 +120,17 @@ const elementArrayMerger = (acc, objectKey, valueKey, value) => {
     return currentValue;
 };
 
-const transformSlots = transformArray('slots', rename(/slotsRank/, ''), 'rank', true);
+const slotsRankMerger = (acc, objectKey, valueKey, value) => {
+    const currentValue = acc[objectKey] || [];
+    const slots = [];
+    for (let i = 0; i < value; i++) {
+        slots.push({
+            rank: Number(valueKey)
+        })
+    }
+    return [...currentValue, ...slots]
+}
+const transformSlots = transformArray('slots', rename(/slotsRank/, ''), false, false, slotsRankMerger);
 const transformSharpness = transformObject('sharpness', rename(/sharpness/, '', true));
 const transformElement = transformArray('element', rename(/element/, '', true), false, false, elementArrayMerger);
 const resolvedImages = {};

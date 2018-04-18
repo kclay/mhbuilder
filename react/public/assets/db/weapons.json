@@ -108,7 +108,7 @@
       "attack": 672,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Poison"
         }
@@ -136,12 +136,12 @@
       "attack": 720,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Poison"
         }
@@ -169,12 +169,15 @@
       "attack": 864,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 420,
           "type": "Poison"
         }
@@ -202,7 +205,7 @@
       "attack": 912,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -235,7 +238,7 @@
       "attack": 1008,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -317,7 +320,7 @@
       "attack": 672,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -348,7 +351,7 @@
       "attack": 816,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -380,7 +383,7 @@
       "attack": 912,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -438,7 +441,7 @@
       "attack": 624,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -469,7 +472,7 @@
       "attack": 720,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -501,7 +504,7 @@
       "attack": 768,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -519,8 +522,7 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/frost_blaze_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/frost_blaze.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/frost_blaze_96x96.png"
     }
   },
   {
@@ -593,12 +595,15 @@
       "attack": 816,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Ice"
         }
@@ -625,12 +630,15 @@
       "attack": 864,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Ice"
         }
@@ -658,12 +666,15 @@
       "attack": 912,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Ice"
         }
@@ -820,10 +831,10 @@
       "attack": 768,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -855,7 +866,10 @@
       "attack": 864,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -965,7 +979,10 @@
       "attack": 720,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -997,7 +1014,10 @@
       "attack": 768,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -1029,10 +1049,10 @@
       "attack": 816,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -1119,7 +1139,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -1152,7 +1172,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -1185,7 +1205,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -1315,12 +1335,12 @@
       "attack": 768,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Ice"
         }
@@ -1347,12 +1367,12 @@
       "attack": 816,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Ice"
         }
@@ -1380,12 +1400,12 @@
       "attack": 912,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Ice"
         }
@@ -1413,7 +1433,7 @@
       "attack": 912,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -1446,7 +1466,7 @@
       "attack": 960,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -1637,7 +1657,7 @@
       "attack": 768,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -1668,7 +1688,7 @@
       "attack": 816,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -1699,7 +1719,7 @@
       "attack": 912,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -1795,12 +1815,12 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -1829,12 +1849,15 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Paralysis"
         }
@@ -1863,15 +1886,15 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 390,
           "type": "Paralysis"
         }
@@ -2076,7 +2099,10 @@
       "attack": 768,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -2190,7 +2216,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -2222,7 +2248,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -2308,7 +2334,7 @@
       "attack": 816,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -2340,7 +2366,7 @@
       "attack": 864,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -2370,7 +2396,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -2401,12 +2430,12 @@
       "attack": 864,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Blast"
         }
@@ -2434,12 +2463,12 @@
       "attack": 960,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Blast"
         }
@@ -2563,12 +2592,12 @@
       "attack": 462,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Water"
         }
@@ -2596,12 +2625,12 @@
       "attack": 528,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Water"
         }
@@ -2629,12 +2658,15 @@
       "attack": 594,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Water"
         }
@@ -2662,7 +2694,7 @@
       "attack": 627,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -2695,7 +2727,7 @@
       "attack": 693,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -2765,12 +2797,12 @@
       "attack": 528,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Thunder"
         }
@@ -2798,12 +2830,12 @@
       "attack": 561,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Thunder"
         }
@@ -2831,12 +2863,12 @@
       "attack": 594,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 360,
           "type": "Thunder"
         }
@@ -2928,7 +2960,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Sleep"
         }
@@ -2957,7 +2989,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Sleep"
         }
@@ -2986,7 +3018,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Sleep"
         }
@@ -3015,7 +3047,7 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -3048,10 +3080,10 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -3108,7 +3140,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -3138,7 +3170,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -3192,7 +3224,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -3222,7 +3254,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -3252,7 +3284,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -3379,12 +3411,12 @@
       "attack": 528,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Sleep"
         }
@@ -3411,12 +3443,12 @@
       "attack": 561,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Sleep"
         }
@@ -3444,12 +3476,12 @@
       "attack": 627,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Sleep"
         }
@@ -3478,7 +3510,10 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -3511,7 +3546,10 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -3758,7 +3796,7 @@
       "attack": 495,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -3789,7 +3827,7 @@
       "attack": 561,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -3821,7 +3859,7 @@
       "attack": 627,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -3853,7 +3891,7 @@
       "attack": 627,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -3886,7 +3924,7 @@
       "attack": 660,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -4001,7 +4039,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -4034,7 +4072,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -4067,7 +4105,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -4247,12 +4285,12 @@
       "attack": 462,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Paralysis"
         }
@@ -4280,12 +4318,12 @@
       "attack": 495,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -4313,12 +4351,12 @@
       "attack": 528,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -4401,7 +4439,7 @@
       "attack": 528,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -4435,7 +4473,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -4467,7 +4505,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -4606,7 +4644,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -4640,12 +4681,12 @@
       "attack": 561,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Dragon"
         }
@@ -4674,12 +4715,12 @@
       "attack": 693,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Dragon"
         }
@@ -4822,12 +4863,12 @@
       "attack": 196,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Sleep"
         }
@@ -4855,12 +4896,12 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Sleep"
         }
@@ -4888,12 +4929,15 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Sleep"
         }
@@ -4921,7 +4965,7 @@
       "attack": 280,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -4954,7 +4998,7 @@
       "attack": 294,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5015,7 +5059,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5047,7 +5091,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5080,7 +5124,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5132,12 +5176,12 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Thunder"
         }
@@ -5165,12 +5209,12 @@
       "attack": 280,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Thunder"
         }
@@ -5276,7 +5320,7 @@
       "attack": 210,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -5307,7 +5351,7 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -5339,7 +5383,7 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -5397,7 +5441,7 @@
       "attack": 196,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5429,7 +5473,7 @@
       "attack": 210,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5461,7 +5505,7 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5522,7 +5566,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5555,7 +5599,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5588,7 +5632,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5660,12 +5704,15 @@
       "attack": 210,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Blast"
         }
@@ -5693,15 +5740,15 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Blast"
         }
@@ -5729,15 +5776,15 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Blast"
         }
@@ -5843,10 +5890,10 @@
       "attack": 210,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5878,10 +5925,10 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -5913,10 +5960,10 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -6175,12 +6222,12 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Paralysis"
         }
@@ -6207,12 +6254,12 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -6240,12 +6287,12 @@
       "attack": 266,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Paralysis"
         }
@@ -6465,15 +6512,15 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Water"
         }
@@ -6501,12 +6548,15 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Water"
         }
@@ -6534,15 +6584,15 @@
       "attack": 266,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         },
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 360,
           "type": "Water"
         }
@@ -6622,7 +6672,7 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -6653,7 +6703,7 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -6685,7 +6735,7 @@
       "attack": 266,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -6778,12 +6828,12 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Paralysis"
         }
@@ -6811,12 +6861,15 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Paralysis"
         }
@@ -6845,12 +6898,15 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Paralysis"
         }
@@ -7042,7 +7098,7 @@
       "attack": 196,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -7257,7 +7313,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -7390,12 +7449,12 @@
       "attack": 196,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Poison"
         }
@@ -7423,12 +7482,12 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Poison"
         }
@@ -7456,12 +7515,15 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Poison"
         }
@@ -7489,7 +7551,7 @@
       "attack": 280,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -7522,7 +7584,7 @@
       "attack": 294,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -7595,12 +7657,12 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Thunder"
         }
@@ -7628,12 +7690,12 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Thunder"
         }
@@ -7661,12 +7723,12 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Thunder"
         }
@@ -7695,7 +7757,7 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -7728,7 +7790,7 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -7786,7 +7848,7 @@
       "attack": 210,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -7818,7 +7880,7 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -7850,7 +7912,7 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -7946,7 +8008,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Sleep"
         }
@@ -7975,7 +8037,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Sleep"
         }
@@ -8004,7 +8066,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Sleep"
         }
@@ -8058,7 +8120,7 @@
       "attack": 210,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -8090,7 +8152,7 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -8220,12 +8282,12 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Blast"
         }
@@ -8252,12 +8314,12 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Blast"
         }
@@ -8282,12 +8344,12 @@
       "attack": 266,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Blast"
         }
@@ -8470,12 +8532,12 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Ice"
         }
@@ -8503,12 +8565,12 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Ice"
         }
@@ -8537,12 +8599,12 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Ice"
         }
@@ -8648,7 +8710,7 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -8679,7 +8741,7 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -8711,7 +8773,7 @@
       "attack": 266,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -8743,7 +8805,10 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -8775,7 +8840,10 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -8847,12 +8915,12 @@
       "attack": 196,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Paralysis"
         }
@@ -8880,12 +8948,12 @@
       "attack": 210,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Paralysis"
         }
@@ -8913,12 +8981,12 @@
       "attack": 224,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Paralysis"
         }
@@ -9029,7 +9097,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -9062,7 +9130,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -9095,7 +9163,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -9149,7 +9217,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Fire"
         }
@@ -9178,7 +9246,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Fire"
         }
@@ -9207,7 +9275,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Fire"
         }
@@ -9290,7 +9358,10 @@
       "attack": 196,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -9404,7 +9475,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -9433,7 +9504,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -9514,7 +9585,7 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -9550,7 +9621,7 @@
       "attack": 252,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -9586,7 +9657,10 @@
       "attack": 238,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -9719,12 +9793,12 @@
       "attack": 728,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Blast"
         }
@@ -9752,12 +9826,12 @@
       "attack": 832,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Blast"
         }
@@ -9785,12 +9859,15 @@
       "attack": 936,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Blast"
         }
@@ -9818,7 +9895,7 @@
       "attack": 1040,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -9851,7 +9928,7 @@
       "attack": 1092,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -9907,7 +9984,7 @@
       "attack": 832,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -9936,7 +10013,7 @@
       "attack": 936,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -10046,7 +10123,7 @@
       "attack": 780,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -10077,7 +10154,7 @@
       "attack": 832,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -10109,7 +10186,7 @@
       "attack": 936,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -10345,7 +10422,10 @@
       "attack": 780,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -10376,7 +10456,10 @@
       "attack": 936,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -10460,7 +10543,7 @@
       "attack": 832,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -10491,7 +10574,7 @@
       "attack": 884,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -10523,7 +10606,7 @@
       "attack": 988,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -10653,12 +10736,12 @@
       "attack": 832,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 360,
           "type": "Thunder"
         }
@@ -10685,12 +10768,12 @@
       "attack": 884,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 390,
           "type": "Thunder"
         }
@@ -10718,12 +10801,12 @@
       "attack": 988,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 420,
           "type": "Thunder"
         }
@@ -10751,7 +10834,7 @@
       "attack": 988,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -10784,7 +10867,7 @@
       "attack": 1040,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -10947,7 +11030,7 @@
       "attack": 988,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -10979,7 +11062,7 @@
       "attack": 1092,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -11075,7 +11158,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Sleep"
         }
@@ -11103,7 +11186,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Sleep"
         }
@@ -11131,7 +11214,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 360,
           "type": "Sleep"
         }
@@ -11181,12 +11264,12 @@
       "affinity": -25,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Ice"
         }
@@ -11214,12 +11297,12 @@
       "affinity": -25,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Ice"
         }
@@ -11247,12 +11330,12 @@
       "affinity": -25,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Ice"
         }
@@ -11344,12 +11427,12 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -11377,12 +11460,15 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Paralysis"
         }
@@ -11410,15 +11496,15 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 390,
           "type": "Paralysis"
         }
@@ -11666,7 +11752,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -11698,7 +11784,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -11782,7 +11868,7 @@
       "attack": 988,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -11814,7 +11900,7 @@
       "attack": 1040,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -11844,7 +11930,10 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -11875,7 +11964,7 @@
       "attack": 832,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -11907,7 +11996,7 @@
       "attack": 936,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -12035,12 +12124,12 @@
       "attack": 588,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -12068,12 +12157,12 @@
       "attack": 672,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -12101,12 +12190,15 @@
       "attack": 756,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -12134,7 +12226,7 @@
       "attack": 840,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -12167,7 +12259,7 @@
       "attack": 882,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -12249,7 +12341,7 @@
       "attack": 630,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -12280,7 +12372,7 @@
       "attack": 714,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -12312,7 +12404,7 @@
       "attack": 756,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -12408,7 +12500,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Sleep"
         }
@@ -12433,7 +12525,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Sleep"
         }
@@ -12459,7 +12551,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 360,
           "type": "Sleep"
         }
@@ -12512,7 +12604,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -12545,7 +12637,7 @@
       "affinity": 25,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -12578,7 +12670,7 @@
       "affinity": 25,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -12688,7 +12780,7 @@
       "attack": 588,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -12719,7 +12811,7 @@
       "attack": 672,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -12751,7 +12843,7 @@
       "attack": 756,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -12989,12 +13081,12 @@
       "attack": 672,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Ice"
         }
@@ -13021,12 +13113,12 @@
       "attack": 714,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Ice"
         }
@@ -13054,12 +13146,12 @@
       "attack": 798,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Ice"
         }
@@ -13087,7 +13179,7 @@
       "attack": 756,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -13119,7 +13211,7 @@
       "attack": 798,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -13164,8 +13256,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_horn_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_horn_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_horn_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_horn.png"
     }
   },
   {
@@ -13365,7 +13457,10 @@
       "attack": 630,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -13397,7 +13492,10 @@
       "attack": 672,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -13429,10 +13527,10 @@
       "attack": 714,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -13507,7 +13605,10 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -13540,10 +13641,10 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -13576,10 +13677,10 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -13612,7 +13713,10 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -13645,7 +13749,10 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -13755,7 +13862,10 @@
       "attack": 588,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -13787,7 +13897,10 @@
       "attack": 630,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -13819,7 +13932,10 @@
       "attack": 672,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -14039,7 +14155,10 @@
       "attack": 672,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -14254,7 +14373,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -14274,7 +14396,6 @@
       "elderseal": "low"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_manasheena_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_manasheena.png"
     }
   },
@@ -14387,12 +14508,12 @@
       "attack": 322,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -14420,12 +14541,12 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -14453,12 +14574,15 @@
       "attack": 414,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -14486,7 +14610,7 @@
       "attack": 460,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -14519,7 +14643,7 @@
       "attack": 483,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -14721,7 +14845,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Sleep"
         }
@@ -14750,7 +14874,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Sleep"
         }
@@ -14779,7 +14903,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 360,
           "type": "Sleep"
         }
@@ -14807,7 +14931,10 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -14839,7 +14966,10 @@
       "attack": 391,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -14923,7 +15053,7 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -14954,7 +15084,7 @@
       "attack": 391,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -14986,7 +15116,7 @@
       "attack": 414,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -15096,7 +15226,10 @@
       "attack": 345,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -15128,10 +15261,10 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -15163,10 +15296,10 @@
       "attack": 391,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -15226,7 +15359,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -15258,7 +15391,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -15276,7 +15409,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/red_tail_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/red_tail.png"
     }
   },
@@ -15291,7 +15423,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -15324,7 +15456,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -15454,12 +15586,12 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Poison"
         }
@@ -15486,12 +15618,12 @@
       "attack": 391,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Poison"
         }
@@ -15519,12 +15651,12 @@
       "attack": 437,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Poison"
         }
@@ -15552,7 +15684,7 @@
       "attack": 437,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -15582,7 +15714,7 @@
       "attack": 460,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -15652,12 +15784,12 @@
       "attack": 322,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Blast"
         }
@@ -15685,12 +15817,12 @@
       "attack": 345,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Blast"
         }
@@ -15718,12 +15850,12 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Blast"
         }
@@ -15758,9 +15890,7 @@
         "green": 8
       }
     },
-    "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_lance_i.png"
-    }
+    "images": {}
   },
   {
     "id": 568,
@@ -15813,12 +15943,12 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Paralysis"
         }
@@ -15846,12 +15976,15 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Paralysis"
         }
@@ -15879,15 +16012,15 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 390,
           "type": "Paralysis"
         }
@@ -15936,7 +16069,7 @@
       "attack": 322,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Fire"
         }
@@ -15965,7 +16098,7 @@
       "affinity": 30,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Fire"
         }
@@ -15994,7 +16127,7 @@
       "affinity": 30,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Fire"
         }
@@ -16101,7 +16234,7 @@
       "attack": 345,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -16132,7 +16265,7 @@
       "attack": 391,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -16164,7 +16297,7 @@
       "attack": 437,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -16250,7 +16383,7 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -16325,7 +16458,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_myniad_rookslayer_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_myniad_rookslayer.png"
     }
   },
@@ -16475,7 +16607,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -16508,7 +16640,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -16538,7 +16670,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -16569,12 +16704,12 @@
       "attack": 414,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Fire"
         }
@@ -16588,7 +16723,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/babel_spear_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/babel_spear.png"
     }
   },
@@ -16602,12 +16736,12 @@
       "attack": 460,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Fire"
         }
@@ -16739,7 +16873,7 @@
       "attack": 322,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "shellingType": "Normal LV2",
@@ -16766,12 +16900,12 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Blast"
         }
@@ -16800,12 +16934,15 @@
       "attack": 414,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Blast"
         }
@@ -16834,7 +16971,7 @@
       "attack": 460,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -16868,7 +17005,7 @@
       "attack": 483,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -16987,7 +17124,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17021,7 +17158,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17055,7 +17192,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17114,7 +17251,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17147,7 +17284,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17181,7 +17318,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17215,7 +17352,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17277,7 +17414,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17311,7 +17448,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17345,7 +17482,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17660,8 +17797,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_gunlance_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_gunlance_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_gunlance_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_gunlance.png"
     }
   },
   {
@@ -17757,12 +17894,12 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Thunder"
         }
@@ -17790,12 +17927,12 @@
       "attack": 391,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Thunder"
         }
@@ -17824,12 +17961,12 @@
       "attack": 437,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Thunder"
         }
@@ -17859,7 +17996,7 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17893,7 +18030,7 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -17989,15 +18126,15 @@
       "attack": 345,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Sleep"
         }
@@ -18025,12 +18162,15 @@
       "attack": 437,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Sleep"
         }
@@ -18059,15 +18199,15 @@
       "attack": 437,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         },
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Sleep"
         }
@@ -18236,7 +18376,7 @@
       "attack": 437,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -18270,7 +18410,7 @@
       "attack": 460,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -18371,7 +18511,7 @@
       "affinity": -10,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -18400,7 +18540,7 @@
       "affinity": -10,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 330,
           "type": "Paralysis"
         }
@@ -18430,7 +18570,7 @@
       "affinity": -10,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 390,
           "type": "Paralysis"
         }
@@ -18473,8 +18613,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_gunlance_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_gunlance.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_gunlance_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_gunlance_96x96.png"
     }
   },
   {
@@ -18656,7 +18796,10 @@
       "attack": 368,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -18704,7 +18847,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/magda_lahat_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/magda_lahat.png"
     }
   },
@@ -18802,7 +18944,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -18836,7 +18978,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -18867,7 +19009,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -19006,12 +19151,12 @@
       "attack": 490,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Poison"
         }
@@ -19040,12 +19185,12 @@
       "attack": 560,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 360,
           "type": "Poison"
         }
@@ -19074,12 +19219,15 @@
       "attack": 630,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 420,
           "type": "Poison"
         }
@@ -19108,7 +19256,7 @@
       "attack": 665,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19142,7 +19290,7 @@
       "attack": 700,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19339,7 +19487,7 @@
       "attack": 560,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19371,7 +19519,7 @@
       "attack": 595,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -19404,7 +19552,7 @@
       "attack": 630,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -19437,7 +19585,7 @@
       "attack": 630,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19470,7 +19618,7 @@
       "attack": 735,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19566,12 +19714,12 @@
       "attack": 560,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Sleep"
         }
@@ -19600,12 +19748,15 @@
       "attack": 630,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Sleep"
         }
@@ -19634,15 +19785,15 @@
       "attack": 665,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         },
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Sleep"
         }
@@ -19672,7 +19823,7 @@
       "affinity": -15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19691,8 +19842,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_raider_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_raider_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_raider_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_raider.png"
     }
   },
   {
@@ -19706,7 +19857,7 @@
       "affinity": -15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19768,7 +19919,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19801,7 +19952,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19835,7 +19986,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -19971,7 +20122,7 @@
       "attack": 560,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "phialType": "Power Phial",
@@ -19997,7 +20148,7 @@
       "attack": 595,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "phialType": "Dragon Phial 300",
@@ -20047,7 +20198,7 @@
       "attack": 665,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -20081,7 +20232,7 @@
       "attack": 700,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -20196,7 +20347,7 @@
       "attack": 560,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -20228,7 +20379,7 @@
       "attack": 630,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -20261,7 +20412,7 @@
       "attack": 665,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -20339,12 +20490,12 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 360,
           "type": "Blast"
         }
@@ -20373,12 +20524,12 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 390,
           "type": "Blast"
         }
@@ -20408,12 +20559,12 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 420,
           "type": "Blast"
         }
@@ -20509,12 +20660,12 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -20543,12 +20694,15 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -20577,15 +20731,15 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Paralysis"
         }
@@ -20637,12 +20791,12 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Ice"
         }
@@ -20671,12 +20825,12 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Ice"
         }
@@ -20691,6 +20845,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_semper_tyrannis_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_semper_tyrannis.png"
     }
   },
@@ -20705,12 +20860,12 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Ice"
         }
@@ -20740,12 +20895,12 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Ice"
         }
@@ -20913,7 +21068,10 @@
       "attack": 560,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -20960,7 +21118,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/peal_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/peal.png"
     }
   },
@@ -21134,7 +21291,10 @@
       "attack": 595,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -21273,12 +21433,12 @@
       "attack": 504,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Thunder"
         }
@@ -21307,12 +21467,12 @@
       "attack": 576,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Thunder"
         }
@@ -21341,12 +21501,15 @@
       "attack": 648,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Thunder"
         }
@@ -21375,7 +21538,7 @@
       "attack": 720,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -21395,7 +21558,6 @@
       "elderseal": "high"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergal_lacerator_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergal_lacerator.png"
     }
   },
@@ -21409,7 +21571,7 @@
       "attack": 756,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -21469,7 +21631,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -21502,7 +21664,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -21536,7 +21698,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -21650,7 +21812,7 @@
       "attack": 576,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -21682,7 +21844,7 @@
       "attack": 648,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -21715,7 +21877,7 @@
       "attack": 684,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -21775,7 +21937,10 @@
       "attack": 540,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -21807,7 +21972,10 @@
       "attack": 576,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -21840,7 +22008,10 @@
       "attack": 612,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -21886,7 +22057,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_lutemis_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_lutemis.png"
     }
   },
@@ -21900,7 +22070,10 @@
       "attack": 540,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -21933,7 +22106,10 @@
       "attack": 612,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -21952,6 +22128,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatel_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatel.png"
     }
   },
@@ -21965,7 +22142,10 @@
       "attack": 684,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -21984,7 +22164,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatelia_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatelia.png"
     }
   },
@@ -22101,7 +22280,7 @@
       "attack": 576,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Blast"
         }
@@ -22129,12 +22308,12 @@
       "attack": 612,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Blast"
         }
@@ -22163,12 +22342,12 @@
       "attack": 684,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Blast"
         }
@@ -22220,7 +22399,7 @@
       "affinity": -30,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Ice"
         }
@@ -22249,7 +22428,7 @@
       "affinity": -30,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Ice"
         }
@@ -22279,7 +22458,7 @@
       "affinity": -30,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Ice"
         }
@@ -22371,15 +22550,15 @@
       "attack": 540,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Sleep"
         }
@@ -22407,12 +22586,15 @@
       "attack": 648,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Sleep"
         }
@@ -22441,15 +22623,15 @@
       "attack": 684,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         },
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Sleep"
         }
@@ -22478,7 +22660,10 @@
       "attack": 576,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -22511,7 +22696,10 @@
       "attack": 612,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -22687,7 +22875,7 @@
       "attack": 648,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -22721,7 +22909,7 @@
       "attack": 684,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -22840,7 +23028,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -22874,7 +23062,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -22908,7 +23096,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -22964,7 +23152,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Fire"
         }
@@ -22994,7 +23182,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Fire"
         }
@@ -23021,7 +23209,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Fire"
         }
@@ -23107,7 +23295,10 @@
       "attack": 576,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -23253,7 +23444,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -23284,10 +23475,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -23318,7 +23509,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -23454,12 +23648,12 @@
       "attack": 434,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Blast"
         }
@@ -23488,12 +23682,12 @@
       "attack": 496,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Blast"
         }
@@ -23522,12 +23716,15 @@
       "attack": 558,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Blast"
         }
@@ -23556,7 +23753,7 @@
       "attack": 620,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -23589,7 +23786,7 @@
       "attack": 651,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -23648,7 +23845,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -23681,7 +23878,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -23715,7 +23912,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -23815,7 +24012,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Sleep"
         }
@@ -23845,7 +24042,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Sleep"
         }
@@ -23875,7 +24072,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Sleep"
         }
@@ -23946,12 +24143,12 @@
       "attack": 496,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Thunder"
         }
@@ -23980,12 +24177,12 @@
       "attack": 527,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Thunder"
         }
@@ -24014,12 +24211,12 @@
       "attack": 558,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Thunder"
         }
@@ -24075,7 +24272,10 @@
       "attack": 465,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -24107,7 +24307,10 @@
       "attack": 496,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -24140,7 +24343,10 @@
       "attack": 527,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -24281,7 +24487,10 @@
       "attack": 496,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -24314,10 +24523,10 @@
       "attack": 527,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -24350,7 +24559,10 @@
       "attack": 496,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -24383,7 +24595,10 @@
       "attack": 527,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
@@ -24422,8 +24637,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_rod_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_rod.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_rod_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_rod_96x96.png"
     }
   },
   {
@@ -24519,12 +24734,12 @@
       "attack": 496,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Paralysis"
         }
@@ -24552,12 +24767,12 @@
       "attack": 527,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -24586,12 +24801,12 @@
       "attack": 589,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -24620,7 +24835,7 @@
       "attack": 589,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -24653,7 +24868,7 @@
       "attack": 620,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -24729,7 +24944,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/flammenkaefer+_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/flammenkaefer+.png"
     }
   },
@@ -24853,7 +25067,7 @@
       "attack": 465,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -24885,7 +25099,7 @@
       "attack": 527,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -24918,7 +25132,7 @@
       "attack": 589,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -24974,12 +25188,12 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Ice"
         }
@@ -25008,12 +25222,12 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Ice"
         }
@@ -25043,12 +25257,12 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Ice"
         }
@@ -25162,7 +25376,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -25196,7 +25410,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -25230,7 +25444,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -25286,7 +25500,7 @@
       "affinity": 10,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Fire"
         }
@@ -25316,12 +25530,12 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Fire"
         }
@@ -25348,12 +25562,12 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Fire"
         }
@@ -25431,7 +25645,10 @@
       "attack": 496,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -25598,7 +25815,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -25629,7 +25846,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -25660,7 +25877,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -25680,7 +25900,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_shmaena_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_shmaena.png"
     }
   },
@@ -26236,7 +26455,7 @@
       "attack": 195,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -26334,7 +26553,7 @@
       "attack": 208,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -26432,7 +26651,10 @@
       "attack": 234,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -26530,7 +26752,7 @@
       "attack": 247,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -26628,7 +26850,7 @@
       "attack": 260,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -26912,7 +27134,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -27011,7 +27233,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -27110,7 +27332,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -27209,7 +27431,7 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -27308,7 +27530,7 @@
       "affinity": -10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -27408,8 +27630,8 @@
       "specialAmmo": "Wyvernblast"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_blitz_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_blitz.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_blitz_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_blitz_96x96.png"
     }
   },
   {
@@ -27685,7 +27907,10 @@
       "attack": 208,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -27783,7 +28008,10 @@
       "attack": 234,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "deviation": "Average",
@@ -27881,10 +28109,10 @@
       "attack": 247,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         },
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "deviation": "Average",
@@ -28077,7 +28305,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -28176,7 +28404,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -28275,7 +28503,7 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -28559,7 +28787,7 @@
       "attack": 208,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -28657,7 +28885,7 @@
       "attack": 221,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -28755,7 +28983,7 @@
       "attack": 234,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -29774,7 +30002,7 @@
       "attack": 221,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "deviation": "Average",
@@ -29872,7 +30100,7 @@
       "attack": 247,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "deviation": "Average",
@@ -29970,7 +30198,7 @@
       "attack": 247,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "deviation": "Low",
@@ -30068,7 +30296,7 @@
       "attack": 260,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "deviation": "Low",
@@ -30635,8 +30863,8 @@
       "specialAmmo": "Wyvernblast"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_rifle_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_rifle.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_rifle_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/madness_rifle_96x96.png"
     }
   },
   {
@@ -30912,7 +31140,10 @@
       "attack": 208,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -31010,7 +31241,10 @@
       "attack": 234,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -31108,7 +31342,10 @@
       "attack": 247,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -31206,7 +31443,10 @@
       "attack": 221,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "deviation": "Average",
@@ -31304,7 +31544,10 @@
       "attack": 234,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "deviation": "Average",
@@ -31685,7 +31928,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -31784,7 +32027,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -31883,7 +32126,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -32170,7 +32413,7 @@
       "affinity": 30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "None",
@@ -32266,7 +32509,7 @@
       "affinity": 30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "None",
@@ -32550,7 +32793,7 @@
       "attack": 208,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -32648,7 +32891,7 @@
       "attack": 208,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "High",
@@ -32746,7 +32989,7 @@
       "attack": 221,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "High",
@@ -33304,7 +33547,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "deviation": "Low",
@@ -33403,7 +33646,7 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "deviation": "Low",
@@ -33498,7 +33741,10 @@
       "attack": 234,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "deviation": "Average",
@@ -33596,13 +33842,14 @@
       "attack": 234,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "deviation": "None",
       "specialAmmo": "Wyvernblast"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/cross_bowgun_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/cross_bowgun.png"
     }
   },
@@ -33693,7 +33940,7 @@
       "attack": 260,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "deviation": "None",
@@ -34256,7 +34503,7 @@
       "attack": 225,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -34354,7 +34601,7 @@
       "attack": 240,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -34452,7 +34699,10 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -34550,7 +34800,7 @@
       "attack": 270,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -34648,7 +34898,7 @@
       "attack": 285,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -35478,7 +35728,7 @@
       "attack": 225,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -35576,7 +35826,7 @@
       "attack": 240,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -35674,7 +35924,7 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -35865,7 +36115,7 @@
       "attack": 240,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "None",
@@ -35963,7 +36213,7 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "None",
@@ -36340,7 +36590,7 @@
       "attack": 240,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -36438,7 +36688,7 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -36536,7 +36786,7 @@
       "attack": 270,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -36823,7 +37073,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "High",
@@ -37474,7 +37724,7 @@
       "attack": 240,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -37569,7 +37819,7 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "deviation": "Average",
@@ -37667,7 +37917,7 @@
       "attack": 270,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "deviation": "Average",
@@ -37860,7 +38110,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "High",
@@ -37959,7 +38209,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "High",
@@ -38058,7 +38308,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "High",
@@ -38154,7 +38404,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "High",
@@ -38254,8 +38504,8 @@
       "specialAmmo": "Wyvernsnipe"
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_shooter_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_shooter_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_shooter_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_shooter.png"
     }
   },
   {
@@ -38531,7 +38781,10 @@
       "attack": 225,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -38629,7 +38882,10 @@
       "attack": 240,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -38727,10 +38983,10 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -39293,7 +39549,7 @@
       "attack": 240,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -39391,7 +39647,7 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Average",
@@ -39770,7 +40026,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "None",
@@ -39869,7 +40125,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "None",
@@ -39968,7 +40224,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "None",
@@ -40246,7 +40502,7 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -40343,7 +40599,6 @@
       "specialAmmo": "Wyvernsnipe"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/quickcaster_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/quickcaster.png"
     }
   },
@@ -40434,7 +40689,7 @@
       "attack": 240,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -40529,7 +40784,7 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "Low",
@@ -40628,7 +40883,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "deviation": "High",
@@ -40727,7 +40982,7 @@
       "affinity": -20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "deviation": "High",
@@ -41191,7 +41446,10 @@
       "attack": 255,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "deviation": "Average",
@@ -41216,8 +41474,8 @@
       ]
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_bow_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_bow.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_bow_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_bow_96x96.png"
     }
   },
   {
@@ -41302,12 +41560,12 @@
       "attack": 168,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Thunder"
         }
@@ -41332,12 +41590,12 @@
       "attack": 180,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Thunder"
         }
@@ -41362,12 +41620,15 @@
       "attack": 204,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
+        },
+        {
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Thunder"
         }
@@ -41392,7 +41653,7 @@
       "attack": 228,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -41422,7 +41683,7 @@
       "attack": 240,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -41456,8 +41717,8 @@
       ]
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu_arrow_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu_arrow.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu_arrow_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu_arrow_96x96.png"
     }
   },
   {
@@ -41513,7 +41774,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Blast"
         }
@@ -41538,7 +41799,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Blast"
         }
@@ -41563,7 +41824,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 270,
           "type": "Blast"
         }
@@ -41587,7 +41848,7 @@
       "attack": 204,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -41617,7 +41878,7 @@
       "attack": 228,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -41668,12 +41929,15 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Dragon"
         }
@@ -41701,15 +41965,15 @@
       "affinity": 10,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Dragon"
         }
@@ -41762,7 +42026,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -41793,7 +42057,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -41895,7 +42159,7 @@
       "attack": 168,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -41924,7 +42188,7 @@
       "attack": 180,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -41953,7 +42217,7 @@
       "attack": 204,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -42163,12 +42427,12 @@
       "attack": 180,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Water"
         }
@@ -42191,12 +42455,12 @@
       "attack": 192,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 300,
           "type": "Water"
         }
@@ -42219,12 +42483,12 @@
       "attack": 216,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 360,
           "type": "Water"
         }
@@ -42247,7 +42511,7 @@
       "attack": 216,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -42278,7 +42542,7 @@
       "attack": 228,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
@@ -42330,12 +42594,15 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 60,
           "type": "Ice"
         }
@@ -42362,12 +42629,15 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 90,
           "type": "Ice"
         }
@@ -42394,12 +42664,15 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 120,
           "type": "Ice"
         }
@@ -42411,6 +42684,7 @@
       ]
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/galebender_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/galebender.png"
     }
   },
@@ -42425,12 +42699,15 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 150,
           "type": "Ice"
         }
@@ -42513,15 +42790,15 @@
       "attack": 180,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Blast"
         }
@@ -42547,15 +42824,15 @@
       "attack": 192,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 210,
           "type": "Blast"
         }
@@ -42581,15 +42858,15 @@
       "attack": 204,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Blast"
         }
@@ -42824,7 +43101,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -42855,7 +43132,7 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -42937,7 +43214,10 @@
       "attack": 180,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
@@ -43020,10 +43300,10 @@
       "attack": 192,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -43052,10 +43332,10 @@
       "attack": 204,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         },
         {
-          "rank": "1"
+          "rank": 1
         }
       ],
       "element": [
@@ -43082,7 +43362,10 @@
       "affinity": 15,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
+        },
+        {
+          "rank": 3
         }
       ],
       "element": [
@@ -43114,7 +43397,7 @@
       "attack": 216,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -43143,7 +43426,7 @@
       "attack": 228,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -43381,6 +43664,7 @@
       "elderseal": "high"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wrathful_predation_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wrathful_predation.png"
     }
   },
@@ -43395,7 +43679,7 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -43426,7 +43710,7 @@
       "affinity": -30,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
@@ -44059,7 +44343,6 @@
       "specialAmmo": "Wyvernheart"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gluttonous_cannon_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gluttonous_cannon.png"
     }
   },
@@ -44219,12 +44502,12 @@
       "affinity": 20,
       "slots": [
         {
-          "rank": "2"
+          "rank": 2
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 180,
           "type": "Thunder"
         }
@@ -44248,12 +44531,12 @@
       "affinity": 30,
       "slots": [
         {
-          "rank": "3"
+          "rank": 3
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 240,
           "type": "Thunder"
         }
@@ -44296,12 +44579,15 @@
       "affinity": -15,
       "slots": [
         {
-          "rank": "1"
+          "rank": 1
+        },
+        {
+          "rank": 1
         }
       ],
       "element": [
         {
-          "hidden": true,
+          "hidden": 1,
           "damage": 510,
           "type": "Fire"
         }

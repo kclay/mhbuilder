@@ -1,35 +1,83 @@
-import {orderBy, reduce, sumBy} from 'lodash'
+import {flattenDeep, groupBy, orderBy, reduce, sumBy, values} from 'lodash'
 import * as db from '../actions/db';
-import {Build, BuildSkill, Gear, GearSkill} from "../common";
+import {Build, BuildSkill, Gear, GearSkill, Slot} from "../common";
 import {assets} from "../utils";
 
-interface SkillHash {
-    [key: string]: GearSkill[]
+interface SkillLevel {
+    skillId: number,
+    level: number,
+    name: string
 }
+
+
+interface SkillHash {
+    [index: string]: SkillLevel[]
+}
+
+const computeInheritedSkills = (build: Build): SkillHash => {
+    return reduce(build, (acc, gear: Gear) => {
+        if (!gear || !gear.skills) return acc;
+        return reduce(gear.skills, (acc, skill: GearSkill) => {
+            const id = '' + skill.skill;
+            if (!acc[id]) {
+                acc[id] = [];
+            }
+            acc[id].push({
+                skillId: skill.skill,
+                level: skill.level,
+                name: skill.skillName
+            });
+            return acc;
+        }, acc)
+
+    }, {});
+};
+
+const computeSkillsFromDecorations = (build: Build): SkillHash => {
+    return reduce(build, (acc, gear: Gear) => {
+        if (!gear || !gear.attributes!.slots) return acc;
+        const slots = gear.attributes.slots;
+        return reduce(slots, (acc, slot: Slot) => {
+            if (!slot.decoration) return acc;
+            const skill = db.skills(slot.decoration.skill).head;
+            if (!skill) return acc;
+            const id = '' + skill.id;
+            if (!acc[id]) {
+                acc[id] = [];
+            }
+            acc[id].push({
+                skillId: skill.id,
+                level: 1,
+                name: skill.name
+            });
+            return acc;
+        }, acc);
+
+    }, {})
+};
+const resolveAllSkills = (build: Build) => {
+    const inherited = computeInheritedSkills(build);
+    const fromDecorations = computeSkillsFromDecorations(build);
+    const grouped = <any>groupBy(flattenDeep([values(inherited), values(fromDecorations)]), 'skillId');
+    return <SkillHash>grouped;
+
+};
 
 export default function computeSkills(build: Build, forSet: boolean): BuildSkill[] {
 
-    const skills: SkillHash = reduce(build, (acc, gear: Gear) => {
-        if (gear && gear.skills) {
-            acc = reduce(gear.skills, (acc, skill: GearSkill) => {
-                if (!acc[skill.skillName]) {
-                    acc[skill.skillName] = [];
-                }
-                acc[skill.skillName].push(skill);
-                return acc;
-            }, acc)
-        }
-        return acc;
-    }, {});
-    const computed = reduce(skills, (acc, skills: GearSkill[], name: string) => {
-        const skillId = skills[0].skill;
+    const skills = resolveAllSkills(build);
+    const computed = reduce(skills, (acc, levels: SkillLevel[], name: string) => {
+        const skillId = levels[0].skillId;
         const skill = db.skills(skillId).head;
-        const points = sumBy(skills, 'level');
+        if (!skill) {
+            console.log(levels);
+        }
+        const points = sumBy(levels, 'level');
         const max = skill.ranks.length;
         const completed = skill.ranks.length === points;
         return [...acc, {
             id: skillId,
-            name,
+            name: skill.name,
             image: assets('skills/ice-attack-skill-mhw.png'),
             points,
             max,

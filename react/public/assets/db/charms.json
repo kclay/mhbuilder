@@ -4,49 +4,52 @@
     "id": 1,
     "ranks": [
       {
+        "id": 1,
+        "slug": "poison-charm-1",
         "name": "Poison Charm 1",
         "skills": [
           {
+            "id": 1,
+            "slug": "poison-resistance-rank-1",
             "skill": 1,
+            "skillName": "Poison Resistance",
             "level": 1,
             "description": "Reduces the duration of poison by 30%.",
-            "modifiers": [],
-            "id": 1,
-            "slug": "poison-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 1,
-        "slug": "poison-charm-1"
+        ]
       },
       {
+        "id": 2,
+        "slug": "poison-charm-2",
         "name": "Poison Charm 2",
         "skills": [
           {
+            "id": 2,
+            "slug": "poison-resistance-rank-2",
             "skill": 1,
+            "skillName": "Poison Resistance",
             "level": 2,
             "description": "Reduces the duration of poison by 60%.",
-            "modifiers": [],
-            "id": 2,
-            "slug": "poison-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 2,
-        "slug": "poison-charm-2"
+        ]
       },
       {
+        "id": 3,
+        "slug": "poison-charm-3",
         "name": "Poison Charm 3",
         "skills": [
           {
+            "id": 3,
+            "slug": "poison-resistance-rank-3",
             "skill": 1,
+            "skillName": "Poison Resistance",
             "level": 3,
             "description": "Prevents poison.",
-            "modifiers": [],
-            "id": 3,
-            "slug": "poison-resistance-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 3,
-        "slug": "poison-charm-3"
+        ]
       }
     ]
   },
@@ -55,55 +58,58 @@
     "id": 4,
     "ranks": [
       {
+        "id": 4,
+        "slug": "attack-charm-1",
         "name": "Attack Charm 1",
         "skills": [
           {
+            "id": 39,
+            "slug": "attack-boost-rank-1",
             "skill": 15,
+            "skillName": "Attack Boost",
             "level": 1,
             "description": "Attack +3",
             "modifiers": {
               "attack": 3
-            },
-            "id": 39,
-            "slug": "attack-boost-rank-1"
+            }
           }
-        ],
-        "id": 4,
-        "slug": "attack-charm-1"
+        ]
       },
       {
+        "id": 5,
+        "slug": "attack-charm-2",
         "name": "Attack Charm 2",
         "skills": [
           {
+            "id": 40,
+            "slug": "attack-boost-rank-2",
             "skill": 15,
+            "skillName": "Attack Boost",
             "level": 2,
             "description": "Attack +6",
             "modifiers": {
               "attack": 6
-            },
-            "id": 40,
-            "slug": "attack-boost-rank-2"
+            }
           }
-        ],
-        "id": 5,
-        "slug": "attack-charm-2"
+        ]
       },
       {
+        "id": 6,
+        "slug": "attack-charm-3",
         "name": "Attack Charm 3",
         "skills": [
           {
+            "id": 41,
+            "slug": "attack-boost-rank-3",
             "skill": 15,
+            "skillName": "Attack Boost",
             "level": 3,
             "description": "Attack +9",
             "modifiers": {
               "attack": 9
-            },
-            "id": 41,
-            "slug": "attack-boost-rank-3"
+            }
           }
-        ],
-        "id": 6,
-        "slug": "attack-charm-3"
+        ]
       }
     ]
   },
@@ -112,55 +118,58 @@
     "id": 7,
     "ranks": [
       {
+        "id": 7,
+        "slug": "defense-charm-1",
         "name": "Defense Charm 1",
         "skills": [
           {
+            "id": 46,
+            "slug": "defense-boost-rank-1",
             "skill": 16,
+            "skillName": "Defense Boost",
             "level": 1,
             "description": "Defense +5",
             "modifiers": {
               "defense": 5
-            },
-            "id": 46,
-            "slug": "defense-boost-rank-1"
+            }
           }
-        ],
-        "id": 7,
-        "slug": "defense-charm-1"
+        ]
       },
       {
+        "id": 8,
+        "slug": "defense-charm-2",
         "name": "Defense Charm 2",
         "skills": [
           {
+            "id": 47,
+            "slug": "defense-boost-rank-2",
             "skill": 16,
+            "skillName": "Defense Boost",
             "level": 2,
             "description": "Defense +10",
             "modifiers": {
               "defense": 10
-            },
-            "id": 47,
-            "slug": "defense-boost-rank-2"
+            }
           }
-        ],
-        "id": 8,
-        "slug": "defense-charm-2"
+        ]
       },
       {
+        "id": 9,
+        "slug": "defense-charm-3",
         "name": "Defense Charm 3",
         "skills": [
           {
+            "id": 48,
+            "slug": "defense-boost-rank-3",
             "skill": 16,
+            "skillName": "Defense Boost",
             "level": 3,
             "description": "Defense +15",
             "modifiers": {
               "defense": 15
-            },
-            "id": 48,
-            "slug": "defense-boost-rank-3"
+            }
           }
-        ],
-        "id": 9,
-        "slug": "defense-charm-3"
+        ]
       }
     ]
   },
@@ -169,49 +178,52 @@
     "id": 10,
     "ranks": [
       {
+        "id": 10,
+        "slug": "paralysis-charm-1",
         "name": "Paralysis Charm 1",
         "skills": [
           {
+            "id": 4,
+            "slug": "paralysis-resistance-rank-1",
             "skill": 2,
+            "skillName": "Paralysis Resistance",
             "level": 1,
             "description": "Reduces the duration of paralysis by 30%.",
-            "modifiers": [],
-            "id": 4,
-            "slug": "paralysis-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 10,
-        "slug": "paralysis-charm-1"
+        ]
       },
       {
+        "id": 11,
+        "slug": "paralysis-charm-2",
         "name": "Paralysis Charm 2",
         "skills": [
           {
+            "id": 5,
+            "slug": "paralysis-resistance-rank-2",
             "skill": 2,
+            "skillName": "Paralysis Resistance",
             "level": 2,
             "description": "Reduces the duration of paralysis by 60%.",
-            "modifiers": [],
-            "id": 5,
-            "slug": "paralysis-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 11,
-        "slug": "paralysis-charm-2"
+        ]
       },
       {
+        "id": 12,
+        "slug": "paralysis-charm-3",
         "name": "Paralysis Charm 3",
         "skills": [
           {
+            "id": 6,
+            "slug": "paralysis-resistance-rank-3",
             "skill": 2,
+            "skillName": "Paralysis Resistance",
             "level": 3,
             "description": "Prevents paralysis.",
-            "modifiers": [],
-            "id": 6,
-            "slug": "paralysis-resistance-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 12,
-        "slug": "paralysis-charm-3"
+        ]
       }
     ]
   },
@@ -220,49 +232,52 @@
     "id": 13,
     "ranks": [
       {
+        "id": 13,
+        "slug": "sleep-charm-1",
         "name": "Sleep Charm 1",
         "skills": [
           {
+            "id": 7,
+            "slug": "sleep-resistance-rank-1",
             "skill": 3,
+            "skillName": "Sleep Resistance",
             "level": 1,
             "description": "Reduces the duration of sleep by 30%.",
-            "modifiers": [],
-            "id": 7,
-            "slug": "sleep-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 13,
-        "slug": "sleep-charm-1"
+        ]
       },
       {
+        "id": 14,
+        "slug": "sleep-charm-2",
         "name": "Sleep Charm 2",
         "skills": [
           {
+            "id": 8,
+            "slug": "sleep-resistance-rank-2",
             "skill": 3,
+            "skillName": "Sleep Resistance",
             "level": 2,
             "description": "Reduces the duration of sleep by 60%.",
-            "modifiers": [],
-            "id": 8,
-            "slug": "sleep-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 14,
-        "slug": "sleep-charm-2"
+        ]
       },
       {
+        "id": 15,
+        "slug": "sleep-charm-3",
         "name": "Sleep Charm 3",
         "skills": [
           {
+            "id": 9,
+            "slug": "sleep-resistance-rank-3",
             "skill": 3,
+            "skillName": "Sleep Resistance",
             "level": 3,
             "description": "Prevents sleep.",
-            "modifiers": [],
-            "id": 9,
-            "slug": "sleep-resistance-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 15,
-        "slug": "sleep-charm-3"
+        ]
       }
     ]
   },
@@ -271,49 +286,52 @@
     "id": 16,
     "ranks": [
       {
+        "id": 16,
+        "slug": "stun-charm-1",
         "name": "Stun Charm 1",
         "skills": [
           {
+            "id": 10,
+            "slug": "stun-resistance-rank-1",
             "skill": 4,
+            "skillName": "Stun Resistance",
             "level": 1,
             "description": "Reduces the duration of stun by 30%.",
-            "modifiers": [],
-            "id": 10,
-            "slug": "stun-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 16,
-        "slug": "stun-charm-1"
+        ]
       },
       {
+        "id": 17,
+        "slug": "stun-charm-2",
         "name": "Stun Charm 2",
         "skills": [
           {
+            "id": 11,
+            "slug": "stun-resistance-rank-2",
             "skill": 4,
+            "skillName": "Stun Resistance",
             "level": 2,
             "description": "Reduces the duration of stun by 60%.",
-            "modifiers": [],
-            "id": 11,
-            "slug": "stun-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 17,
-        "slug": "stun-charm-2"
+        ]
       },
       {
+        "id": 18,
+        "slug": "stun-charm-3",
         "name": "Stun Charm 3",
         "skills": [
           {
+            "id": 12,
+            "slug": "stun-resistance-rank-3",
             "skill": 4,
+            "skillName": "Stun Resistance",
             "level": 3,
             "description": "Prevents stun.",
-            "modifiers": [],
-            "id": 12,
-            "slug": "stun-resistance-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 18,
-        "slug": "stun-charm-3"
+        ]
       }
     ]
   },
@@ -322,49 +340,52 @@
     "id": 19,
     "ranks": [
       {
+        "id": 19,
+        "slug": "windproof-charm-1",
         "name": "Windproof Charm 1",
         "skills": [
           {
+            "id": 28,
+            "slug": "windproof-rank-1",
             "skill": 10,
+            "skillName": "Windproof",
             "level": 1,
             "description": "Slightly reduces the effects of minor wind pressure.",
-            "modifiers": [],
-            "id": 28,
-            "slug": "windproof-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 19,
-        "slug": "windproof-charm-1"
+        ]
       },
       {
+        "id": 20,
+        "slug": "windproof-charm-2",
         "name": "Windproof Charm 2",
         "skills": [
           {
+            "id": 29,
+            "slug": "windproof-rank-2",
             "skill": 10,
+            "skillName": "Windproof",
             "level": 2,
             "description": "Reduces the effects of minor wind pressure.",
-            "modifiers": [],
-            "id": 29,
-            "slug": "windproof-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 20,
-        "slug": "windproof-charm-2"
+        ]
       },
       {
+        "id": 21,
+        "slug": "windproof-charm-3",
         "name": "Windproof Charm 3",
         "skills": [
           {
+            "id": 30,
+            "slug": "windproof-rank-3",
             "skill": 10,
+            "skillName": "Windproof",
             "level": 3,
             "description": "Negates minor wind pressure.",
-            "modifiers": [],
-            "id": 30,
-            "slug": "windproof-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 21,
-        "slug": "windproof-charm-3"
+        ]
       }
     ]
   },
@@ -373,55 +394,58 @@
     "id": 22,
     "ranks": [
       {
+        "id": 22,
+        "slug": "health-charm-1",
         "name": "Health Charm 1",
         "skills": [
           {
+            "id": 53,
+            "slug": "health-boost-rank-1",
             "skill": 17,
+            "skillName": "Health Boost",
             "level": 1,
             "description": "Health +15",
             "modifiers": {
               "health": 15
-            },
-            "id": 53,
-            "slug": "health-boost-rank-1"
+            }
           }
-        ],
-        "id": 22,
-        "slug": "health-charm-1"
+        ]
       },
       {
+        "id": 23,
+        "slug": "health-charm-2",
         "name": "Health Charm 2",
         "skills": [
           {
+            "id": 54,
+            "slug": "health-boost-rank-2",
             "skill": 17,
+            "skillName": "Health Boost",
             "level": 2,
             "description": "Health +30",
             "modifiers": {
               "health": 30
-            },
-            "id": 54,
-            "slug": "health-boost-rank-2"
+            }
           }
-        ],
-        "id": 23,
-        "slug": "health-charm-2"
+        ]
       },
       {
+        "id": 24,
+        "slug": "health-charm-3",
         "name": "Health Charm 3",
         "skills": [
           {
+            "id": 55,
+            "slug": "health-boost-rank-3",
             "skill": 17,
+            "skillName": "Health Boost",
             "level": 3,
             "description": "Health +50",
             "modifiers": {
               "health": 50
-            },
-            "id": 55,
-            "slug": "health-boost-rank-3"
+            }
           }
-        ],
-        "id": 24,
-        "slug": "health-charm-3"
+        ]
       }
     ]
   },
@@ -430,49 +454,52 @@
     "id": 25,
     "ranks": [
       {
+        "id": 25,
+        "slug": "recovery-charm-1",
         "name": "Recovery Charm 1",
         "skills": [
           {
+            "id": 56,
+            "slug": "recovery-up-rank-1",
             "skill": 18,
+            "skillName": "Recovery Up",
             "level": 1,
             "description": "Recovery +10%",
-            "modifiers": [],
-            "id": 56,
-            "slug": "recovery-up-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 25,
-        "slug": "recovery-charm-1"
+        ]
       },
       {
+        "id": 26,
+        "slug": "recovery-charm-2",
         "name": "Recovery Charm 2",
         "skills": [
           {
+            "id": 57,
+            "slug": "recovery-up-rank-2",
             "skill": 18,
+            "skillName": "Recovery Up",
             "level": 2,
             "description": "Recovery +20%",
-            "modifiers": [],
-            "id": 57,
-            "slug": "recovery-up-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 26,
-        "slug": "recovery-charm-2"
+        ]
       },
       {
+        "id": 27,
+        "slug": "recovery-charm-3",
         "name": "Recovery Charm 3",
         "skills": [
           {
+            "id": 58,
+            "slug": "recovery-up-rank-3",
             "skill": 18,
+            "skillName": "Recovery Up",
             "level": 3,
             "description": "Recovery +30%",
-            "modifiers": [],
-            "id": 58,
-            "slug": "recovery-up-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 27,
-        "slug": "recovery-charm-3"
+        ]
       }
     ]
   },
@@ -481,56 +508,59 @@
     "id": 28,
     "ranks": [
       {
+        "id": 28,
+        "slug": "fire-charm-1",
         "name": "Fire Charm 1",
         "skills": [
           {
+            "id": 62,
+            "slug": "fire-resistance-rank-1",
             "skill": 20,
+            "skillName": "Fire Resistance",
             "level": 1,
             "description": "Fire resistance +6",
             "modifiers": {
               "resistFire": 6
-            },
-            "id": 62,
-            "slug": "fire-resistance-rank-1"
+            }
           }
-        ],
-        "id": 28,
-        "slug": "fire-charm-1"
+        ]
       },
       {
+        "id": 29,
+        "slug": "fire-charm-2",
         "name": "Fire Charm 2",
         "skills": [
           {
+            "id": 63,
+            "slug": "fire-resistance-rank-2",
             "skill": 20,
+            "skillName": "Fire Resistance",
             "level": 2,
             "description": "Fire resistance +12",
             "modifiers": {
               "resistFire": 12
-            },
-            "id": 63,
-            "slug": "fire-resistance-rank-2"
+            }
           }
-        ],
-        "id": 29,
-        "slug": "fire-charm-2"
+        ]
       },
       {
+        "id": 30,
+        "slug": "fire-charm-3",
         "name": "Fire Charm 3",
         "skills": [
           {
+            "id": 64,
+            "slug": "fire-resistance-rank-3",
             "skill": 20,
+            "skillName": "Fire Resistance",
             "level": 3,
             "description": "Fire resistance +20 Defense +10",
             "modifiers": {
               "defense": 10,
               "resistFire": 20
-            },
-            "id": 64,
-            "slug": "fire-resistance-rank-3"
+            }
           }
-        ],
-        "id": 30,
-        "slug": "fire-charm-3"
+        ]
       }
     ]
   },
@@ -539,56 +569,59 @@
     "id": 31,
     "ranks": [
       {
+        "id": 31,
+        "slug": "water-charm-1",
         "name": "Water Charm 1",
         "skills": [
           {
+            "id": 65,
+            "slug": "water-resistance-rank-1",
             "skill": 21,
+            "skillName": "Water Resistance",
             "level": 1,
             "description": "Water resistance +6",
             "modifiers": {
               "resistWater": 6
-            },
-            "id": 65,
-            "slug": "water-resistance-rank-1"
+            }
           }
-        ],
-        "id": 31,
-        "slug": "water-charm-1"
+        ]
       },
       {
+        "id": 32,
+        "slug": "water-charm-2",
         "name": "Water Charm 2",
         "skills": [
           {
+            "id": 66,
+            "slug": "water-resistance-rank-2",
             "skill": 21,
+            "skillName": "Water Resistance",
             "level": 2,
             "description": "Water resistance +12",
             "modifiers": {
               "resistWater": 12
-            },
-            "id": 66,
-            "slug": "water-resistance-rank-2"
+            }
           }
-        ],
-        "id": 32,
-        "slug": "water-charm-2"
+        ]
       },
       {
+        "id": 33,
+        "slug": "water-charm-3",
         "name": "Water Charm 3",
         "skills": [
           {
+            "id": 67,
+            "slug": "water-resistance-rank-3",
             "skill": 21,
+            "skillName": "Water Resistance",
             "level": 3,
             "description": "Water resistance +20 Defense +10",
             "modifiers": {
               "defense": 10,
               "resistWater": 20
-            },
-            "id": 67,
-            "slug": "water-resistance-rank-3"
+            }
           }
-        ],
-        "id": 33,
-        "slug": "water-charm-3"
+        ]
       }
     ]
   },
@@ -597,56 +630,59 @@
     "id": 34,
     "ranks": [
       {
+        "id": 34,
+        "slug": "thunder-charm-1",
         "name": "Thunder Charm 1",
         "skills": [
           {
+            "id": 71,
+            "slug": "thunder-resistance-rank-1",
             "skill": 23,
+            "skillName": "Thunder Resistance",
             "level": 1,
             "description": "Thunder resistance +6",
             "modifiers": {
               "resistThunder": 6
-            },
-            "id": 71,
-            "slug": "thunder-resistance-rank-1"
+            }
           }
-        ],
-        "id": 34,
-        "slug": "thunder-charm-1"
+        ]
       },
       {
+        "id": 35,
+        "slug": "thunder-charm-2",
         "name": "Thunder Charm 2",
         "skills": [
           {
+            "id": 72,
+            "slug": "thunder-resistance-rank-2",
             "skill": 23,
+            "skillName": "Thunder Resistance",
             "level": 2,
             "description": "Thunder resistance +12",
             "modifiers": {
               "resistThunder": 12
-            },
-            "id": 72,
-            "slug": "thunder-resistance-rank-2"
+            }
           }
-        ],
-        "id": 35,
-        "slug": "thunder-charm-2"
+        ]
       },
       {
+        "id": 36,
+        "slug": "thunder-charm-3",
         "name": "Thunder Charm 3",
         "skills": [
           {
+            "id": 73,
+            "slug": "thunder-resistance-rank-3",
             "skill": 23,
+            "skillName": "Thunder Resistance",
             "level": 3,
             "description": "Thunder resistance +20 Defense +10",
             "modifiers": {
               "defense": 10,
               "resistThunder": 20
-            },
-            "id": 73,
-            "slug": "thunder-resistance-rank-3"
+            }
           }
-        ],
-        "id": 36,
-        "slug": "thunder-charm-3"
+        ]
       }
     ]
   },
@@ -655,55 +691,58 @@
     "id": 37,
     "ranks": [
       {
+        "id": 37,
+        "slug": "blaze-charm-1",
         "name": "Blaze Charm 1",
         "skills": [
           {
+            "id": 80,
+            "slug": "fire-attack-rank-1",
             "skill": 26,
+            "skillName": "Fire Attack",
             "level": 1,
             "description": "Fire attack +30",
             "modifiers": {
               "damageFire": 30
-            },
-            "id": 80,
-            "slug": "fire-attack-rank-1"
+            }
           }
-        ],
-        "id": 37,
-        "slug": "blaze-charm-1"
+        ]
       },
       {
+        "id": 38,
+        "slug": "blaze-charm-2",
         "name": "Blaze Charm 2",
         "skills": [
           {
+            "id": 81,
+            "slug": "fire-attack-rank-2",
             "skill": 26,
+            "skillName": "Fire Attack",
             "level": 2,
             "description": "Fire attack +60",
             "modifiers": {
               "damageFire": 60
-            },
-            "id": 81,
-            "slug": "fire-attack-rank-2"
+            }
           }
-        ],
-        "id": 38,
-        "slug": "blaze-charm-2"
+        ]
       },
       {
+        "id": 39,
+        "slug": "blaze-charm-3",
         "name": "Blaze Charm 3",
         "skills": [
           {
+            "id": 82,
+            "slug": "fire-attack-rank-3",
             "skill": 26,
+            "skillName": "Fire Attack",
             "level": 3,
             "description": "Fire attack +100",
             "modifiers": {
               "damageFire": 100
-            },
-            "id": 82,
-            "slug": "fire-attack-rank-3"
+            }
           }
-        ],
-        "id": 39,
-        "slug": "blaze-charm-3"
+        ]
       }
     ]
   },
@@ -712,55 +751,58 @@
     "id": 40,
     "ranks": [
       {
+        "id": 40,
+        "slug": "flood-charm-1",
         "name": "Flood Charm 1",
         "skills": [
           {
+            "id": 85,
+            "slug": "water-attack-rank-1",
             "skill": 27,
+            "skillName": "Water Attack",
             "level": 1,
             "description": "Water attack +30",
             "modifiers": {
               "damageWater": 30
-            },
-            "id": 85,
-            "slug": "water-attack-rank-1"
+            }
           }
-        ],
-        "id": 40,
-        "slug": "flood-charm-1"
+        ]
       },
       {
+        "id": 41,
+        "slug": "flood-charm-2",
         "name": "Flood Charm 2",
         "skills": [
           {
+            "id": 86,
+            "slug": "water-attack-rank-2",
             "skill": 27,
+            "skillName": "Water Attack",
             "level": 2,
             "description": "Water attack +60",
             "modifiers": {
               "damageWater": 60
-            },
-            "id": 86,
-            "slug": "water-attack-rank-2"
+            }
           }
-        ],
-        "id": 41,
-        "slug": "flood-charm-2"
+        ]
       },
       {
+        "id": 42,
+        "slug": "flood-charm-3",
         "name": "Flood Charm 3",
         "skills": [
           {
+            "id": 87,
+            "slug": "water-attack-rank-3",
             "skill": 27,
+            "skillName": "Water Attack",
             "level": 3,
             "description": "Water attack +100",
             "modifiers": {
               "damageWater": 100
-            },
-            "id": 87,
-            "slug": "water-attack-rank-3"
+            }
           }
-        ],
-        "id": 42,
-        "slug": "flood-charm-3"
+        ]
       }
     ]
   },
@@ -769,55 +811,58 @@
     "id": 43,
     "ranks": [
       {
+        "id": 43,
+        "slug": "shock-charm-1",
         "name": "Shock Charm 1",
         "skills": [
           {
+            "id": 95,
+            "slug": "thunder-attack-rank-1",
             "skill": 29,
+            "skillName": "Thunder Attack",
             "level": 1,
             "description": "Thunder attack +30",
             "modifiers": {
               "damageThunder": 30
-            },
-            "id": 95,
-            "slug": "thunder-attack-rank-1"
+            }
           }
-        ],
-        "id": 43,
-        "slug": "shock-charm-1"
+        ]
       },
       {
+        "id": 44,
+        "slug": "shock-charm-2",
         "name": "Shock Charm 2",
         "skills": [
           {
+            "id": 96,
+            "slug": "thunder-attack-rank-2",
             "skill": 29,
+            "skillName": "Thunder Attack",
             "level": 2,
             "description": "Thunder attack +60",
             "modifiers": {
               "damageThunder": 60
-            },
-            "id": 96,
-            "slug": "thunder-attack-rank-2"
+            }
           }
-        ],
-        "id": 44,
-        "slug": "shock-charm-2"
+        ]
       },
       {
+        "id": 45,
+        "slug": "shock-charm-3",
         "name": "Shock Charm 3",
         "skills": [
           {
+            "id": 97,
+            "slug": "thunder-attack-rank-3",
             "skill": 29,
+            "skillName": "Thunder Attack",
             "level": 3,
             "description": "Thunder attack +100",
             "modifiers": {
               "damageThunder": 100
-            },
-            "id": 97,
-            "slug": "thunder-attack-rank-3"
+            }
           }
-        ],
-        "id": 45,
-        "slug": "shock-charm-3"
+        ]
       }
     ]
   },
@@ -826,49 +871,52 @@
     "id": 46,
     "ranks": [
       {
+        "id": 46,
+        "slug": "venom-charm-1",
         "name": "Venom Charm 1",
         "skills": [
           {
+            "id": 105,
+            "slug": "poison-attack-rank-1",
             "skill": 31,
+            "skillName": "Poison Attack",
             "level": 1,
             "description": "Poison buildup +5% Bonus: +10",
-            "modifiers": [],
-            "id": 105,
-            "slug": "poison-attack-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 46,
-        "slug": "venom-charm-1"
+        ]
       },
       {
+        "id": 47,
+        "slug": "venom-charm-2",
         "name": "Venom Charm 2",
         "skills": [
           {
+            "id": 106,
+            "slug": "poison-attack-rank-2",
             "skill": 31,
+            "skillName": "Poison Attack",
             "level": 2,
             "description": "Poison buildup +10% Bonus: +10",
-            "modifiers": [],
-            "id": 106,
-            "slug": "poison-attack-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 47,
-        "slug": "venom-charm-2"
+        ]
       },
       {
+        "id": 48,
+        "slug": "venom-charm-3",
         "name": "Venom Charm 3",
         "skills": [
           {
+            "id": 107,
+            "slug": "poison-attack-rank-3",
             "skill": 31,
+            "skillName": "Poison Attack",
             "level": 3,
             "description": "Poison buildup +20% Bonus: +10",
-            "modifiers": [],
-            "id": 107,
-            "slug": "poison-attack-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 48,
-        "slug": "venom-charm-3"
+        ]
       }
     ]
   },
@@ -877,49 +925,52 @@
     "id": 49,
     "ranks": [
       {
+        "id": 49,
+        "slug": "immobilize-charm-1",
         "name": "Immobilize Charm 1",
         "skills": [
           {
+            "id": 108,
+            "slug": "paralysis-attack-rank-1",
             "skill": 32,
+            "skillName": "Paralysis Attack",
             "level": 1,
             "description": "Paralysis buildup +5% Bonus: +10",
-            "modifiers": [],
-            "id": 108,
-            "slug": "paralysis-attack-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 49,
-        "slug": "immobilize-charm-1"
+        ]
       },
       {
+        "id": 50,
+        "slug": "immobilize-charm-2",
         "name": "Immobilize Charm 2",
         "skills": [
           {
+            "id": 109,
+            "slug": "paralysis-attack-rank-2",
             "skill": 32,
+            "skillName": "Paralysis Attack",
             "level": 2,
             "description": "Paralysis buildup +10% Bonus: +10",
-            "modifiers": [],
-            "id": 109,
-            "slug": "paralysis-attack-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 50,
-        "slug": "immobilize-charm-2"
+        ]
       },
       {
+        "id": 51,
+        "slug": "immobilize-charm-3",
         "name": "Immobilize Charm 3",
         "skills": [
           {
+            "id": 110,
+            "slug": "paralysis-attack-rank-3",
             "skill": 32,
+            "skillName": "Paralysis Attack",
             "level": 3,
             "description": "Paralysis buildup +20% Bonus: +10",
-            "modifiers": [],
-            "id": 110,
-            "slug": "paralysis-attack-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 51,
-        "slug": "immobilize-charm-3"
+        ]
       }
     ]
   },
@@ -928,49 +979,52 @@
     "id": 52,
     "ranks": [
       {
+        "id": 52,
+        "slug": "tranq-charm-1",
         "name": "Tranq Charm 1",
         "skills": [
           {
+            "id": 111,
+            "slug": "sleep-attack-rank-1",
             "skill": 33,
+            "skillName": "Sleep Attack",
             "level": 1,
             "description": "Sleep buildup +5% Bonus: +10",
-            "modifiers": [],
-            "id": 111,
-            "slug": "sleep-attack-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 52,
-        "slug": "tranq-charm-1"
+        ]
       },
       {
+        "id": 53,
+        "slug": "tranq-charm-2",
         "name": "Tranq Charm 2",
         "skills": [
           {
+            "id": 112,
+            "slug": "sleep-attack-rank-2",
             "skill": 33,
+            "skillName": "Sleep Attack",
             "level": 2,
             "description": "Sleep buildup +10% Bonus: +10",
-            "modifiers": [],
-            "id": 112,
-            "slug": "sleep-attack-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 53,
-        "slug": "tranq-charm-2"
+        ]
       },
       {
+        "id": 54,
+        "slug": "tranq-charm-3",
         "name": "Tranq Charm 3",
         "skills": [
           {
+            "id": 113,
+            "slug": "sleep-attack-rank-3",
             "skill": 33,
+            "skillName": "Sleep Attack",
             "level": 3,
             "description": "Sleep buildup +20% Bonus: +10",
-            "modifiers": [],
-            "id": 113,
-            "slug": "sleep-attack-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 54,
-        "slug": "tranq-charm-3"
+        ]
       }
     ]
   },
@@ -979,49 +1033,52 @@
     "id": 55,
     "ranks": [
       {
+        "id": 55,
+        "slug": "ko-charm-1",
         "name": "KO Charm 1",
         "skills": [
           {
+            "id": 153,
+            "slug": "slugger-rank-1",
             "skill": 47,
+            "skillName": "Slugger",
             "level": 1,
             "description": "Stun power +10%",
-            "modifiers": [],
-            "id": 153,
-            "slug": "slugger-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 55,
-        "slug": "ko-charm-1"
+        ]
       },
       {
+        "id": 56,
+        "slug": "ko-charm-2",
         "name": "KO Charm 2",
         "skills": [
           {
+            "id": 154,
+            "slug": "slugger-rank-2",
             "skill": 47,
+            "skillName": "Slugger",
             "level": 2,
             "description": "Stun power +20%",
-            "modifiers": [],
-            "id": 154,
-            "slug": "slugger-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 56,
-        "slug": "ko-charm-2"
+        ]
       },
       {
+        "id": 57,
+        "slug": "ko-charm-3",
         "name": "KO Charm 3",
         "skills": [
           {
+            "id": 155,
+            "slug": "slugger-rank-3",
             "skill": 47,
+            "skillName": "Slugger",
             "level": 3,
             "description": "Stun power +30%",
-            "modifiers": [],
-            "id": 155,
-            "slug": "slugger-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 57,
-        "slug": "ko-charm-3"
+        ]
       }
     ]
   },
@@ -1030,49 +1087,52 @@
     "id": 58,
     "ranks": [
       {
+        "id": 58,
+        "slug": "enervate-charm-1",
         "name": "Enervate Charm 1",
         "skills": [
           {
+            "id": 156,
+            "slug": "stamina-thief-rank-1",
             "skill": 48,
+            "skillName": "Stamina Thief",
             "level": 1,
             "description": "Exhaust power +10%",
-            "modifiers": [],
-            "id": 156,
-            "slug": "stamina-thief-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 58,
-        "slug": "enervate-charm-1"
+        ]
       },
       {
+        "id": 59,
+        "slug": "enervate-charm-2",
         "name": "Enervate Charm 2",
         "skills": [
           {
+            "id": 157,
+            "slug": "stamina-thief-rank-2",
             "skill": 48,
+            "skillName": "Stamina Thief",
             "level": 2,
             "description": "Exhaust power +20%",
-            "modifiers": [],
-            "id": 157,
-            "slug": "stamina-thief-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 59,
-        "slug": "enervate-charm-2"
+        ]
       },
       {
+        "id": 60,
+        "slug": "enervate-charm-3",
         "name": "Enervate Charm 3",
         "skills": [
           {
+            "id": 158,
+            "slug": "stamina-thief-rank-3",
             "skill": 48,
+            "skillName": "Stamina Thief",
             "level": 3,
             "description": "Exhaust power +30%",
-            "modifiers": [],
-            "id": 158,
-            "slug": "stamina-thief-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 60,
-        "slug": "enervate-charm-3"
+        ]
       }
     ]
   },
@@ -1081,49 +1141,52 @@
     "id": 61,
     "ranks": [
       {
+        "id": 61,
+        "slug": "artillery-charm-1",
         "name": "Artillery Charm 1",
         "skills": [
           {
+            "id": 190,
+            "slug": "artillery-rank-1",
             "skill": 61,
+            "skillName": "Artillery",
             "level": 1,
             "description": "Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%.",
-            "modifiers": [],
-            "id": 190,
-            "slug": "artillery-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 61,
-        "slug": "artillery-charm-1"
+        ]
       },
       {
+        "id": 62,
+        "slug": "artillery-charm-2",
         "name": "Artillery Charm 2",
         "skills": [
           {
+            "id": 191,
+            "slug": "artillery-rank-2",
             "skill": 61,
+            "skillName": "Artillery",
             "level": 2,
             "description": "Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.",
-            "modifiers": [],
-            "id": 191,
-            "slug": "artillery-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 62,
-        "slug": "artillery-charm-2"
+        ]
       },
       {
+        "id": 63,
+        "slug": "artillery-charm-3",
         "name": "Artillery Charm 3",
         "skills": [
           {
+            "id": 192,
+            "slug": "artillery-rank-3",
             "skill": 61,
+            "skillName": "Artillery",
             "level": 3,
             "description": "Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%.",
-            "modifiers": [],
-            "id": 192,
-            "slug": "artillery-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 63,
-        "slug": "artillery-charm-3"
+        ]
       }
     ]
   },
@@ -1132,49 +1195,52 @@
     "id": 64,
     "ranks": [
       {
+        "id": 64,
+        "slug": "hungerless-charm-1",
         "name": "Hungerless Charm 1",
         "skills": [
           {
+            "id": 207,
+            "slug": "hunger-resistance-rank-1",
             "skill": 67,
+            "skillName": "Hunger Resistance",
             "level": 1,
             "description": "Extends the time until your stamina cap decreases by 30%.",
-            "modifiers": [],
-            "id": 207,
-            "slug": "hunger-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 64,
-        "slug": "hungerless-charm-1"
+        ]
       },
       {
+        "id": 65,
+        "slug": "hungerless-charm-2",
         "name": "Hungerless Charm 2",
         "skills": [
           {
+            "id": 208,
+            "slug": "hunger-resistance-rank-2",
             "skill": 67,
+            "skillName": "Hunger Resistance",
             "level": 2,
             "description": "Extends the time until your stamina cap decreases by 60%.",
-            "modifiers": [],
-            "id": 208,
-            "slug": "hunger-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 65,
-        "slug": "hungerless-charm-2"
+        ]
       },
       {
+        "id": 66,
+        "slug": "hungerless-charm-3",
         "name": "Hungerless Charm 3",
         "skills": [
           {
+            "id": 209,
+            "slug": "hunger-resistance-rank-3",
             "skill": 67,
+            "skillName": "Hunger Resistance",
             "level": 3,
             "description": "Prevents your stamina cap from decreasing.",
-            "modifiers": [],
-            "id": 209,
-            "slug": "hunger-resistance-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 66,
-        "slug": "hungerless-charm-3"
+        ]
       }
     ]
   },
@@ -1183,49 +1249,52 @@
     "id": 67,
     "ranks": [
       {
+        "id": 67,
+        "slug": "ironside-charm-1",
         "name": "Ironside Charm 1",
         "skills": [
           {
+            "id": 218,
+            "slug": "guard-rank-1",
             "skill": 70,
+            "skillName": "Guard",
             "level": 1,
             "description": "Very slightly decreases the impact of attacks.",
-            "modifiers": [],
-            "id": 218,
-            "slug": "guard-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 67,
-        "slug": "ironside-charm-1"
+        ]
       },
       {
+        "id": 68,
+        "slug": "ironside-charm-2",
         "name": "Ironside Charm 2",
         "skills": [
           {
+            "id": 219,
+            "slug": "guard-rank-2",
             "skill": 70,
+            "skillName": "Guard",
             "level": 2,
             "description": "Slightly decreases the impact of attacks and reduces stamina depletion by 15%.",
-            "modifiers": [],
-            "id": 219,
-            "slug": "guard-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 68,
-        "slug": "ironside-charm-2"
+        ]
       },
       {
+        "id": 69,
+        "slug": "ironside-charm-3",
         "name": "Ironside Charm 3",
         "skills": [
           {
+            "id": 220,
+            "slug": "guard-rank-3",
             "skill": 70,
+            "skillName": "Guard",
             "level": 3,
             "description": "Greatly decreases the impact of attacks and redcues stamina depletion by 15%.",
-            "modifiers": [],
-            "id": 220,
-            "slug": "guard-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 69,
-        "slug": "ironside-charm-3"
+        ]
       }
     ]
   },
@@ -1234,49 +1303,52 @@
     "id": 70,
     "ranks": [
       {
+        "id": 70,
+        "slug": "friendship-charm-1",
         "name": "Friendship Charm 1",
         "skills": [
           {
+            "id": 226,
+            "slug": "wide-range-rank-1",
             "skill": 72,
+            "skillName": "Wide-Range",
             "level": 1,
             "description": "Items affect nearby allies with 33% of their efficacy.",
-            "modifiers": [],
-            "id": 226,
-            "slug": "wide-range-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 70,
-        "slug": "friendship-charm-1"
+        ]
       },
       {
+        "id": 71,
+        "slug": "friendship-charm-2",
         "name": "Friendship Charm 2",
         "skills": [
           {
+            "id": 227,
+            "slug": "wide-range-rank-2",
             "skill": 72,
+            "skillName": "Wide-Range",
             "level": 2,
             "description": "Items affect nearby allies in a wider radius with 33% of their efficacy.",
-            "modifiers": [],
-            "id": 227,
-            "slug": "wide-range-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 71,
-        "slug": "friendship-charm-2"
+        ]
       },
       {
+        "id": 72,
+        "slug": "friendship-charm-3",
         "name": "Friendship Charm 3",
         "skills": [
           {
+            "id": 228,
+            "slug": "wide-range-rank-3",
             "skill": 72,
+            "skillName": "Wide-Range",
             "level": 3,
             "description": "Items affect nearby allies in a wider radius with 66% of their efficacy.",
-            "modifiers": [],
-            "id": 228,
-            "slug": "wide-range-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 72,
-        "slug": "friendship-charm-3"
+        ]
       }
     ]
   },
@@ -1285,49 +1357,52 @@
     "id": 73,
     "ranks": [
       {
+        "id": 73,
+        "slug": "extension-charm-1",
         "name": "Extension Charm 1",
         "skills": [
           {
+            "id": 231,
+            "slug": "item-prolonger-rank-1",
             "skill": 73,
+            "skillName": "Item Prolonger",
             "level": 1,
             "description": "Item effect duration +10%",
-            "modifiers": [],
-            "id": 231,
-            "slug": "item-prolonger-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 73,
-        "slug": "extension-charm-1"
+        ]
       },
       {
+        "id": 74,
+        "slug": "extension-charm-2",
         "name": "Extension Charm 2",
         "skills": [
           {
+            "id": 232,
+            "slug": "item-prolonger-rank-2",
             "skill": 73,
+            "skillName": "Item Prolonger",
             "level": 2,
             "description": "Item effect duration +25%",
-            "modifiers": [],
-            "id": 232,
-            "slug": "item-prolonger-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 74,
-        "slug": "extension-charm-2"
+        ]
       },
       {
+        "id": 75,
+        "slug": "extension-charm-3",
         "name": "Extension Charm 3",
         "skills": [
           {
+            "id": 233,
+            "slug": "item-prolonger-rank-3",
             "skill": 73,
+            "skillName": "Item Prolonger",
             "level": 3,
             "description": "Item effect duration +50%",
-            "modifiers": [],
-            "id": 233,
-            "slug": "item-prolonger-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 75,
-        "slug": "extension-charm-3"
+        ]
       }
     ]
   },
@@ -1336,49 +1411,52 @@
     "id": 76,
     "ranks": [
       {
+        "id": 76,
+        "slug": "gluttons-charm-1",
         "name": "Glutton's Charm 1",
         "skills": [
           {
+            "id": 235,
+            "slug": "speed-eating-rank-1",
             "skill": 75,
+            "skillName": "Speed Eating",
             "level": 1,
             "description": "Slightly increases item use speed.",
-            "modifiers": [],
-            "id": 235,
-            "slug": "speed-eating-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 76,
-        "slug": "gluttons-charm-1"
+        ]
       },
       {
+        "id": 77,
+        "slug": "gluttons-charm-2",
         "name": "Glutton's Charm 2",
         "skills": [
           {
+            "id": 236,
+            "slug": "speed-eating-rank-2",
             "skill": 75,
+            "skillName": "Speed Eating",
             "level": 2,
             "description": "Moderately increases item use speed.",
-            "modifiers": [],
-            "id": 236,
-            "slug": "speed-eating-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 77,
-        "slug": "gluttons-charm-2"
+        ]
       },
       {
+        "id": 78,
+        "slug": "gluttons-charm-3",
         "name": "Glutton's Charm 3",
         "skills": [
           {
+            "id": 237,
+            "slug": "speed-eating-rank-3",
             "skill": 75,
+            "skillName": "Speed Eating",
             "level": 3,
             "description": "Greatly increases item use speed.",
-            "modifiers": [],
-            "id": 237,
-            "slug": "speed-eating-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 78,
-        "slug": "gluttons-charm-3"
+        ]
       }
     ]
   },
@@ -1387,49 +1465,52 @@
     "id": 79,
     "ranks": [
       {
+        "id": 79,
+        "slug": "blessing-charm-1",
         "name": "Blessing Charm 1",
         "skills": [
           {
+            "id": 252,
+            "slug": "divine-blessing-rank-1",
             "skill": 84,
+            "skillName": "Divine Blessing",
             "level": 1,
             "description": "While active, reduces damage taken by 15%.",
-            "modifiers": [],
-            "id": 252,
-            "slug": "divine-blessing-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 79,
-        "slug": "blessing-charm-1"
+        ]
       },
       {
+        "id": 80,
+        "slug": "blessing-charm-2",
         "name": "Blessing Charm 2",
         "skills": [
           {
+            "id": 253,
+            "slug": "divine-blessing-rank-2",
             "skill": 84,
+            "skillName": "Divine Blessing",
             "level": 2,
             "description": "While active, reduces damage taken by 30%.",
-            "modifiers": [],
-            "id": 253,
-            "slug": "divine-blessing-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 80,
-        "slug": "blessing-charm-2"
+        ]
       },
       {
+        "id": 81,
+        "slug": "blessing-charm-3",
         "name": "Blessing Charm 3",
         "skills": [
           {
+            "id": 254,
+            "slug": "divine-blessing-rank-3",
             "skill": 84,
+            "skillName": "Divine Blessing",
             "level": 3,
             "description": "While active, reduces damage taken by 50%.",
-            "modifiers": [],
-            "id": 254,
-            "slug": "divine-blessing-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 81,
-        "slug": "blessing-charm-3"
+        ]
       }
     ]
   },
@@ -1438,49 +1519,52 @@
     "id": 82,
     "ranks": [
       {
+        "id": 82,
+        "slug": "rally-charm-1",
         "name": "Rally Charm 1",
         "skills": [
           {
+            "id": 255,
+            "slug": "palico-rally-rank-1",
             "skill": 85,
+            "skillName": "Palico Rally",
             "level": 1,
             "description": "Increases Palico attack power and defense by 5%.",
-            "modifiers": [],
-            "id": 255,
-            "slug": "palico-rally-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 82,
-        "slug": "rally-charm-1"
+        ]
       },
       {
+        "id": 83,
+        "slug": "rally-charm-2",
         "name": "Rally Charm 2",
         "skills": [
           {
+            "id": 256,
+            "slug": "palico-rally-rank-2",
             "skill": 85,
+            "skillName": "Palico Rally",
             "level": 2,
             "description": "Increases Palico attack power and defense by 10%.",
-            "modifiers": [],
-            "id": 256,
-            "slug": "palico-rally-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 83,
-        "slug": "rally-charm-2"
+        ]
       },
       {
+        "id": 84,
+        "slug": "rally-charm-3",
         "name": "Rally Charm 3",
         "skills": [
           {
+            "id": 257,
+            "slug": "palico-rally-rank-3",
             "skill": 85,
+            "skillName": "Palico Rally",
             "level": 3,
             "description": "Increases Palico attack power and defense by 15%.",
-            "modifiers": [],
-            "id": 257,
-            "slug": "palico-rally-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 84,
-        "slug": "rally-charm-3"
+        ]
       }
     ]
   },
@@ -1489,49 +1573,52 @@
     "id": 85,
     "ranks": [
       {
+        "id": 85,
+        "slug": "botany-charm-1",
         "name": "Botany Charm 1",
         "skills": [
           {
+            "id": 260,
+            "slug": "botanist-rank-1",
             "skill": 86,
+            "skillName": "Botanist",
             "level": 1,
             "description": "One extra consumable herb item per gather.",
-            "modifiers": [],
-            "id": 260,
-            "slug": "botanist-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 85,
-        "slug": "botany-charm-1"
+        ]
       },
       {
+        "id": 86,
+        "slug": "botany-charm-2",
         "name": "Botany Charm 2",
         "skills": [
           {
+            "id": 261,
+            "slug": "botanist-rank-2",
             "skill": 86,
+            "skillName": "Botanist",
             "level": 2,
             "description": "One extra consumable herb, fruit, nut, or seed item per gather.",
-            "modifiers": [],
-            "id": 261,
-            "slug": "botanist-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 86,
-        "slug": "botany-charm-2"
+        ]
       },
       {
+        "id": 87,
+        "slug": "botany-charm-3",
         "name": "Botany Charm 3",
         "skills": [
           {
+            "id": 262,
+            "slug": "botanist-rank-3",
             "skill": 86,
+            "skillName": "Botanist",
             "level": 3,
             "description": "One extra consumable herb, fruit, nut, seed, or insect item per gather.",
-            "modifiers": [],
-            "id": 262,
-            "slug": "botanist-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 87,
-        "slug": "botany-charm-3"
+        ]
       }
     ]
   },
@@ -1540,49 +1627,52 @@
     "id": 88,
     "ranks": [
       {
+        "id": 88,
+        "slug": "geology-charm-1",
         "name": "Geology Charm 1",
         "skills": [
           {
+            "id": 264,
+            "slug": "geologist-rank-1",
             "skill": 87,
+            "skillName": "Geologist",
             "level": 1,
             "description": "Allows you to gather one extra time from bonepiles.",
-            "modifiers": [],
-            "id": 264,
-            "slug": "geologist-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 88,
-        "slug": "geology-charm-1"
+        ]
       },
       {
+        "id": 89,
+        "slug": "geology-charm-2",
         "name": "Geology Charm 2",
         "skills": [
           {
+            "id": 265,
+            "slug": "geologist-rank-2",
             "skill": 87,
+            "skillName": "Geologist",
             "level": 2,
             "description": "Allows you to gather one extra time from bonepiles and special item gathering points.",
-            "modifiers": [],
-            "id": 265,
-            "slug": "geologist-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 89,
-        "slug": "geology-charm-2"
+        ]
       },
       {
+        "id": 90,
+        "slug": "geology-charm-3",
         "name": "Geology Charm 3",
         "skills": [
           {
+            "id": 266,
+            "slug": "geologist-rank-3",
             "skill": 87,
+            "skillName": "Geologist",
             "level": 3,
             "description": "Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops.",
-            "modifiers": [],
-            "id": 266,
-            "slug": "geologist-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 90,
-        "slug": "geology-charm-3"
+        ]
       }
     ]
   },
@@ -1591,49 +1681,52 @@
     "id": 91,
     "ranks": [
       {
+        "id": 91,
+        "slug": "slinger-charm-1",
         "name": "Slinger Charm 1",
         "skills": [
           {
+            "id": 270,
+            "slug": "slinger-capacity-rank-1",
             "skill": 89,
+            "skillName": "Slinger Capacity",
             "level": 1,
             "description": "Increases the loading capacity for slinger ammo collected from the ground or plants.",
-            "modifiers": [],
-            "id": 270,
-            "slug": "slinger-capacity-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 91,
-        "slug": "slinger-charm-1"
+        ]
       },
       {
+        "id": 92,
+        "slug": "slinger-charm-2",
         "name": "Slinger Charm 2",
         "skills": [
           {
+            "id": 271,
+            "slug": "slinger-capacity-rank-2",
             "skill": 89,
+            "skillName": "Slinger Capacity",
             "level": 2,
             "description": "In addition, increases the loading capacity for some slinger ammo dropped by monsters.",
-            "modifiers": [],
-            "id": 271,
-            "slug": "slinger-capacity-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 92,
-        "slug": "slinger-charm-2"
+        ]
       },
       {
+        "id": 93,
+        "slug": "slinger-charm-3",
         "name": "Slinger Charm 3",
         "skills": [
           {
+            "id": 272,
+            "slug": "slinger-capacity-rank-3",
             "skill": 89,
+            "skillName": "Slinger Capacity",
             "level": 3,
             "description": "In addition, increases the loading capacity for all slinger ammo dropped by monsters.",
-            "modifiers": [],
-            "id": 272,
-            "slug": "slinger-capacity-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 93,
-        "slug": "slinger-charm-3"
+        ]
       }
     ]
   },
@@ -1642,49 +1735,52 @@
     "id": 94,
     "ranks": [
       {
+        "id": 94,
+        "slug": "stealth-charm-1",
         "name": "Stealth Charm 1",
         "skills": [
           {
+            "id": 273,
+            "slug": "stealth-rank-1",
             "skill": 90,
+            "skillName": "Stealth",
             "level": 1,
             "description": "Makes it slightly easier for monsters to lose sight of you.",
-            "modifiers": [],
-            "id": 273,
-            "slug": "stealth-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 94,
-        "slug": "stealth-charm-1"
+        ]
       },
       {
+        "id": 95,
+        "slug": "stealth-charm-2",
         "name": "Stealth Charm 2",
         "skills": [
           {
+            "id": 274,
+            "slug": "stealth-rank-2",
             "skill": 90,
+            "skillName": "Stealth",
             "level": 2,
             "description": "Makes it moderately easier for monsters to lose sight of you.",
-            "modifiers": [],
-            "id": 274,
-            "slug": "stealth-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 95,
-        "slug": "stealth-charm-2"
+        ]
       },
       {
+        "id": 96,
+        "slug": "stealth-charm-3",
         "name": "Stealth Charm 3",
         "skills": [
           {
+            "id": 275,
+            "slug": "stealth-rank-3",
             "skill": 90,
+            "skillName": "Stealth",
             "level": 3,
             "description": "Makes it much easier for monsters to lose sight of you.",
-            "modifiers": [],
-            "id": 275,
-            "slug": "stealth-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 96,
-        "slug": "stealth-charm-3"
+        ]
       }
     ]
   },
@@ -1693,49 +1789,52 @@
     "id": 97,
     "ranks": [
       {
+        "id": 97,
+        "slug": "smoke-charm-1",
         "name": "Smoke Charm 1",
         "skills": [
           {
+            "id": 282,
+            "slug": "sporepuff-expert-rank-1",
             "skill": 95,
+            "skillName": "Sporepuff Expert",
             "level": 1,
             "description": "Sporepuffs restore 20 health.",
-            "modifiers": [],
-            "id": 282,
-            "slug": "sporepuff-expert-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 97,
-        "slug": "smoke-charm-1"
+        ]
       },
       {
+        "id": 98,
+        "slug": "smoke-charm-2",
         "name": "Smoke Charm 2",
         "skills": [
           {
+            "id": 283,
+            "slug": "sporepuff-expert-rank-2",
             "skill": 95,
+            "skillName": "Sporepuff Expert",
             "level": 2,
             "description": "Sporepuffs restore 35 health.",
-            "modifiers": [],
-            "id": 283,
-            "slug": "sporepuff-expert-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 98,
-        "slug": "smoke-charm-2"
+        ]
       },
       {
+        "id": 99,
+        "slug": "smoke-charm-3",
         "name": "Smoke Charm 3",
         "skills": [
           {
+            "id": 284,
+            "slug": "sporepuff-expert-rank-3",
             "skill": 95,
+            "skillName": "Sporepuff Expert",
             "level": 3,
             "description": "Sporepuffs restore 60 health.",
-            "modifiers": [],
-            "id": 284,
-            "slug": "sporepuff-expert-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 99,
-        "slug": "smoke-charm-3"
+        ]
       }
     ]
   },
@@ -1744,49 +1843,52 @@
     "id": 100,
     "ranks": [
       {
+        "id": 100,
+        "slug": "mirewalker-charm-1",
         "name": "Mirewalker Charm 1",
         "skills": [
           {
+            "id": 285,
+            "slug": "aquatic-expert-rank-1",
             "skill": 96,
+            "skillName": "Aquatic Expert",
             "level": 1,
             "description": "Prevents water from slowing movement.",
-            "modifiers": [],
-            "id": 285,
-            "slug": "aquatic-expert-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 100,
-        "slug": "mirewalker-charm-1"
+        ]
       },
       {
+        "id": 101,
+        "slug": "mirewalker-charm-2",
         "name": "Mirewalker Charm 2",
         "skills": [
           {
+            "id": 286,
+            "slug": "aquatic-expert-rank-2",
             "skill": 96,
+            "skillName": "Aquatic Expert",
             "level": 2,
             "description": "Prevents water from slowing movement and improves evasion while in water.",
-            "modifiers": [],
-            "id": 286,
-            "slug": "aquatic-expert-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 101,
-        "slug": "mirewalker-charm-2"
+        ]
       },
       {
+        "id": 102,
+        "slug": "mirewalker-charm-3",
         "name": "Mirewalker Charm 3",
         "skills": [
           {
+            "id": 287,
+            "slug": "aquatic-expert-rank-3",
             "skill": 96,
+            "skillName": "Aquatic Expert",
             "level": 3,
             "description": "Prevents water from slowing movement and greatly improves evasion while in water.",
-            "modifiers": [],
-            "id": 287,
-            "slug": "aquatic-expert-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 102,
-        "slug": "mirewalker-charm-3"
+        ]
       }
     ]
   },
@@ -1795,49 +1897,52 @@
     "id": 103,
     "ranks": [
       {
+        "id": 103,
+        "slug": "insect-charm-1",
         "name": "Insect Charm 1",
         "skills": [
           {
+            "id": 291,
+            "slug": "entomologist-rank-1",
             "skill": 100,
+            "skillName": "Entomologist",
             "level": 1,
             "description": "Increases the chances of a corpse being left behind.",
-            "modifiers": [],
-            "id": 291,
-            "slug": "entomologist-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 103,
-        "slug": "insect-charm-1"
+        ]
       },
       {
+        "id": 104,
+        "slug": "insect-charm-2",
         "name": "Insect Charm 2",
         "skills": [
           {
+            "id": 292,
+            "slug": "entomologist-rank-2",
             "skill": 100,
+            "skillName": "Entomologist",
             "level": 2,
             "description": "Greatly increases the chances of a corpse being left behind.",
-            "modifiers": [],
-            "id": 292,
-            "slug": "entomologist-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 104,
-        "slug": "insect-charm-2"
+        ]
       },
       {
+        "id": 105,
+        "slug": "insect-charm-3",
         "name": "Insect Charm 3",
         "skills": [
           {
+            "id": 293,
+            "slug": "entomologist-rank-3",
             "skill": 100,
+            "skillName": "Entomologist",
             "level": 3,
             "description": "Makes it so corpses will always be left behind.",
-            "modifiers": [],
-            "id": 293,
-            "slug": "entomologist-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 105,
-        "slug": "insect-charm-3"
+        ]
       }
     ]
   },
@@ -1846,49 +1951,52 @@
     "id": 106,
     "ranks": [
       {
+        "id": 106,
+        "slug": "intimidator-charm-1",
         "name": "Intimidator Charm 1",
         "skills": [
           {
+            "id": 305,
+            "slug": "intimidator-rank-1",
             "skill": 108,
+            "skillName": "Intimidator",
             "level": 1,
             "description": "Discourages monsters from engaging you even if you've been spotted.",
-            "modifiers": [],
-            "id": 305,
-            "slug": "intimidator-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 106,
-        "slug": "intimidator-charm-1"
+        ]
       },
       {
+        "id": 107,
+        "slug": "intimidator-charm-2",
         "name": "Intimidator Charm 2",
         "skills": [
           {
+            "id": 306,
+            "slug": "intimidator-rank-2",
             "skill": 108,
+            "skillName": "Intimidator",
             "level": 2,
             "description": "Highly discourages monsters from engaging you even if you've been spotted.",
-            "modifiers": [],
-            "id": 306,
-            "slug": "intimidator-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 107,
-        "slug": "intimidator-charm-2"
+        ]
       },
       {
+        "id": 108,
+        "slug": "intimidator-charm-3",
         "name": "Intimidator Charm 3",
         "skills": [
           {
+            "id": 307,
+            "slug": "intimidator-rank-3",
             "skill": 108,
+            "skillName": "Intimidator",
             "level": 3,
             "description": "Prevents monsters from engaging you even if you've been spotted.",
-            "modifiers": [],
-            "id": 307,
-            "slug": "intimidator-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 108,
-        "slug": "intimidator-charm-3"
+        ]
       }
     ]
   },
@@ -1897,34 +2005,36 @@
     "id": 109,
     "ranks": [
       {
+        "id": 109,
+        "slug": "heavy-artillery-charm-1",
         "name": "Heavy Artillery Charm 1",
         "skills": [
           {
+            "id": 193,
+            "slug": "heavy-artillery-rank-1",
             "skill": 62,
+            "skillName": "Heavy Artillery",
             "level": 1,
             "description": "Firepower +10%",
-            "modifiers": [],
-            "id": 193,
-            "slug": "heavy-artillery-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 109,
-        "slug": "heavy-artillery-charm-1"
+        ]
       },
       {
+        "id": 110,
+        "slug": "heavy-artillery-charm-2",
         "name": "Heavy Artillery Charm 2",
         "skills": [
           {
+            "id": 194,
+            "slug": "heavy-artillery-rank-2",
             "skill": 62,
+            "skillName": "Heavy Artillery",
             "level": 2,
             "description": "Firepower +20%",
-            "modifiers": [],
-            "id": 194,
-            "slug": "heavy-artillery-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 110,
-        "slug": "heavy-artillery-charm-2"
+        ]
       }
     ]
   },
@@ -1933,19 +2043,20 @@
     "id": 111,
     "ranks": [
       {
+        "id": 111,
+        "slug": "light-eaters-charm",
         "name": "Light Eater's Charm",
         "skills": [
           {
+            "id": 234,
+            "slug": "free-meal-rank-1",
             "skill": 74,
+            "skillName": "Free Meal",
             "level": 1,
             "description": "Activates 25% of the time.",
-            "modifiers": [],
-            "id": 234,
-            "slug": "free-meal-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 111,
-        "slug": "light-eaters-charm"
+        ]
       }
     ]
   },
@@ -1954,19 +2065,20 @@
     "id": 112,
     "ranks": [
       {
+        "id": 112,
+        "slug": "tracker-charm",
         "name": "Tracker Charm",
         "skills": [
           {
+            "id": 297,
+            "slug": "scenthound-rank-1",
             "skill": 102,
+            "skillName": "Scenthound",
             "level": 1,
             "description": "Increases gauge fill rate by 50%.",
-            "modifiers": [],
-            "id": 297,
-            "slug": "scenthound-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 112,
-        "slug": "tracker-charm"
+        ]
       }
     ]
   },
@@ -1975,19 +2087,20 @@
     "id": 113,
     "ranks": [
       {
+        "id": 113,
+        "slug": "fortification-charm",
         "name": "Fortification Charm",
         "skills": [
           {
+            "id": 179,
+            "slug": "fortify-rank-1",
             "skill": 55,
+            "skillName": "Fortify",
             "level": 1,
             "description": "Increases attack by 10% and defense by 15% with each use.",
-            "modifiers": [],
-            "id": 179,
-            "slug": "fortify-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 113,
-        "slug": "fortification-charm"
+        ]
       }
     ]
   },
@@ -1996,19 +2109,20 @@
     "id": 114,
     "ranks": [
       {
+        "id": 114,
+        "slug": "performers-charm",
         "name": "Performer's Charm",
         "skills": [
           {
+            "id": 186,
+            "slug": "horn-maestro-rank-1",
             "skill": 58,
+            "skillName": "Horn Maestro",
             "level": 1,
             "description": "Extends melody effect duration and increases health recovery.",
-            "modifiers": [],
-            "id": 186,
-            "slug": "horn-maestro-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 114,
-        "slug": "performers-charm"
+        ]
       }
     ]
   },
@@ -2017,19 +2131,20 @@
     "id": 115,
     "ranks": [
       {
+        "id": 115,
+        "slug": "capacity-charm",
         "name": "Capacity Charm",
         "skills": [
           {
+            "id": 187,
+            "slug": "capacity-boost-rank-1",
             "skill": 59,
+            "skillName": "Capacity Boost",
             "level": 1,
             "description": "Loading capacity +1",
-            "modifiers": [],
-            "id": 187,
-            "slug": "capacity-boost-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 115,
-        "slug": "capacity-charm"
+        ]
       }
     ]
   },
@@ -2038,49 +2153,52 @@
     "id": 116,
     "ranks": [
       {
+        "id": 116,
+        "slug": "bleed-charm-1",
         "name": "Bleed Charm 1",
         "skills": [
           {
+            "id": 17,
+            "slug": "bleeding-resistance-rank-1",
             "skill": 7,
+            "skillName": "Bleeding Resistance",
             "level": 1,
             "description": "Reduces damage while bleeding.",
-            "modifiers": [],
-            "id": 17,
-            "slug": "bleeding-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 116,
-        "slug": "bleed-charm-1"
+        ]
       },
       {
+        "id": 117,
+        "slug": "bleed-charm-2",
         "name": "Bleed Charm 2",
         "skills": [
           {
+            "id": 18,
+            "slug": "bleeding-resistance-rank-2",
             "skill": 7,
+            "skillName": "Bleeding Resistance",
             "level": 2,
             "description": "Greatly reduces damage while bleeding.",
-            "modifiers": [],
-            "id": 18,
-            "slug": "bleeding-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 117,
-        "slug": "bleed-charm-2"
+        ]
       },
       {
+        "id": 118,
+        "slug": "bleed-charm-3",
         "name": "Bleed Charm 3",
         "skills": [
           {
+            "id": 19,
+            "slug": "bleeding-resistance-rank-3",
             "skill": 7,
+            "skillName": "Bleeding Resistance",
             "level": 3,
             "description": "Prevents bleeding.",
-            "modifiers": [],
-            "id": 19,
-            "slug": "bleeding-resistance-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 118,
-        "slug": "bleed-charm-3"
+        ]
       }
     ]
   },
@@ -2089,49 +2207,52 @@
     "id": 119,
     "ranks": [
       {
+        "id": 119,
+        "slug": "speed-heal-charm-1",
         "name": "Speed Heal Charm 1",
         "skills": [
           {
+            "id": 59,
+            "slug": "recovery-speed-rank-1",
             "skill": 19,
+            "skillName": "Recovery Speed",
             "level": 1,
             "description": "Doubles the speed at which you heal recoverable damage.",
-            "modifiers": [],
-            "id": 59,
-            "slug": "recovery-speed-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 119,
-        "slug": "speed-heal-charm-1"
+        ]
       },
       {
+        "id": 120,
+        "slug": "speed-heal-charm-2",
         "name": "Speed Heal Charm 2",
         "skills": [
           {
+            "id": 60,
+            "slug": "recovery-speed-rank-2",
             "skill": 19,
+            "skillName": "Recovery Speed",
             "level": 2,
             "description": "Triples the speed at which you heal recoverable damage.",
-            "modifiers": [],
-            "id": 60,
-            "slug": "recovery-speed-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 120,
-        "slug": "speed-heal-charm-2"
+        ]
       },
       {
+        "id": 121,
+        "slug": "speed-heal-charm-3",
         "name": "Speed Heal Charm 3",
         "skills": [
           {
+            "id": 61,
+            "slug": "recovery-speed-rank-3",
             "skill": 19,
+            "skillName": "Recovery Speed",
             "level": 3,
             "description": "Quadruples the speed at which you heal recoverable damage.",
-            "modifiers": [],
-            "id": 61,
-            "slug": "recovery-speed-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 121,
-        "slug": "speed-heal-charm-3"
+        ]
       }
     ]
   },
@@ -2140,56 +2261,59 @@
     "id": 122,
     "ranks": [
       {
+        "id": 122,
+        "slug": "ice-charm-1",
         "name": "Ice Charm 1",
         "skills": [
           {
+            "id": 68,
+            "slug": "ice-resistance-rank-1",
             "skill": 22,
+            "skillName": "Ice Resistance",
             "level": 1,
             "description": "Ice resistance +6",
             "modifiers": {
               "resistIce": 6
-            },
-            "id": 68,
-            "slug": "ice-resistance-rank-1"
+            }
           }
-        ],
-        "id": 122,
-        "slug": "ice-charm-1"
+        ]
       },
       {
+        "id": 123,
+        "slug": "ice-charm-2",
         "name": "Ice Charm 2",
         "skills": [
           {
+            "id": 69,
+            "slug": "ice-resistance-rank-2",
             "skill": 22,
+            "skillName": "Ice Resistance",
             "level": 2,
             "description": "Ice resistance +12",
             "modifiers": {
               "resistIce": 12
-            },
-            "id": 69,
-            "slug": "ice-resistance-rank-2"
+            }
           }
-        ],
-        "id": 123,
-        "slug": "ice-charm-2"
+        ]
       },
       {
+        "id": 124,
+        "slug": "ice-charm-3",
         "name": "Ice Charm 3",
         "skills": [
           {
+            "id": 70,
+            "slug": "ice-resistance-rank-3",
             "skill": 22,
+            "skillName": "Ice Resistance",
             "level": 3,
             "description": "Ice resistance +20 Defense +10",
             "modifiers": {
               "defense": 10,
               "resistIce": 20
-            },
-            "id": 70,
-            "slug": "ice-resistance-rank-3"
+            }
           }
-        ],
-        "id": 124,
-        "slug": "ice-charm-3"
+        ]
       }
     ]
   },
@@ -2198,49 +2322,52 @@
     "id": 125,
     "ranks": [
       {
+        "id": 125,
+        "slug": "blight-charm-1",
         "name": "Blight Charm 1",
         "skills": [
           {
+            "id": 77,
+            "slug": "blight-resistance-rank-1",
             "skill": 25,
+            "skillName": "Blight Resistance",
             "level": 1,
             "description": "Reduces the duration of all elemental blights by 30%.",
-            "modifiers": [],
-            "id": 77,
-            "slug": "blight-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 125,
-        "slug": "blight-charm-1"
+        ]
       },
       {
+        "id": 126,
+        "slug": "blight-charm-2",
         "name": "Blight Charm 2",
         "skills": [
           {
+            "id": 78,
+            "slug": "blight-resistance-rank-2",
             "skill": 25,
+            "skillName": "Blight Resistance",
             "level": 2,
             "description": "Reduces the duration of all elemental blights by 60%.",
-            "modifiers": [],
-            "id": 78,
-            "slug": "blight-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 126,
-        "slug": "blight-charm-2"
+        ]
       },
       {
+        "id": 127,
+        "slug": "blight-charm-3",
         "name": "Blight Charm 3",
         "skills": [
           {
+            "id": 79,
+            "slug": "blight-resistance-rank-3",
             "skill": 25,
+            "skillName": "Blight Resistance",
             "level": 3,
             "description": "Nullifies all elemental blights.",
-            "modifiers": [],
-            "id": 79,
-            "slug": "blight-resistance-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 127,
-        "slug": "blight-charm-3"
+        ]
       }
     ]
   },
@@ -2249,55 +2376,58 @@
     "id": 128,
     "ranks": [
       {
+        "id": 128,
+        "slug": "frost-charm-1",
         "name": "Frost Charm 1",
         "skills": [
           {
+            "id": 90,
+            "slug": "ice-attack-rank-1",
             "skill": 28,
+            "skillName": "Ice Attack",
             "level": 1,
             "description": "Ice attack +30",
             "modifiers": {
               "damageIce": 30
-            },
-            "id": 90,
-            "slug": "ice-attack-rank-1"
+            }
           }
-        ],
-        "id": 128,
-        "slug": "frost-charm-1"
+        ]
       },
       {
+        "id": 129,
+        "slug": "frost-charm-2",
         "name": "Frost Charm 2",
         "skills": [
           {
+            "id": 91,
+            "slug": "ice-attack-rank-2",
             "skill": 28,
+            "skillName": "Ice Attack",
             "level": 2,
             "description": "Ice attack +60",
             "modifiers": {
               "damageIce": 60
-            },
-            "id": 91,
-            "slug": "ice-attack-rank-2"
+            }
           }
-        ],
-        "id": 129,
-        "slug": "frost-charm-2"
+        ]
       },
       {
+        "id": 130,
+        "slug": "frost-charm-3",
         "name": "Frost Charm 3",
         "skills": [
           {
+            "id": 92,
+            "slug": "ice-attack-rank-3",
             "skill": 28,
+            "skillName": "Ice Attack",
             "level": 3,
             "description": "Ice attack +100",
             "modifiers": {
               "damageIce": 100
-            },
-            "id": 92,
-            "slug": "ice-attack-rank-3"
+            }
           }
-        ],
-        "id": 130,
-        "slug": "frost-charm-3"
+        ]
       }
     ]
   },
@@ -2306,55 +2436,58 @@
     "id": 131,
     "ranks": [
       {
+        "id": 131,
+        "slug": "masters-charm-1",
         "name": "Master's Charm 1",
         "skills": [
           {
+            "id": 123,
+            "slug": "critical-eye-rank-1",
             "skill": 39,
+            "skillName": "Critical Eye",
             "level": 1,
             "description": "Affinity +3%",
             "modifiers": {
               "affinity": 3
-            },
-            "id": 123,
-            "slug": "critical-eye-rank-1"
+            }
           }
-        ],
-        "id": 131,
-        "slug": "masters-charm-1"
+        ]
       },
       {
+        "id": 132,
+        "slug": "masters-charm-2",
         "name": "Master's Charm 2",
         "skills": [
           {
+            "id": 124,
+            "slug": "critical-eye-rank-2",
             "skill": 39,
+            "skillName": "Critical Eye",
             "level": 2,
             "description": "Affinity +6%",
             "modifiers": {
               "affinity": 6
-            },
-            "id": 124,
-            "slug": "critical-eye-rank-2"
+            }
           }
-        ],
-        "id": 132,
-        "slug": "masters-charm-2"
+        ]
       },
       {
+        "id": 133,
+        "slug": "masters-charm-3",
         "name": "Master's Charm 3",
         "skills": [
           {
+            "id": 125,
+            "slug": "critical-eye-rank-3",
             "skill": 39,
+            "skillName": "Critical Eye",
             "level": 3,
             "description": "Affinity +10%",
             "modifiers": {
               "affinity": 10
-            },
-            "id": 125,
-            "slug": "critical-eye-rank-3"
+            }
           }
-        ],
-        "id": 133,
-        "slug": "masters-charm-3"
+        ]
       }
     ]
   },
@@ -2363,49 +2496,52 @@
     "id": 134,
     "ranks": [
       {
+        "id": 134,
+        "slug": "evasion-charm-1",
         "name": "Evasion Charm 1",
         "skills": [
           {
+            "id": 210,
+            "slug": "evade-window-rank-1",
             "skill": 68,
+            "skillName": "Evade Window",
             "level": 1,
             "description": "Very slightly increases invulnerability window.",
-            "modifiers": [],
-            "id": 210,
-            "slug": "evade-window-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 134,
-        "slug": "evasion-charm-1"
+        ]
       },
       {
+        "id": 135,
+        "slug": "evasion-charm-2",
         "name": "Evasion Charm 2",
         "skills": [
           {
+            "id": 211,
+            "slug": "evade-window-rank-2",
             "skill": 68,
+            "skillName": "Evade Window",
             "level": 2,
             "description": "Slightly increases invulnerability window.",
-            "modifiers": [],
-            "id": 211,
-            "slug": "evade-window-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 135,
-        "slug": "evasion-charm-2"
+        ]
       },
       {
+        "id": 136,
+        "slug": "evasion-charm-3",
         "name": "Evasion Charm 3",
         "skills": [
           {
+            "id": 212,
+            "slug": "evade-window-rank-3",
             "skill": 68,
+            "skillName": "Evade Window",
             "level": 3,
             "description": "Increases invulnerability window.",
-            "modifiers": [],
-            "id": 212,
-            "slug": "evade-window-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 136,
-        "slug": "evasion-charm-3"
+        ]
       }
     ]
   },
@@ -2414,49 +2550,52 @@
     "id": 137,
     "ranks": [
       {
+        "id": 137,
+        "slug": "sheath-charm-1",
         "name": "Sheath Charm 1",
         "skills": [
           {
+            "id": 223,
+            "slug": "quick-sheath-rank-1",
             "skill": 71,
+            "skillName": "Quick Sheath",
             "level": 1,
             "description": "Slightly increases sheathing speed.",
-            "modifiers": [],
-            "id": 223,
-            "slug": "quick-sheath-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 137,
-        "slug": "sheath-charm-1"
+        ]
       },
       {
+        "id": 138,
+        "slug": "sheath-charm-2",
         "name": "Sheath Charm 2",
         "skills": [
           {
+            "id": 224,
+            "slug": "quick-sheath-rank-2",
             "skill": 71,
+            "skillName": "Quick Sheath",
             "level": 2,
             "description": "Moderately increases sheathing speed.",
-            "modifiers": [],
-            "id": 224,
-            "slug": "quick-sheath-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 138,
-        "slug": "sheath-charm-2"
+        ]
       },
       {
+        "id": 139,
+        "slug": "sheath-charm-3",
         "name": "Sheath Charm 3",
         "skills": [
           {
+            "id": 225,
+            "slug": "quick-sheath-rank-3",
             "skill": 71,
+            "skillName": "Quick Sheath",
             "level": 3,
             "description": "Greatly increases sheathing speed.",
-            "modifiers": [],
-            "id": 225,
-            "slug": "quick-sheath-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 139,
-        "slug": "sheath-charm-3"
+        ]
       }
     ]
   },
@@ -2465,49 +2604,52 @@
     "id": 140,
     "ranks": [
       {
+        "id": 140,
+        "slug": "whetstone-charm-1",
         "name": "Whetstone Charm 1",
         "skills": [
           {
+            "id": 238,
+            "slug": "speed-sharpening-rank-1",
             "skill": 76,
+            "skillName": "Speed Sharpening",
             "level": 1,
             "description": "Removes one cycle from the sharpening process.",
-            "modifiers": [],
-            "id": 238,
-            "slug": "speed-sharpening-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 140,
-        "slug": "whetstone-charm-1"
+        ]
       },
       {
+        "id": 141,
+        "slug": "whetstone-charm-2",
         "name": "Whetstone Charm 2",
         "skills": [
           {
+            "id": 239,
+            "slug": "speed-sharpening-rank-2",
             "skill": 76,
+            "skillName": "Speed Sharpening",
             "level": 2,
             "description": "Removes two cycles from the sharpening process.",
-            "modifiers": [],
-            "id": 239,
-            "slug": "speed-sharpening-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 141,
-        "slug": "whetstone-charm-2"
+        ]
       },
       {
+        "id": 142,
+        "slug": "whetstone-charm-3",
         "name": "Whetstone Charm 3",
         "skills": [
           {
+            "id": 240,
+            "slug": "speed-sharpening-rank-3",
             "skill": 76,
+            "skillName": "Speed Sharpening",
             "level": 3,
             "description": "Removes three cycles from the sharpening process.",
-            "modifiers": [],
-            "id": 240,
-            "slug": "speed-sharpening-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 142,
-        "slug": "whetstone-charm-3"
+        ]
       }
     ]
   },
@@ -2516,49 +2658,52 @@
     "id": 143,
     "ranks": [
       {
+        "id": 143,
+        "slug": "blast-charm-1",
         "name": "Blast Charm 1",
         "skills": [
           {
+            "id": 14,
+            "slug": "blast-resistance-rank-1",
             "skill": 6,
+            "skillName": "Blast Resistance",
             "level": 1,
             "description": "Delays blastblight and reduces blast damage.",
-            "modifiers": [],
-            "id": 14,
-            "slug": "blast-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 143,
-        "slug": "blast-charm-1"
+        ]
       },
       {
+        "id": 144,
+        "slug": "blast-charm-2",
         "name": "Blast Charm 2",
         "skills": [
           {
+            "id": 15,
+            "slug": "blast-resistance-rank-2",
             "skill": 6,
+            "skillName": "Blast Resistance",
             "level": 2,
             "description": "Greatly delays blastblight and greatly reduces blast damage.",
-            "modifiers": [],
-            "id": 15,
-            "slug": "blast-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 144,
-        "slug": "blast-charm-2"
+        ]
       },
       {
+        "id": 145,
+        "slug": "blast-charm-3",
         "name": "Blast Charm 3",
         "skills": [
           {
+            "id": 16,
+            "slug": "blast-resistance-rank-3",
             "skill": 6,
+            "skillName": "Blast Resistance",
             "level": 3,
             "description": "Prevents blastblight.",
-            "modifiers": [],
-            "id": 16,
-            "slug": "blast-resistance-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 145,
-        "slug": "blast-charm-3"
+        ]
       }
     ]
   },
@@ -2567,51 +2712,54 @@
     "id": 146,
     "ranks": [
       {
+        "id": 146,
+        "slug": "dragon-charm-1",
         "name": "Dragon Charm 1",
         "skills": [
           {
+            "id": 74,
+            "slug": "dragon-resistance-rank-1",
             "skill": 24,
+            "skillName": "Dragon Resistance",
             "level": 1,
             "description": "Dragon resistance +6",
-            "modifiers": [],
-            "id": 74,
-            "slug": "dragon-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 146,
-        "slug": "dragon-charm-1"
+        ]
       },
       {
+        "id": 147,
+        "slug": "dragon-charm-2",
         "name": "Dragon Charm 2",
         "skills": [
           {
+            "id": 75,
+            "slug": "dragon-resistance-rank-2",
             "skill": 24,
+            "skillName": "Dragon Resistance",
             "level": 2,
             "description": "Dragon resistance +12",
-            "modifiers": [],
-            "id": 75,
-            "slug": "dragon-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 147,
-        "slug": "dragon-charm-2"
+        ]
       },
       {
+        "id": 148,
+        "slug": "dragon-charm-3",
         "name": "Dragon Charm 3",
         "skills": [
           {
+            "id": 76,
+            "slug": "dragon-resistance-rank-3",
             "skill": 24,
+            "skillName": "Dragon Resistance",
             "level": 3,
             "description": "Dragon resistance +20 Defense +10",
             "modifiers": {
               "defense": 10
-            },
-            "id": 76,
-            "slug": "dragon-resistance-rank-3"
+            }
           }
-        ],
-        "id": 148,
-        "slug": "dragon-charm-3"
+        ]
       }
     ]
   },
@@ -2620,49 +2768,52 @@
     "id": 149,
     "ranks": [
       {
+        "id": 149,
+        "slug": "wyrmsbane-charm-1",
         "name": "Wyrmsbane Charm 1",
         "skills": [
           {
+            "id": 100,
+            "slug": "dragon-attack-rank-1",
             "skill": 30,
+            "skillName": "Dragon Attack",
             "level": 1,
             "description": "Dragon attack +30",
-            "modifiers": [],
-            "id": 100,
-            "slug": "dragon-attack-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 149,
-        "slug": "wyrmsbane-charm-1"
+        ]
       },
       {
+        "id": 150,
+        "slug": "wyrmsbane-charm-2",
         "name": "Wyrmsbane Charm 2",
         "skills": [
           {
+            "id": 101,
+            "slug": "dragon-attack-rank-2",
             "skill": 30,
+            "skillName": "Dragon Attack",
             "level": 2,
             "description": "Dragon attack +60",
-            "modifiers": [],
-            "id": 101,
-            "slug": "dragon-attack-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 150,
-        "slug": "wyrmsbane-charm-2"
+        ]
       },
       {
+        "id": 151,
+        "slug": "wyrmsbane-charm-3",
         "name": "Wyrmsbane Charm 3",
         "skills": [
           {
+            "id": 102,
+            "slug": "dragon-attack-rank-3",
             "skill": 30,
+            "skillName": "Dragon Attack",
             "level": 3,
             "description": "Dragon attack +100",
-            "modifiers": [],
-            "id": 102,
-            "slug": "dragon-attack-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 151,
-        "slug": "wyrmsbane-charm-3"
+        ]
       }
     ]
   },
@@ -2671,49 +2822,52 @@
     "id": 152,
     "ranks": [
       {
+        "id": 152,
+        "slug": "demolition-charm-1",
         "name": "Demolition Charm 1",
         "skills": [
           {
+            "id": 114,
+            "slug": "blast-attack-rank-1",
             "skill": 34,
+            "skillName": "Blast Attack",
             "level": 1,
             "description": "Blast buildup +5% Bonus: +10",
-            "modifiers": [],
-            "id": 114,
-            "slug": "blast-attack-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 152,
-        "slug": "demolition-charm-1"
+        ]
       },
       {
+        "id": 153,
+        "slug": "demolition-charm-2",
         "name": "Demolition Charm 2",
         "skills": [
           {
+            "id": 115,
+            "slug": "blast-attack-rank-2",
             "skill": 34,
+            "skillName": "Blast Attack",
             "level": 2,
             "description": "Blast buildup +10% Bonus: +10",
-            "modifiers": [],
-            "id": 115,
-            "slug": "blast-attack-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 153,
-        "slug": "demolition-charm-2"
+        ]
       },
       {
+        "id": 154,
+        "slug": "demolition-charm-3",
         "name": "Demolition Charm 3",
         "skills": [
           {
+            "id": 116,
+            "slug": "blast-attack-rank-3",
             "skill": 34,
+            "skillName": "Blast Attack",
             "level": 3,
             "description": "Blast buildup +20% Bonus: +10",
-            "modifiers": [],
-            "id": 116,
-            "slug": "blast-attack-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 154,
-        "slug": "demolition-charm-3"
+        ]
       }
     ]
   },
@@ -2722,34 +2876,36 @@
     "id": 155,
     "ranks": [
       {
+        "id": 155,
+        "slug": "draw-charm-1",
         "name": "Draw Charm 1",
         "skills": [
           {
+            "id": 147,
+            "slug": "critical-draw-rank-1",
             "skill": 45,
+            "skillName": "Critical Draw",
             "level": 1,
             "description": "Draw attack affinity +30%",
-            "modifiers": [],
-            "id": 147,
-            "slug": "critical-draw-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 155,
-        "slug": "draw-charm-1"
+        ]
       },
       {
+        "id": 156,
+        "slug": "draw-charm-2",
         "name": "Draw Charm 2",
         "skills": [
           {
+            "id": 148,
+            "slug": "critical-draw-rank-2",
             "skill": 45,
+            "skillName": "Critical Draw",
             "level": 2,
             "description": "Draw attack affinity +60%",
-            "modifiers": [],
-            "id": 148,
-            "slug": "critical-draw-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 156,
-        "slug": "draw-charm-2"
+        ]
       }
     ]
   },
@@ -2758,57 +2914,61 @@
     "id": 157,
     "ranks": [
       {
+        "id": 157,
+        "slug": "trickshot-charm-1",
         "name": "Trickshot Charm 1",
         "skills": [
           {
+            "id": 188,
+            "slug": "special-ammo-boost-rank-1",
             "skill": 60,
+            "skillName": "Special Ammo Boost",
             "level": 1,
             "description": "Increases the power of bowgun special ammo and Dragon Piercer by 10%.",
-            "modifiers": [],
-            "id": 188,
-            "slug": "special-ammo-boost-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 157,
-        "slug": "trickshot-charm-1"
+        ]
       },
       {
+        "id": 158,
+        "slug": "trickshot-charm-2",
         "name": "Trickshot Charm 2",
         "skills": [
           {
+            "id": 189,
+            "slug": "special-ammo-boost-rank-2",
             "skill": 60,
+            "skillName": "Special Ammo Boost",
             "level": 2,
             "description": "Increases the power of bowgun special ammo and Dragon Piercer by 20%.",
-            "modifiers": [],
-            "id": 189,
-            "slug": "special-ammo-boost-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 158,
-        "slug": "trickshot-charm-2"
+        ]
       },
       {
+        "id": 179,
+        "slug": "trickshot-charm",
         "name": "Trickshot Charm",
         "skills": [
           {
+            "id": 36,
+            "slug": "dungmaster-rank-1",
             "skill": 12,
+            "skillName": "Dungmaster",
             "level": 1,
             "description": "Makes slinger dung pods more effective at making monsters run away.",
-            "modifiers": [],
-            "id": 36,
-            "slug": "dungmaster-rank-1"
+            "modifiers": []
           },
           {
+            "id": 289,
+            "slug": "blindsider-rank-1",
             "skill": 98,
+            "skillName": "Blindsider",
             "level": 1,
             "description": "Increases the success rate of flash effects.",
-            "modifiers": [],
-            "id": 289,
-            "slug": "blindsider-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 179,
-        "slug": "trickshot-charm"
+        ]
       }
     ]
   },
@@ -2817,34 +2977,36 @@
     "id": 159,
     "ranks": [
       {
+        "id": 159,
+        "slug": "marathon-charm-1",
         "name": "Marathon Charm 1",
         "skills": [
           {
+            "id": 195,
+            "slug": "marathon-runner-rank-1",
             "skill": 63,
+            "skillName": "Marathon Runner",
             "level": 1,
             "description": "Reduces continuous stamina depletion by 15%.",
-            "modifiers": [],
-            "id": 195,
-            "slug": "marathon-runner-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 159,
-        "slug": "marathon-charm-1"
+        ]
       },
       {
+        "id": 160,
+        "slug": "marathon-charm-2",
         "name": "Marathon Charm 2",
         "skills": [
           {
+            "id": 196,
+            "slug": "marathon-runner-rank-2",
             "skill": 63,
+            "skillName": "Marathon Runner",
             "level": 2,
             "description": "Reduces continuous stamina depletion by 30%.",
-            "modifiers": [],
-            "id": 196,
-            "slug": "marathon-runner-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 160,
-        "slug": "marathon-charm-2"
+        ]
       }
     ]
   },
@@ -2853,49 +3015,52 @@
     "id": 161,
     "ranks": [
       {
+        "id": 161,
+        "slug": "fitness-charm-1",
         "name": "Fitness Charm 1",
         "skills": [
           {
+            "id": 198,
+            "slug": "constitution-rank-1",
             "skill": 64,
+            "skillName": "Constitution",
             "level": 1,
             "description": "Reduces fixed stamina depletion by 10%.",
-            "modifiers": [],
-            "id": 198,
-            "slug": "constitution-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 161,
-        "slug": "fitness-charm-1"
+        ]
       },
       {
+        "id": 162,
+        "slug": "fitness-charm-2",
         "name": "Fitness Charm 2",
         "skills": [
           {
+            "id": 199,
+            "slug": "constitution-rank-2",
             "skill": 64,
+            "skillName": "Constitution",
             "level": 2,
             "description": "Reduces fixed stamina depletion by 20%.",
-            "modifiers": [],
-            "id": 199,
-            "slug": "constitution-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 162,
-        "slug": "fitness-charm-2"
+        ]
       },
       {
+        "id": 163,
+        "slug": "fitness-charm-3",
         "name": "Fitness Charm 3",
         "skills": [
           {
+            "id": 200,
+            "slug": "constitution-rank-3",
             "skill": 64,
+            "skillName": "Constitution",
             "level": 3,
             "description": "Reduces fixed stamina depletion by 30%.",
-            "modifiers": [],
-            "id": 200,
-            "slug": "constitution-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 163,
-        "slug": "fitness-charm-3"
+        ]
       }
     ]
   },
@@ -2904,34 +3069,36 @@
     "id": 164,
     "ranks": [
       {
+        "id": 164,
+        "slug": "surge-charm-1",
         "name": "Surge Charm 1",
         "skills": [
           {
+            "id": 204,
+            "slug": "stamina-surge-rank-1",
             "skill": 66,
+            "skillName": "Stamina Surge",
             "level": 1,
             "description": "Stamina recovery speed +10%",
-            "modifiers": [],
-            "id": 204,
-            "slug": "stamina-surge-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 164,
-        "slug": "surge-charm-1"
+        ]
       },
       {
+        "id": 165,
+        "slug": "surge-charm-2",
         "name": "Surge Charm 2",
         "skills": [
           {
+            "id": 205,
+            "slug": "stamina-surge-rank-2",
             "skill": 66,
+            "skillName": "Stamina Surge",
             "level": 2,
             "description": "Stamina recovery speed +20%",
-            "modifiers": [],
-            "id": 205,
-            "slug": "stamina-surge-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 165,
-        "slug": "surge-charm-2"
+        ]
       }
     ]
   },
@@ -2940,34 +3107,36 @@
     "id": 166,
     "ranks": [
       {
+        "id": 166,
+        "slug": "leaping-charm-1",
         "name": "Leaping Charm 1",
         "skills": [
           {
+            "id": 215,
+            "slug": "evade-extender-rank-1",
             "skill": 69,
+            "skillName": "Evade Extender",
             "level": 1,
             "description": "Slightly extends evasion distance.",
-            "modifiers": [],
-            "id": 215,
-            "slug": "evade-extender-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 166,
-        "slug": "leaping-charm-1"
+        ]
       },
       {
+        "id": 167,
+        "slug": "leaping-charm-2",
         "name": "Leaping Charm 2",
         "skills": [
           {
+            "id": 216,
+            "slug": "evade-extender-rank-2",
             "skill": 69,
+            "skillName": "Evade Extender",
             "level": 2,
             "description": "Extends evasion distance.",
-            "modifiers": [],
-            "id": 216,
-            "slug": "evade-extender-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 167,
-        "slug": "leaping-charm-2"
+        ]
       }
     ]
   },
@@ -2976,49 +3145,52 @@
     "id": 168,
     "ranks": [
       {
+        "id": 168,
+        "slug": "bombardier-charm-1",
         "name": "Bombardier Charm 1",
         "skills": [
           {
+            "id": 241,
+            "slug": "bombardier-rank-1",
             "skill": 77,
+            "skillName": "Bombardier",
             "level": 1,
             "description": "Explosive power +10%",
-            "modifiers": [],
-            "id": 241,
-            "slug": "bombardier-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 168,
-        "slug": "bombardier-charm-1"
+        ]
       },
       {
+        "id": 169,
+        "slug": "bombardier-charm-2",
         "name": "Bombardier Charm 2",
         "skills": [
           {
+            "id": 242,
+            "slug": "bombardier-rank-2",
             "skill": 77,
+            "skillName": "Bombardier",
             "level": 2,
             "description": "Explosive power +20%",
-            "modifiers": [],
-            "id": 242,
-            "slug": "bombardier-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 169,
-        "slug": "bombardier-charm-2"
+        ]
       },
       {
+        "id": 170,
+        "slug": "bombardier-charm-3",
         "name": "Bombardier Charm 3",
         "skills": [
           {
+            "id": 243,
+            "slug": "bombardier-rank-3",
             "skill": 77,
+            "skillName": "Bombardier",
             "level": 3,
             "description": "Explosive power +30%",
-            "modifiers": [],
-            "id": 243,
-            "slug": "bombardier-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 170,
-        "slug": "bombardier-charm-3"
+        ]
       }
     ]
   },
@@ -3027,34 +3199,36 @@
     "id": 171,
     "ranks": [
       {
+        "id": 171,
+        "slug": "mushroom-charm-1",
         "name": "Mushroom Charm 1",
         "skills": [
           {
+            "id": 244,
+            "slug": "mushroomancer-rank-1",
             "skill": 78,
+            "skillName": "Mushroomancer",
             "level": 1,
             "description": "Lets you digest blue mushrooms and toadstools.",
-            "modifiers": [],
-            "id": 244,
-            "slug": "mushroomancer-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 171,
-        "slug": "mushroom-charm-1"
+        ]
       },
       {
+        "id": 172,
+        "slug": "mushroom-charm-2",
         "name": "Mushroom Charm 2",
         "skills": [
           {
+            "id": 245,
+            "slug": "mushroomancer-rank-2",
             "skill": 78,
+            "skillName": "Mushroomancer",
             "level": 2,
             "description": "Additionally lets you digest nitroshrooms and parashrooms.",
-            "modifiers": [],
-            "id": 245,
-            "slug": "mushroomancer-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 172,
-        "slug": "mushroom-charm-2"
+        ]
       }
     ]
   },
@@ -3063,34 +3237,36 @@
     "id": 173,
     "ranks": [
       {
+        "id": 173,
+        "slug": "awakening-charm-1",
         "name": "Awakening Charm 1",
         "skills": [
           {
+            "id": 120,
+            "slug": "free-elem/ammo-up-rank-1",
             "skill": 38,
+            "skillName": "Free Elem/Ammo Up",
             "level": 1,
             "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
-            "modifiers": [],
-            "id": 120,
-            "slug": "free-elem/ammo-up-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 173,
-        "slug": "awakening-charm-1"
+        ]
       },
       {
+        "id": 174,
+        "slug": "awakening-charm-2",
         "name": "Awakening Charm 2",
         "skills": [
           {
+            "id": 121,
+            "slug": "free-elem/ammo-up-rank-2",
             "skill": 38,
+            "skillName": "Free Elem/Ammo Up",
             "level": 2,
             "description": "Draws out 66% of hidden element and expands clip size for some ammo.",
-            "modifiers": [],
-            "id": 121,
-            "slug": "free-elem/ammo-up-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 174,
-        "slug": "awakening-charm-2"
+        ]
       }
     ]
   },
@@ -3099,55 +3275,58 @@
     "id": 175,
     "ranks": [
       {
+        "id": 175,
+        "slug": "handicraft-charm-1",
         "name": "Handicraft Charm 1",
         "skills": [
           {
+            "id": 142,
+            "slug": "handicraft-rank-1",
             "skill": 44,
+            "skillName": "Handicraft",
             "level": 1,
             "description": "Weapon sharpness +10",
             "modifiers": {
               "sharpnessBonus": 10
-            },
-            "id": 142,
-            "slug": "handicraft-rank-1"
+            }
           }
-        ],
-        "id": 175,
-        "slug": "handicraft-charm-1"
+        ]
       },
       {
+        "id": 176,
+        "slug": "handicraft-charm-2",
         "name": "Handicraft Charm 2",
         "skills": [
           {
+            "id": 143,
+            "slug": "handicraft-rank-2",
             "skill": 44,
+            "skillName": "Handicraft",
             "level": 2,
             "description": "Weapon sharpness +20",
             "modifiers": {
               "sharpnessBonus": 20
-            },
-            "id": 143,
-            "slug": "handicraft-rank-2"
+            }
           }
-        ],
-        "id": 176,
-        "slug": "handicraft-charm-2"
+        ]
       },
       {
+        "id": 177,
+        "slug": "handicraft-charm-3",
         "name": "Handicraft Charm 3",
         "skills": [
           {
+            "id": 144,
+            "slug": "handicraft-rank-3",
             "skill": 44,
+            "skillName": "Handicraft",
             "level": 3,
             "description": "Weapon sharpness +30",
             "modifiers": {
               "sharpnessBonus": 30
-            },
-            "id": 144,
-            "slug": "handicraft-rank-3"
+            }
           }
-        ],
-        "id": 177,
-        "slug": "handicraft-charm-3"
+        ]
       }
     ]
   },
@@ -3156,27 +3335,29 @@
     "id": 178,
     "ranks": [
       {
+        "id": 178,
+        "slug": "mud-puppy-charm",
         "name": "Mud Puppy Charm",
         "skills": [
           {
+            "id": 13,
+            "slug": "muck-resistance-rank-1",
             "skill": 5,
+            "skillName": "Muck Resistance",
             "level": 1,
             "description": "Reduces limits on movement speed and evasion.",
-            "modifiers": [],
-            "id": 13,
-            "slug": "muck-resistance-rank-1"
+            "modifiers": []
           },
           {
+            "id": 203,
+            "slug": "leap-of-faith-rank-1",
             "skill": 65,
+            "skillName": "Leap of Faith",
             "level": 1,
             "description": "Enables Leap of Faith.",
-            "modifiers": [],
-            "id": 203,
-            "slug": "leap-of-faith-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 178,
-        "slug": "mud-puppy-charm"
+        ]
       }
     ]
   },
@@ -3185,27 +3366,29 @@
     "id": 180,
     "ranks": [
       {
+        "id": 180,
+        "slug": "hunters-life-charm",
         "name": "Hunter's Life Charm",
         "skills": [
           {
+            "id": 247,
+            "slug": "master-fisher-rank-1",
             "skill": 79,
+            "skillName": "Master Fisher",
             "level": 1,
             "description": "Increases the time window for reeling in fish, and makes it easier to catch large fish.",
-            "modifiers": [],
-            "id": 247,
-            "slug": "master-fisher-rank-1"
+            "modifiers": []
           },
           {
+            "id": 300,
+            "slug": "bbq-master-rank-1",
             "skill": 105,
+            "skillName": "BBQ Master",
             "level": 1,
             "description": "Makes it easier to cook well-done steaks.",
-            "modifiers": [],
-            "id": 300,
-            "slug": "bbq-master-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 180,
-        "slug": "hunters-life-charm"
+        ]
       }
     ]
   },
@@ -3214,27 +3397,29 @@
     "id": 181,
     "ranks": [
       {
+        "id": 181,
+        "slug": "procurers-charm",
         "name": "Procurer's Charm",
         "skills": [
           {
+            "id": 248,
+            "slug": "pro-transporter-rank-1",
             "skill": 80,
+            "skillName": "Pro Transporter",
             "level": 1,
             "description": "Increases movement speed while transporting and reduces downtime on landings.",
-            "modifiers": [],
-            "id": 248,
-            "slug": "pro-transporter-rank-1"
+            "modifiers": []
           },
           {
+            "id": 250,
+            "slug": "honey-hunter-rank-1",
             "skill": 82,
+            "skillName": "Honey Hunter",
             "level": 1,
             "description": "One extra honey per gather.",
-            "modifiers": [],
-            "id": 250,
-            "slug": "honey-hunter-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 181,
-        "slug": "procurers-charm"
+        ]
       }
     ]
   },
@@ -3243,27 +3428,29 @@
     "id": 182,
     "ranks": [
       {
+        "id": 182,
+        "slug": "gatherers-charm",
         "name": "Gatherer's Charm",
         "skills": [
           {
+            "id": 249,
+            "slug": "master-gatherer-rank-1",
             "skill": 81,
+            "skillName": "Master Gatherer",
             "level": 1,
             "description": "Speeds up gathering and prevents knockbacks while gathering.",
-            "modifiers": [],
-            "id": 249,
-            "slug": "master-gatherer-rank-1"
+            "modifiers": []
           },
           {
+            "id": 251,
+            "slug": "carving-pro-rank-1",
             "skill": 83,
+            "skillName": "Carving Pro",
             "level": 1,
             "description": "Prevents knockback while carving.",
-            "modifiers": [],
-            "id": 251,
-            "slug": "carving-pro-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 182,
-        "slug": "gatherers-charm"
+        ]
       }
     ]
   },
@@ -3272,49 +3459,52 @@
     "id": 183,
     "ranks": [
       {
+        "id": 183,
+        "slug": "guard-charm-1",
         "name": "Guard Charm 1",
         "skills": [
           {
+            "id": 20,
+            "slug": "iron-skin-rank-1",
             "skill": 8,
+            "skillName": "Iron Skin",
             "level": 1,
             "description": "Reduces the duration of Defense Down by 30%.",
-            "modifiers": [],
-            "id": 20,
-            "slug": "iron-skin-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 183,
-        "slug": "guard-charm-1"
+        ]
       },
       {
+        "id": 184,
+        "slug": "guard-charm-2",
         "name": "Guard Charm 2",
         "skills": [
           {
+            "id": 21,
+            "slug": "iron-skin-rank-2",
             "skill": 8,
+            "skillName": "Iron Skin",
             "level": 2,
             "description": "Reduces the duration of Defense Down by 60%.",
-            "modifiers": [],
-            "id": 21,
-            "slug": "iron-skin-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 184,
-        "slug": "guard-charm-2"
+        ]
       },
       {
+        "id": 185,
+        "slug": "guard-charm-3",
         "name": "Guard Charm 3",
         "skills": [
           {
+            "id": 22,
+            "slug": "iron-skin-rank-3",
             "skill": 8,
+            "skillName": "Iron Skin",
             "level": 3,
             "description": "Prevents Defense Down.",
-            "modifiers": [],
-            "id": 22,
-            "slug": "iron-skin-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 185,
-        "slug": "guard-charm-3"
+        ]
       }
     ]
   },
@@ -3323,49 +3513,52 @@
     "id": 186,
     "ranks": [
       {
+        "id": 186,
+        "slug": "earplugs-charm-1",
         "name": "Earplugs Charm 1",
         "skills": [
           {
+            "id": 23,
+            "slug": "earplugs-rank-1",
             "skill": 9,
+            "skillName": "Earplugs",
             "level": 1,
             "description": "Slightly reduces the effects of weak monster roars.",
-            "modifiers": [],
-            "id": 23,
-            "slug": "earplugs-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 186,
-        "slug": "earplugs-charm-1"
+        ]
       },
       {
+        "id": 187,
+        "slug": "earplugs-charm-2",
         "name": "Earplugs Charm 2",
         "skills": [
           {
+            "id": 24,
+            "slug": "earplugs-rank-2",
             "skill": 9,
+            "skillName": "Earplugs",
             "level": 2,
             "description": "Reduces the effects of weak monster roars.",
-            "modifiers": [],
-            "id": 24,
-            "slug": "earplugs-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 187,
-        "slug": "earplugs-charm-2"
+        ]
       },
       {
+        "id": 188,
+        "slug": "earplugs-charm-3",
         "name": "Earplugs Charm 3",
         "skills": [
           {
+            "id": 25,
+            "slug": "earplugs-rank-3",
             "skill": 9,
+            "skillName": "Earplugs",
             "level": 3,
             "description": "Nullifies weak monster roars.",
-            "modifiers": [],
-            "id": 25,
-            "slug": "earplugs-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 188,
-        "slug": "earplugs-charm-3"
+        ]
       }
     ]
   },
@@ -3374,34 +3567,36 @@
     "id": 189,
     "ranks": [
       {
+        "id": 189,
+        "slug": "tremor-charm-1",
         "name": "Tremor Charm 1",
         "skills": [
           {
+            "id": 33,
+            "slug": "tremor-resistance-rank-1",
             "skill": 11,
+            "skillName": "Tremor Resistance",
             "level": 1,
             "description": "Nullifies minor ground tremors.",
-            "modifiers": [],
-            "id": 33,
-            "slug": "tremor-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 189,
-        "slug": "tremor-charm-1"
+        ]
       },
       {
+        "id": 190,
+        "slug": "tremor-charm-2",
         "name": "Tremor Charm 2",
         "skills": [
           {
+            "id": 34,
+            "slug": "tremor-resistance-rank-2",
             "skill": 11,
+            "skillName": "Tremor Resistance",
             "level": 2,
             "description": "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
-            "modifiers": [],
-            "id": 34,
-            "slug": "tremor-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 190,
-        "slug": "tremor-charm-2"
+        ]
       }
     ]
   },
@@ -3410,34 +3605,36 @@
     "id": 191,
     "ranks": [
       {
+        "id": 191,
+        "slug": "exploiter-charm-1",
         "name": "Exploiter Charm 1",
         "skills": [
           {
+            "id": 133,
+            "slug": "weakness-exploit-rank-1",
             "skill": 41,
+            "skillName": "Weakness Exploit",
             "level": 1,
             "description": "Attacks that hit weak spots have 15% increased affinity.",
-            "modifiers": [],
-            "id": 133,
-            "slug": "weakness-exploit-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 191,
-        "slug": "exploiter-charm-1"
+        ]
       },
       {
+        "id": 192,
+        "slug": "exploiter-charm-2",
         "name": "Exploiter Charm 2",
         "skills": [
           {
+            "id": 134,
+            "slug": "weakness-exploit-rank-2",
             "skill": 41,
+            "skillName": "Weakness Exploit",
             "level": 2,
             "description": "Attacks that hit weak spots have 30% increased affinity.",
-            "modifiers": [],
-            "id": 134,
-            "slug": "weakness-exploit-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 192,
-        "slug": "exploiter-charm-2"
+        ]
       }
     ]
   },
@@ -3446,34 +3643,36 @@
     "id": 193,
     "ranks": [
       {
+        "id": 193,
+        "slug": "focus-charm-1",
         "name": "Focus Charm 1",
         "skills": [
           {
+            "id": 136,
+            "slug": "focus-rank-1",
             "skill": 42,
+            "skillName": "Focus",
             "level": 1,
             "description": "Increases gauge fill rate by 5% and reduces charge times by 5%.",
-            "modifiers": [],
-            "id": 136,
-            "slug": "focus-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 193,
-        "slug": "focus-charm-1"
+        ]
       },
       {
+        "id": 194,
+        "slug": "focus-charm-2",
         "name": "Focus Charm 2",
         "skills": [
           {
+            "id": 137,
+            "slug": "focus-rank-2",
             "skill": 42,
+            "skillName": "Focus",
             "level": 2,
             "description": "Increases gauge fill rate by 10% and reduces charge times by 10%.",
-            "modifiers": [],
-            "id": 137,
-            "slug": "focus-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 194,
-        "slug": "focus-charm-2"
+        ]
       }
     ]
   },
@@ -3482,34 +3681,36 @@
     "id": 195,
     "ranks": [
       {
+        "id": 195,
+        "slug": "breaker-charm-1",
         "name": "Breaker Charm 1",
         "skills": [
           {
+            "id": 150,
+            "slug": "partbreaker-rank-1",
             "skill": 46,
+            "skillName": "Partbreaker",
             "level": 1,
             "description": "Part damage +10%",
-            "modifiers": [],
-            "id": 150,
-            "slug": "partbreaker-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 195,
-        "slug": "breaker-charm-1"
+        ]
       },
       {
+        "id": 196,
+        "slug": "breaker-charm-2",
         "name": "Breaker Charm 2",
         "skills": [
           {
+            "id": 151,
+            "slug": "partbreaker-rank-2",
             "skill": 46,
+            "skillName": "Partbreaker",
             "level": 2,
             "description": "Part damage +20%",
-            "modifiers": [],
-            "id": 151,
-            "slug": "partbreaker-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 196,
-        "slug": "breaker-charm-2"
+        ]
       }
     ]
   },
@@ -3518,34 +3719,36 @@
     "id": 197,
     "ranks": [
       {
+        "id": 197,
+        "slug": "fury-charm-1",
         "name": "Fury Charm 1",
         "skills": [
           {
+            "id": 180,
+            "slug": "resentment-rank-1",
             "skill": 56,
+            "skillName": "Resentment",
             "level": 1,
             "description": "While active, grants attack +5.",
-            "modifiers": [],
-            "id": 180,
-            "slug": "resentment-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 197,
-        "slug": "fury-charm-1"
+        ]
       },
       {
+        "id": 198,
+        "slug": "fury-charm-2",
         "name": "Fury Charm 2",
         "skills": [
           {
+            "id": 181,
+            "slug": "resentment-rank-2",
             "skill": 56,
+            "skillName": "Resentment",
             "level": 2,
             "description": "While active, grants attack +10.",
-            "modifiers": [],
-            "id": 181,
-            "slug": "resentment-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 198,
-        "slug": "fury-charm-2"
+        ]
       }
     ]
   },
@@ -3554,34 +3757,36 @@
     "id": 199,
     "ranks": [
       {
+        "id": 199,
+        "slug": "grit-charm-1",
         "name": "Grit Charm 1",
         "skills": [
           {
+            "id": 174,
+            "slug": "heroics-rank-1",
             "skill": 54,
+            "skillName": "Heroics",
             "level": 1,
             "description": "While active, increases attack power by 5% and increases defense by 15 points.",
-            "modifiers": [],
-            "id": 174,
-            "slug": "heroics-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 199,
-        "slug": "grit-charm-1"
+        ]
       },
       {
+        "id": 200,
+        "slug": "grit-charm-2",
         "name": "Grit Charm 2",
         "skills": [
           {
+            "id": 175,
+            "slug": "heroics-rank-2",
             "skill": 54,
+            "skillName": "Heroics",
             "level": 2,
             "description": "While active, increases attack power by 10% and increases defense by 20 points.",
-            "modifiers": [],
-            "id": 175,
-            "slug": "heroics-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 200,
-        "slug": "grit-charm-2"
+        ]
       }
     ]
   },
@@ -3590,49 +3795,52 @@
     "id": 201,
     "ranks": [
       {
+        "id": 201,
+        "slug": "maintenance-charm-1",
         "name": "Maintenance Charm 1",
         "skills": [
           {
+            "id": 301,
+            "slug": "tool-specialist-rank-1",
             "skill": 106,
+            "skillName": "Tool Specialist",
             "level": 1,
             "description": "Shortens time until reuse by 5%.",
-            "modifiers": [],
-            "id": 301,
-            "slug": "tool-specialist-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 201,
-        "slug": "maintenance-charm-1"
+        ]
       },
       {
+        "id": 202,
+        "slug": "maintenance-charm-2",
         "name": "Maintenance Charm 2",
         "skills": [
           {
+            "id": 302,
+            "slug": "tool-specialist-rank-2",
             "skill": 106,
+            "skillName": "Tool Specialist",
             "level": 2,
             "description": "Shortens time until reuse by 10%.",
-            "modifiers": [],
-            "id": 302,
-            "slug": "tool-specialist-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 202,
-        "slug": "maintenance-charm-2"
+        ]
       },
       {
+        "id": 203,
+        "slug": "maintenance-charm-3",
         "name": "Maintenance Charm 3",
         "skills": [
           {
+            "id": 303,
+            "slug": "tool-specialist-rank-3",
             "skill": 106,
+            "skillName": "Tool Specialist",
             "level": 3,
             "description": "Shortens time until reuse by 20%.",
-            "modifiers": [],
-            "id": 303,
-            "slug": "tool-specialist-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 203,
-        "slug": "maintenance-charm-3"
+        ]
       }
     ]
   },
@@ -3641,27 +3849,29 @@
     "id": 204,
     "ranks": [
       {
+        "id": 204,
+        "slug": "power-charm-1",
         "name": "Power Charm 1",
         "skills": [
           {
+            "id": 161,
+            "slug": "latent-power-rank-1",
             "skill": 51,
+            "skillName": "Latent Power",
             "level": 1,
             "description": "While active, increases affinity by 10% and reduces stamina depletion by 10%.",
-            "modifiers": [],
-            "id": 161,
-            "slug": "latent-power-rank-1"
+            "modifiers": []
           },
           {
+            "id": 162,
+            "slug": "latent-power-rank-2",
             "skill": 51,
+            "skillName": "Latent Power",
             "level": 2,
             "description": "While active, increases affinity by 20% and reduces stamina depletion by 10%.",
-            "modifiers": [],
-            "id": 162,
-            "slug": "latent-power-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 204,
-        "slug": "power-charm-1"
+        ]
       }
     ]
   },
@@ -3670,34 +3880,36 @@
     "id": 205,
     "ranks": [
       {
+        "id": 205,
+        "slug": "challenger-charm-1",
         "name": "Challenger Charm 1",
         "skills": [
           {
+            "id": 166,
+            "slug": "agitator-rank-1",
             "skill": 52,
+            "skillName": "Agitator",
             "level": 1,
             "description": "While active, grants attack +4 and increases affinity by 3%.",
-            "modifiers": [],
-            "id": 166,
-            "slug": "agitator-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 205,
-        "slug": "challenger-charm-1"
+        ]
       },
       {
+        "id": 206,
+        "slug": "challenger-charm-2",
         "name": "Challenger Charm 2",
         "skills": [
           {
+            "id": 167,
+            "slug": "agitator-rank-2",
             "skill": 52,
+            "skillName": "Agitator",
             "level": 2,
             "description": "While active, grants attack +8 and increases affinity by 6%.",
-            "modifiers": [],
-            "id": 167,
-            "slug": "agitator-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 206,
-        "slug": "challenger-charm-2"
+        ]
       }
     ]
   },
@@ -3706,34 +3918,36 @@
     "id": 207,
     "ranks": [
       {
+        "id": 207,
+        "slug": "unscathed-charm-1",
         "name": "Unscathed Charm 1",
         "skills": [
           {
+            "id": 171,
+            "slug": "peak-performance-rank-1",
             "skill": 53,
+            "skillName": "Peak Performance",
             "level": 1,
             "description": "While active, grants attack +5.",
-            "modifiers": [],
-            "id": 171,
-            "slug": "peak-performance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 207,
-        "slug": "unscathed-charm-1"
+        ]
       },
       {
+        "id": 208,
+        "slug": "unscathed-charm-2",
         "name": "Unscathed Charm 2",
         "skills": [
           {
+            "id": 172,
+            "slug": "peak-performance-rank-2",
             "skill": 53,
+            "skillName": "Peak Performance",
             "level": 2,
             "description": "While active, grants attack +10.",
-            "modifiers": [],
-            "id": 172,
-            "slug": "peak-performance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 208,
-        "slug": "unscathed-charm-2"
+        ]
       }
     ]
   },
@@ -3742,34 +3956,36 @@
     "id": 209,
     "ranks": [
       {
+        "id": 209,
+        "slug": "mighty-charm-1",
         "name": "Mighty Charm 1",
         "skills": [
           {
+            "id": 267,
+            "slug": "maximum-might-rank-1",
             "skill": 88,
+            "skillName": "Maximum Might",
             "level": 1,
             "description": "While active, increases affinity by 10%.",
-            "modifiers": [],
-            "id": 267,
-            "slug": "maximum-might-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 209,
-        "slug": "mighty-charm-1"
+        ]
       },
       {
+        "id": 210,
+        "slug": "mighty-charm-2",
         "name": "Mighty Charm 2",
         "skills": [
           {
+            "id": 268,
+            "slug": "maximum-might-rank-2",
             "skill": 88,
+            "skillName": "Maximum Might",
             "level": 2,
             "description": "While active, increases affinity by 20%.",
-            "modifiers": [],
-            "id": 268,
-            "slug": "maximum-might-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 210,
-        "slug": "mighty-charm-2"
+        ]
       }
     ]
   },
@@ -3778,34 +3994,36 @@
     "id": 211,
     "ranks": [
       {
+        "id": 211,
+        "slug": "impact-charm-1",
         "name": "Impact Charm 1",
         "skills": [
           {
+            "id": 276,
+            "slug": "flinch-free-rank-1",
             "skill": 91,
+            "skillName": "Flinch Free",
             "level": 1,
             "description": "Prevents knockbacks.",
-            "modifiers": [],
-            "id": 276,
-            "slug": "flinch-free-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 211,
-        "slug": "impact-charm-1"
+        ]
       },
       {
+        "id": 212,
+        "slug": "impact-charm-2",
         "name": "Impact Charm 2",
         "skills": [
           {
+            "id": 277,
+            "slug": "flinch-free-rank-2",
             "skill": 91,
+            "skillName": "Flinch Free",
             "level": 2,
             "description": "Prevents standard knockbacks. Tripping is reduced to a knockback instead.",
-            "modifiers": [],
-            "id": 277,
-            "slug": "flinch-free-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 212,
-        "slug": "impact-charm-2"
+        ]
       }
     ]
   },
@@ -3814,49 +4032,52 @@
     "id": 213,
     "ranks": [
       {
+        "id": 213,
+        "slug": "miasma-charm-1",
         "name": "Miasma Charm 1",
         "skills": [
           {
+            "id": 294,
+            "slug": "effluvia-resistance-rank-1",
             "skill": 101,
+            "skillName": "Effluvia Resistance",
             "level": 1,
             "description": "Reduces effluvial buildup.",
-            "modifiers": [],
-            "id": 294,
-            "slug": "effluvia-resistance-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 213,
-        "slug": "miasma-charm-1"
+        ]
       },
       {
+        "id": 214,
+        "slug": "miasma-charm-2",
         "name": "Miasma Charm 2",
         "skills": [
           {
+            "id": 295,
+            "slug": "effluvia-resistance-rank-2",
             "skill": 101,
+            "skillName": "Effluvia Resistance",
             "level": 2,
             "description": "Greatly reduces effluvial buildup.",
-            "modifiers": [],
-            "id": 295,
-            "slug": "effluvia-resistance-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 214,
-        "slug": "miasma-charm-2"
+        ]
       },
       {
+        "id": 215,
+        "slug": "miasma-charm-3",
         "name": "Miasma Charm 3",
         "skills": [
           {
+            "id": 296,
+            "slug": "effluvia-resistance-rank-3",
             "skill": 101,
+            "skillName": "Effluvia Resistance",
             "level": 3,
             "description": "Prevents effluvial buildup.",
-            "modifiers": [],
-            "id": 296,
-            "slug": "effluvia-resistance-rank-3"
+            "modifiers": []
           }
-        ],
-        "id": 215,
-        "slug": "miasma-charm-3"
+        ]
       }
     ]
   },
@@ -3865,19 +4086,20 @@
     "id": 216,
     "ranks": [
       {
+        "id": 216,
+        "slug": "normal-shots-charm",
         "name": "Normal Shots Charm",
         "skills": [
           {
+            "id": 117,
+            "slug": "normal-shots-rank-1",
             "skill": 35,
+            "skillName": "Normal Shots",
             "level": 1,
             "description": "Increases the power of normal ammo and normal arrows.",
-            "modifiers": [],
-            "id": 117,
-            "slug": "normal-shots-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 216,
-        "slug": "normal-shots-charm"
+        ]
       }
     ]
   },
@@ -3886,27 +4108,29 @@
     "id": 217,
     "ranks": [
       {
+        "id": 217,
+        "slug": "clearmind-charm",
         "name": "Clearmind Charm",
         "skills": [
           {
+            "id": 37,
+            "slug": "effluvial-expert-rank-1",
             "skill": 13,
+            "skillName": "Effluvial Expert",
             "level": 1,
             "description": "Nullifies damage from effluvia and reduces damage from acids.",
-            "modifiers": [],
-            "id": 37,
-            "slug": "effluvial-expert-rank-1"
+            "modifiers": []
           },
           {
+            "id": 38,
+            "slug": "heat-guard-rank-1",
             "skill": 14,
+            "skillName": "Heat Guard",
             "level": 1,
             "description": "Nullfies heat damage.",
-            "modifiers": [],
-            "id": 38,
-            "slug": "heat-guard-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 217,
-        "slug": "clearmind-charm"
+        ]
       }
     ]
   },
@@ -3915,27 +4139,29 @@
     "id": 218,
     "ranks": [
       {
+        "id": 218,
+        "slug": "riders-charm",
         "name": "Rider's Charm",
         "skills": [
           {
+            "id": 159,
+            "slug": "master-mounter-rank-1",
             "skill": 49,
+            "skillName": "Master Mounter",
             "level": 1,
             "description": "Makes it easier to mount monsters and down mounted monsters.",
-            "modifiers": [],
-            "id": 159,
-            "slug": "master-mounter-rank-1"
+            "modifiers": []
           },
           {
+            "id": 281,
+            "slug": "jump-master-rank-1",
             "skill": 94,
+            "skillName": "Jump Master",
             "level": 1,
             "description": "Negates knockback during jumps.",
-            "modifiers": [],
-            "id": 281,
-            "slug": "jump-master-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 218,
-        "slug": "riders-charm"
+        ]
       }
     ]
   },
@@ -3944,27 +4170,29 @@
     "id": 219,
     "ranks": [
       {
+        "id": 219,
+        "slug": "surveyors-charm",
         "name": "Surveyor's Charm",
         "skills": [
           {
+            "id": 279,
+            "slug": "scoutfly-range-up-rank-1",
             "skill": 92,
+            "skillName": "Scoutfly Range Up",
             "level": 1,
             "description": "Expands your scoutflies' detection range.",
-            "modifiers": [],
-            "id": 279,
-            "slug": "scoutfly-range-up-rank-1"
+            "modifiers": []
           },
           {
+            "id": 290,
+            "slug": "scholar-rank-1",
             "skill": 99,
+            "skillName": "Scholar",
             "level": 1,
             "description": "Speeds up progress on research levels and special investigations.",
-            "modifiers": [],
-            "id": 290,
-            "slug": "scholar-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 219,
-        "slug": "surveyors-charm"
+        ]
       }
     ]
   },
@@ -3973,19 +4201,20 @@
     "id": 220,
     "ranks": [
       {
+        "id": 220,
+        "slug": "critical-charm-1",
         "name": "Critical Charm 1",
         "skills": [
           {
+            "id": 130,
+            "slug": "critical-boost-rank-1",
             "skill": 40,
+            "skillName": "Critical Boost",
             "level": 1,
             "description": "Increases damage dealt by critical hits by 30%.",
-            "modifiers": [],
-            "id": 130,
-            "slug": "critical-boost-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 220,
-        "slug": "critical-charm-1"
+        ]
       }
     ]
   },
@@ -3994,34 +4223,36 @@
     "id": 221,
     "ranks": [
       {
+        "id": 221,
+        "slug": "invigorate-charm-1",
         "name": "Invigorate Charm 1",
         "skills": [
           {
+            "id": 139,
+            "slug": "power-prolonger-rank-1",
             "skill": 43,
+            "skillName": "Power Prolonger",
             "level": 1,
             "description": "Bonus duration +10%",
-            "modifiers": [],
-            "id": 139,
-            "slug": "power-prolonger-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 221,
-        "slug": "invigorate-charm-1"
+        ]
       },
       {
+        "id": 222,
+        "slug": "invigorate-charm-2",
         "name": "Invigorate Charm 2",
         "skills": [
           {
+            "id": 140,
+            "slug": "power-prolonger-rank-2",
             "skill": 43,
+            "skillName": "Power Prolonger",
             "level": 2,
             "description": "Bonus duration +20%",
-            "modifiers": [],
-            "id": 140,
-            "slug": "power-prolonger-rank-2"
+            "modifiers": []
           }
-        ],
-        "id": 222,
-        "slug": "invigorate-charm-2"
+        ]
       }
     ]
   },
@@ -4030,19 +4261,20 @@
     "id": 223,
     "ranks": [
       {
+        "id": 223,
+        "slug": "penetration-charm",
         "name": "Penetration Charm",
         "skills": [
           {
+            "id": 118,
+            "slug": "piercing-shots-rank-1",
             "skill": 36,
+            "skillName": "Piercing Shots",
             "level": 1,
             "description": "Increases the power of piercing ammo and Dragon Piercer.",
-            "modifiers": [],
-            "id": 118,
-            "slug": "piercing-shots-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 223,
-        "slug": "penetration-charm"
+        ]
       }
     ]
   },
@@ -4051,19 +4283,20 @@
     "id": 224,
     "ranks": [
       {
+        "id": 224,
+        "slug": "dispersal-charm",
         "name": "Dispersal Charm",
         "skills": [
           {
+            "id": 119,
+            "slug": "spread/power-shots-rank-1",
             "skill": 37,
+            "skillName": "Spread/Power Shots",
             "level": 1,
             "description": "Increases the power of spread ammo and power shot arrows.",
-            "modifiers": [],
-            "id": 119,
-            "slug": "spread/power-shots-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 224,
-        "slug": "dispersal-charm"
+        ]
       }
     ]
   },
@@ -4072,19 +4305,20 @@
     "id": 225,
     "ranks": [
       {
+        "id": 225,
+        "slug": "poison-coating-charm",
         "name": "Poison Coating Charm",
         "skills": [
           {
+            "id": 328,
+            "slug": "poison-functionality-rank-1",
             "skill": 129,
+            "skillName": "Poison Functionality",
             "level": 1,
             "description": "Lets you use poison coating.",
-            "modifiers": [],
-            "id": 328,
-            "slug": "poison-functionality-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 225,
-        "slug": "poison-coating-charm"
+        ]
       }
     ]
   },
@@ -4093,19 +4327,20 @@
     "id": 226,
     "ranks": [
       {
+        "id": 226,
+        "slug": "para-coating-charm",
         "name": "Para Coating Charm",
         "skills": [
           {
+            "id": 329,
+            "slug": "para-functionality-rank-1",
             "skill": 130,
+            "skillName": "Para Functionality",
             "level": 1,
             "description": "Lets you use paralysis coating.",
-            "modifiers": [],
-            "id": 329,
-            "slug": "para-functionality-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 226,
-        "slug": "para-coating-charm"
+        ]
       }
     ]
   },
@@ -4114,19 +4349,20 @@
     "id": 227,
     "ranks": [
       {
+        "id": 227,
+        "slug": "sleep-coating-charm",
         "name": "Sleep Coating Charm",
         "skills": [
           {
+            "id": 330,
+            "slug": "sleep-functionality-rank-1",
             "skill": 131,
+            "skillName": "Sleep Functionality",
             "level": 1,
             "description": "Lets you use sleep coating.",
-            "modifiers": [],
-            "id": 330,
-            "slug": "sleep-functionality-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 227,
-        "slug": "sleep-coating-charm"
+        ]
       }
     ]
   },
@@ -4135,19 +4371,20 @@
     "id": 228,
     "ranks": [
       {
+        "id": 228,
+        "slug": "blast-coating-charm",
         "name": "Blast Coating Charm",
         "skills": [
           {
+            "id": 331,
+            "slug": "blast-functionality-rank-1",
             "skill": 132,
+            "skillName": "Blast Functionality",
             "level": 1,
             "description": "Lets you use blast coating.",
-            "modifiers": [],
-            "id": 331,
-            "slug": "blast-functionality-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 228,
-        "slug": "blast-coating-charm"
+        ]
       }
     ]
   },
@@ -4156,27 +4393,29 @@
     "id": 229,
     "ranks": [
       {
+        "id": 229,
+        "slug": "geomancy-charm",
         "name": "Geomancy Charm",
         "skills": [
           {
+            "id": 298,
+            "slug": "foragers-luck-rank-1",
             "skill": 103,
+            "skillName": "Forager's Luck",
             "level": 1,
             "description": "Increases the likelihood of rare gathering points respawning.",
-            "modifiers": [],
-            "id": 298,
-            "slug": "foragers-luck-rank-1"
+            "modifiers": []
           },
           {
+            "id": 299,
+            "slug": "detector-rank-1",
             "skill": 104,
+            "skillName": "Detector",
             "level": 1,
             "description": "Marks rare sites on the wildlife map.",
-            "modifiers": [],
-            "id": 299,
-            "slug": "detector-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 229,
-        "slug": "geomancy-charm"
+        ]
       }
     ]
   },
@@ -4185,27 +4424,29 @@
     "id": 230,
     "ranks": [
       {
+        "id": 230,
+        "slug": "gale-charm",
         "name": "Gale Charm",
         "skills": [
           {
+            "id": 160,
+            "slug": "airborne-rank-1",
             "skill": 50,
+            "skillName": "Airborne",
             "level": 1,
             "description": "Jumping attack power +10%",
-            "modifiers": [],
-            "id": 160,
-            "slug": "airborne-rank-1"
+            "modifiers": []
           },
           {
+            "id": 304,
+            "slug": "affinity-sliding-rank-1",
             "skill": 107,
+            "skillName": "Affinity Sliding",
             "level": 1,
             "description": "Increases affinity by 30% for a short time after sliding.",
-            "modifiers": [],
-            "id": 304,
-            "slug": "affinity-sliding-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 230,
-        "slug": "gale-charm"
+        ]
       }
     ]
   },
@@ -4214,27 +4455,29 @@
     "id": 231,
     "ranks": [
       {
+        "id": 231,
+        "slug": "wyrmslayer-charm",
         "name": "Wyrmslayer Charm",
         "skills": [
           {
+            "id": 100,
+            "slug": "dragon-attack-rank-1",
             "skill": 30,
+            "skillName": "Dragon Attack",
             "level": 1,
             "description": "Dragon attack +30",
-            "modifiers": [],
-            "id": 100,
-            "slug": "dragon-attack-rank-1"
+            "modifiers": []
           },
           {
+            "id": 332,
+            "slug": "elderseal-boost-rank-1",
             "skill": 133,
+            "skillName": "Elderseal Boost",
             "level": 1,
             "description": "Boosts Elderseal one level.",
-            "modifiers": [],
-            "id": 332,
-            "slug": "elderseal-boost-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 231,
-        "slug": "wyrmslayer-charm"
+        ]
       }
     ]
   },
@@ -4243,27 +4486,29 @@
     "id": 232,
     "ranks": [
       {
+        "id": 232,
+        "slug": "bulwark-charm",
         "name": "Bulwark Charm",
         "skills": [
           {
+            "id": 185,
+            "slug": "resuscitate-rank-1",
             "skill": 57,
+            "skillName": "Resuscitate",
             "level": 1,
             "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
-            "modifiers": [],
-            "id": 185,
-            "slug": "resuscitate-rank-1"
+            "modifiers": []
           },
           {
+            "id": 318,
+            "slug": "guard-up-rank-1",
             "skill": 119,
+            "skillName": "Guard Up",
             "level": 1,
             "description": "Allows you to guard against ordinarily unblockable attacks.",
-            "modifiers": [],
-            "id": 318,
-            "slug": "guard-up-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 232,
-        "slug": "bulwark-charm"
+        ]
       }
     ]
   },
@@ -4272,29 +4517,31 @@
     "id": 233,
     "ranks": [
       {
+        "id": 233,
+        "slug": "fair-wind-charm",
         "name": "Fair Wind Charm",
         "skills": [
           {
+            "id": 39,
+            "slug": "attack-boost-rank-1",
             "skill": 15,
+            "skillName": "Attack Boost",
             "level": 1,
             "description": "Attack +3",
             "modifiers": {
               "attack": 3
-            },
-            "id": 39,
-            "slug": "attack-boost-rank-1"
+            }
           },
           {
+            "id": 252,
+            "slug": "divine-blessing-rank-1",
             "skill": 84,
+            "skillName": "Divine Blessing",
             "level": 1,
             "description": "While active, reduces damage taken by 15%.",
-            "modifiers": [],
-            "id": 252,
-            "slug": "divine-blessing-rank-1"
+            "modifiers": []
           }
-        ],
-        "id": 233,
-        "slug": "fair-wind-charm"
+        ]
       }
     ]
   }

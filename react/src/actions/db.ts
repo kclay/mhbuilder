@@ -61,18 +61,18 @@ type Query = QueryTypes | QueryTypes[]
 const clone = <T>(value: T): T => {
     return <T>JSON.parse(JSON.stringify(value));
 }
-const processQuery = <T extends MHItem>(storage: DBStorage<T>, query: Query, exact: boolean): T[] => {
+const processQuery = <T extends MHItem>(storage: DBStorage<T>, query: Query): T[] => {
     let results: T[] = [];
     const lookupKey = String(query);
     switch (typeof query) {
         case 'string': {
-            results = exact ? [storage.byName[lookupKey]] : storage.records.filter(record => {
+            results = storage.byName[lookupKey] ? [storage.byName[lookupKey]] : storage.records.filter(record => {
                 return record.name.includes(<string>query)
             })
         }
             break;
         case 'number':
-            results = exact ? [storage.byId[lookupKey]] : storage.records.filter(record => {
+            results = storage.byId[lookupKey] ? [storage.byId[lookupKey]] : storage.records.filter(record => {
                 return record.id === <number>query
             });
             break;
@@ -81,35 +81,37 @@ const processQuery = <T extends MHItem>(storage: DBStorage<T>, query: Query, exa
     // underlying item when attaching decos
     return results.filter(value => !!value).map(clone)
 };
-const search = <T extends MHItem>(records: DBStorage<T>, query: Query, exact: boolean = false): SearchResults<T> => {
+const search = <T extends MHItem>(records: DBStorage<T>, query: Query, unique: boolean = true): SearchResults<T> => {
     const queries = Array.isArray(query) ? query : [query];
 
     let results: T[] = <T[]>(queries.reduce<any>((acc, query) => {
-        return [...acc, ...processQuery<T>(records, query, exact)]
+        return [...acc, ...processQuery<T>(records, query)]
     }, []));
 
-    results = uniqBy(results, 'id');
+    if (unique) {
+        results = uniqBy(results, 'id');
+    }
     return {
         head: results.length ? results[0] : null,
         results
     }
 };
-type DBSearcher<T extends Gear> = (query: Query, exact?: boolean) => SearchResults<T>
-export const armor = (query: Query, exact: boolean = false): SearchResults<Armor> => {
-    return search(database.armor, query, exact);
+type DBSearcher<T extends Gear> = (query: Query, unique?: boolean) => SearchResults<T>
+export const armor = (query: Query, unique: boolean = true): SearchResults<Armor> => {
+    return search(database.armor, query, unique);
 };
-export const charms = (query: Query, exact: boolean = false): SearchResults<Charm> => {
-    return search(database.charms, query, exact);
+export const charms = (query: Query, unique: boolean = true): SearchResults<Charm> => {
+    return search(database.charms, query, unique);
 };
-export const skills = (query: Query, exact: boolean = false): SearchResults<Skill> => {
-    return search(database.skills, query, exact);
+export const skills = (query: Query, unique: boolean = true): SearchResults<Skill> => {
+    return search(database.skills, query, unique);
 };
-export const decorations = (query: Query, exact: boolean = false): SearchResults<Decoration> => {
-    return search(database.decorations, query, exact);
+export const decorations = (query: Query, unique: boolean = true): SearchResults<Decoration> => {
+    return search(database.decorations, query, unique);
 };
 
-export const weapons = (query: Query, exact: boolean = false): SearchResults<Weapon> => {
-    return search(database.weapons, query, exact);
+export const weapons = (query: Query, unique: boolean = false): SearchResults<Weapon> => {
+    return search(database.weapons, query, unique);
 };
 
 const initAction = actionCreator.async(t.INIT_DB);
@@ -123,7 +125,7 @@ const buildArmor = (name: string, jewels: string[] = []) => {
     return buildItem<Armor>(armor, name, jewels);
 };
 const attachDecorations = (gear: Gear, names: string[], canAdd: boolean = false) => {
-    const decos = decorations(names).results;
+    const decos = decorations(names, false).results;
     if (!gear.attributes.slots) {
         gear.attributes.slots = [];
     }
@@ -151,7 +153,7 @@ const init = bindThunkAction(initAction, async (params, dispatch) => {
     const build = {
         weapon: buildWeapon('Diablos Tyrannis 2', ['Vitality']),
         head: buildArmor('Rathalos Helm Beta', ['Vitality']),
-        chest: buildArmor('Damascus Mail Beta', ['Artillery', 'Artillery', 'Artillery']),
+        chest: buildArmor('Damascus Mail Beta', ['Artillery Jewel 1', 'Artillery Jewel 1', 'Artillery Jewel 1']),
         hands: buildArmor('Diablos Nero Braces Beta', ['Elementless', 'Vitality']),
         waist: buildArmor('Bazel Coil Beta', ['Sharp']),
         legs: buildArmor('Dodogama Greaves Beta', ['Attack']),

@@ -11,10 +11,10 @@ const DecorationSlots = ({slots = []}: Props) => {
 
     return <div className="item-decoration-slots">
         <ul>
-            {slots.map(slot => {
+            {slots.map((slot, index) => {
                 return slot.rank ?
-                    <li key={`slot-${slot.rank}`}><img src={assets(`decorations/gem_level_${slot.rank}.png`)}
-                                                       alt=""/></li>
+                    <li key={`slot-${index}-${slot.rank}`}><img src={assets(`decorations/gem_level_${slot.rank}.png`)}
+                                                                alt=""/></li>
                     : null;
 
             })}

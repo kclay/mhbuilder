@@ -182,11 +182,11 @@ interface SkillModifiers {
 
 interface GearSkill {
     id: number,
-    slug: string,
+    slug?: string,
     skill: number,
     level: number,
-    description: string,
-    skillName: string;
+    description?: string,
+    skillName?: string;
 }
 
 interface BuildSkill {

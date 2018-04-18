@@ -1,778 +1,778 @@
 [
   {
+    "id": 1,
+    "slug": "antidote-jewel-1",
     "name": "Antidote Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 1,
-    "id": 1,
-    "slug": "antidote-jewel-1"
+    "slot": 1
   },
   {
+    "id": 2,
+    "slug": "geology-jewel-1",
     "name": "Geology Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 87,
-    "id": 2,
-    "slug": "geology-jewel-1"
+    "slot": 1
   },
   {
+    "id": 3,
+    "slug": "heavy-artillery-jewel-1",
     "name": "Heavy Artillery Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 62,
-    "id": 3,
-    "slug": "heavy-artillery-jewel-1"
+    "slot": 1
   },
   {
+    "id": 4,
+    "slug": "hungerless-jewel-1",
     "name": "Hungerless Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 67,
-    "id": 4,
-    "slug": "hungerless-jewel-1"
+    "slot": 1
   },
   {
+    "id": 5,
+    "slug": "satiated-jewel-1",
     "name": "Satiated Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 74,
-    "id": 5,
-    "slug": "satiated-jewel-1"
+    "slot": 1
   },
   {
+    "id": 6,
+    "slug": "protection-jewel-1",
     "name": "Protection Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 84,
-    "id": 6,
-    "slug": "protection-jewel-1"
+    "slot": 1
   },
   {
+    "id": 7,
+    "slug": "meowster-jewel-1",
     "name": "Meowster Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 85,
-    "id": 7,
-    "slug": "meowster-jewel-1"
+    "slot": 1
   },
   {
+    "id": 8,
+    "slug": "botany-jewel-1",
     "name": "Botany Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 86,
-    "id": 8,
-    "slug": "botany-jewel-1"
+    "slot": 1
   },
   {
+    "id": 9,
+    "slug": "tip-toe-jewel-1",
     "name": "Tip Toe Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 90,
-    "id": 9,
-    "slug": "tip-toe-jewel-1"
+    "slot": 1
   },
   {
+    "id": 10,
+    "slug": "flight-jewel-2",
     "name": "Flight Jewel 2",
     "rarity": 5,
-    "slot": 2,
     "skill": 50,
-    "id": 10,
-    "slug": "flight-jewel-2"
+    "slot": 2
   },
   {
+    "id": 11,
+    "slug": "smoke-jewel-1",
     "name": "Smoke Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 95,
-    "id": 11,
-    "slug": "smoke-jewel-1"
+    "slot": 1
   },
   {
+    "id": 12,
+    "slug": "mirewalker-jewel-1",
     "name": "Mirewalker Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 96,
-    "id": 12,
-    "slug": "mirewalker-jewel-1"
+    "slot": 1
   },
   {
+    "id": 13,
+    "slug": "specimen-jewel-1",
     "name": "Specimen Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 100,
-    "id": 13,
-    "slug": "specimen-jewel-1"
+    "slot": 1
   },
   {
+    "id": 14,
+    "slug": "miasma-jewel-1",
     "name": "Miasma Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 101,
-    "id": 14,
-    "slug": "miasma-jewel-1"
+    "slot": 1
   },
   {
+    "id": 15,
+    "slug": "scent-jewel-1",
     "name": "Scent Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 102,
-    "id": 15,
-    "slug": "scent-jewel-1"
+    "slot": 1
   },
   {
+    "id": 16,
+    "slug": "intimidator-jewel-1",
     "name": "Intimidator Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 108,
-    "id": 16,
-    "slug": "intimidator-jewel-1"
+    "slot": 1
   },
   {
+    "id": 17,
+    "slug": "crisis-jewel-1",
     "name": "Crisis Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 57,
-    "id": 17,
-    "slug": "crisis-jewel-1"
+    "slot": 1
   },
   {
+    "id": 18,
+    "slug": "antipara-jewel-1",
     "name": "Antipara Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 2,
-    "id": 18,
-    "slug": "antipara-jewel-1"
+    "slot": 1
   },
   {
+    "id": 19,
+    "slug": "fortitude-jewel-1",
     "name": "Fortitude Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 55,
-    "id": 19,
-    "slug": "fortitude-jewel-1"
+    "slot": 1
   },
   {
+    "id": 20,
+    "slug": "water-res-jewel-1",
     "name": "Water Res Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 21,
-    "id": 20,
-    "slug": "water-res-jewel-1"
+    "slot": 1
   },
   {
+    "id": 21,
+    "slug": "suture-jewel-1",
     "name": "Suture Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 7,
-    "id": 21,
-    "slug": "suture-jewel-1"
+    "slot": 1
   },
   {
+    "id": 22,
+    "slug": "dragon-res-jewel-1",
     "name": "Dragon Res Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 24,
-    "id": 22,
-    "slug": "dragon-res-jewel-1"
+    "slot": 1
   },
   {
+    "id": 23,
+    "slug": "fire-res-jewel-1",
     "name": "Fire Res Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 20,
-    "id": 23,
-    "slug": "fire-res-jewel-1"
+    "slot": 1
   },
   {
+    "id": 24,
+    "slug": "ice-res-jewel-1",
     "name": "Ice Res Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 22,
-    "id": 24,
-    "slug": "ice-res-jewel-1"
+    "slot": 1
   },
   {
+    "id": 25,
+    "slug": "def-lock-jewel-1",
     "name": "Def Lock Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 8,
-    "id": 25,
-    "slug": "def-lock-jewel-1"
+    "slot": 1
   },
   {
+    "id": 26,
+    "slug": "thunder-res-jewel-1",
     "name": "Thunder Res Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 23,
-    "id": 26,
-    "slug": "thunder-res-jewel-1"
+    "slot": 1
   },
   {
+    "id": 27,
+    "slug": "pep-jewel-1",
     "name": "Pep Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 3,
-    "id": 27,
-    "slug": "pep-jewel-1"
+    "slot": 1
   },
   {
+    "id": 28,
+    "slug": "antiblast-jewel-1",
     "name": "Antiblast Jewel 1",
     "rarity": 5,
-    "slot": 1,
     "skill": 6,
-    "id": 28,
-    "slug": "antiblast-jewel-1"
+    "slot": 1
   },
   {
+    "id": 29,
+    "slug": "gobbler-jewel-1",
     "name": "Gobbler Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 75,
-    "id": 29,
-    "slug": "gobbler-jewel-1"
+    "slot": 1
   },
   {
+    "id": 30,
+    "slug": "physique-jewel-2",
     "name": "Physique Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 64,
-    "id": 30,
-    "slug": "physique-jewel-2"
+    "slot": 2
   },
   {
+    "id": 31,
+    "slug": "blaze-jewel-1",
     "name": "Blaze Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 26,
-    "id": 31,
-    "slug": "blaze-jewel-1"
+    "slot": 1
   },
   {
+    "id": 32,
+    "slug": "evasion-jewel-2",
     "name": "Evasion Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 68,
-    "id": 32,
-    "slug": "evasion-jewel-2"
+    "slot": 2
   },
   {
+    "id": 33,
+    "slug": "jumping-jewel-2",
     "name": "Jumping Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 69,
-    "id": 33,
-    "slug": "jumping-jewel-2"
+    "slot": 2
   },
   {
+    "id": 34,
+    "slug": "sheath-jewel-1",
     "name": "Sheath Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 71,
-    "id": 34,
-    "slug": "sheath-jewel-1"
+    "slot": 1
   },
   {
+    "id": 35,
+    "slug": "friendship-jewel-1",
     "name": "Friendship Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 72,
-    "id": 35,
-    "slug": "friendship-jewel-1"
+    "slot": 1
   },
   {
+    "id": 36,
+    "slug": "enduring-jewel-1",
     "name": "Enduring Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 73,
-    "id": 36,
-    "slug": "enduring-jewel-1"
+    "slot": 1
   },
   {
+    "id": 37,
+    "slug": "medicine-jewel-1",
     "name": "Medicine Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 18,
-    "id": 37,
-    "slug": "medicine-jewel-1"
+    "slot": 1
   },
   {
+    "id": 38,
+    "slug": "grinder-jewel-1",
     "name": "Grinder Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 76,
-    "id": 38,
-    "slug": "grinder-jewel-1"
+    "slot": 1
   },
   {
+    "id": 39,
+    "slug": "steadfast-jewel-1",
     "name": "Steadfast Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 4,
-    "id": 39,
-    "slug": "steadfast-jewel-1"
+    "slot": 1
   },
   {
+    "id": 40,
+    "slug": "bomber-jewel-1",
     "name": "Bomber Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 77,
-    "id": 40,
-    "slug": "bomber-jewel-1"
+    "slot": 1
   },
   {
+    "id": 41,
+    "slug": "recovery-jewel-1",
     "name": "Recovery Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 19,
-    "id": 41,
-    "slug": "recovery-jewel-1"
+    "slot": 1
   },
   {
+    "id": 42,
+    "slug": "slider-jewel-2",
     "name": "Slider Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 107,
-    "id": 42,
-    "slug": "slider-jewel-2"
+    "slot": 2
   },
   {
+    "id": 43,
+    "slug": "defense-jewel-1",
     "name": "Defense Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 16,
-    "id": 43,
-    "slug": "defense-jewel-1"
+    "slot": 1
   },
   {
+    "id": 44,
+    "slug": "stonethrower-jewel-1",
     "name": "Stonethrower Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 89,
-    "id": 44,
-    "slug": "stonethrower-jewel-1"
+    "slot": 1
   },
   {
+    "id": 45,
+    "slug": "footing-jewel-2",
     "name": "Footing Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 11,
-    "id": 45,
-    "slug": "footing-jewel-2"
+    "slot": 2
   },
   {
+    "id": 46,
+    "slug": "brace-jewel-3",
     "name": "Brace Jewel 3",
     "rarity": 6,
-    "slot": 3,
     "skill": 91,
-    "id": 46,
-    "slug": "brace-jewel-3"
+    "slot": 3
   },
   {
+    "id": 47,
+    "slug": "wind-resist-jewel-2",
     "name": "Wind Resist Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 10,
-    "id": 47,
-    "slug": "wind-resist-jewel-2"
+    "slot": 2
   },
   {
+    "id": 48,
+    "slug": "earplug-jewel-3",
     "name": "Earplug Jewel 3",
     "rarity": 6,
-    "slot": 3,
     "skill": 9,
-    "id": 48,
-    "slug": "earplug-jewel-3"
+    "slot": 3
   },
   {
+    "id": 49,
+    "slug": "vitality-jewel-1",
     "name": "Vitality Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 17,
-    "id": 49,
-    "slug": "vitality-jewel-1"
+    "slot": 1
   },
   {
+    "id": 50,
+    "slug": "resistor-jewel-1",
     "name": "Resistor Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 25,
-    "id": 50,
-    "slug": "resistor-jewel-1"
+    "slot": 1
   },
   {
+    "id": 51,
+    "slug": "sonorous-jewel-1",
     "name": "Sonorous Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 58,
-    "id": 51,
-    "slug": "sonorous-jewel-1"
+    "slot": 1
   },
   {
+    "id": 52,
+    "slug": "ko-jewel-2",
     "name": "KO Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 47,
-    "id": 52,
-    "slug": "ko-jewel-2"
+    "slot": 2
   },
   {
+    "id": 53,
+    "slug": "stream-jewel-1",
     "name": "Stream Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 27,
-    "id": 53,
-    "slug": "stream-jewel-1"
+    "slot": 1
   },
   {
+    "id": 54,
+    "slug": "frost-jewel-1",
     "name": "Frost Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 28,
-    "id": 54,
-    "slug": "frost-jewel-1"
+    "slot": 1
   },
   {
+    "id": 55,
+    "slug": "bolt-jewel-1",
     "name": "Bolt Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 29,
-    "id": 55,
-    "slug": "bolt-jewel-1"
+    "slot": 1
   },
   {
+    "id": 56,
+    "slug": "dragon-jewel-1",
     "name": "Dragon Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 30,
-    "id": 56,
-    "slug": "dragon-jewel-1"
+    "slot": 1
   },
   {
+    "id": 57,
+    "slug": "venom-jewel-1",
     "name": "Venom Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 31,
-    "id": 57,
-    "slug": "venom-jewel-1"
+    "slot": 1
   },
   {
+    "id": 58,
+    "slug": "poisoncoat-jewel-3",
     "name": "Poisoncoat Jewel 3",
     "rarity": 6,
-    "slot": 3,
     "skill": 129,
-    "id": 58,
-    "slug": "poisoncoat-jewel-3"
+    "slot": 3
   },
   {
+    "id": 59,
+    "slug": "expert-jewel-1",
     "name": "Expert Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 39,
-    "id": 59,
-    "slug": "expert-jewel-1"
+    "slot": 1
   },
   {
+    "id": 60,
+    "slug": "tenderizer-jewel-2",
     "name": "Tenderizer Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 41,
-    "id": 60,
-    "slug": "tenderizer-jewel-2"
+    "slot": 2
   },
   {
+    "id": 61,
+    "slug": "destroyer-jewel-2",
     "name": "Destroyer Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 46,
-    "id": 61,
-    "slug": "destroyer-jewel-2"
+    "slot": 2
   },
   {
+    "id": 62,
+    "slug": "elementless-jewel-2",
     "name": "Elementless Jewel 2",
     "rarity": 6,
-    "slot": 2,
     "skill": 117,
-    "id": 62,
-    "slug": "elementless-jewel-2"
+    "slot": 2
   },
   {
+    "id": 63,
+    "slug": "drain-jewel-1",
     "name": "Drain Jewel 1",
     "rarity": 6,
-    "slot": 1,
     "skill": 48,
-    "id": 63,
-    "slug": "drain-jewel-1"
+    "slot": 1
   },
   {
+    "id": 64,
+    "slug": "paracoat-jewel-3",
     "name": "Paracoat Jewel 3",
     "rarity": 7,
-    "slot": 3,
     "skill": 130,
-    "id": 64,
-    "slug": "paracoat-jewel-3"
+    "slot": 3
   },
   {
+    "id": 65,
+    "slug": "sharp-jewel-2",
     "name": "Sharp Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 128,
-    "id": 65,
-    "slug": "sharp-jewel-2"
+    "slot": 2
   },
   {
+    "id": 66,
+    "slug": "shield-jewel-2",
     "name": "Shield Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 119,
-    "id": 66,
-    "slug": "shield-jewel-2"
+    "slot": 2
   },
   {
+    "id": 67,
+    "slug": "dragonseal-jewel-3",
     "name": "Dragonseal Jewel 3",
     "rarity": 7,
-    "slot": 3,
     "skill": 133,
-    "id": 67,
-    "slug": "dragonseal-jewel-3"
+    "slot": 3
   },
   {
+    "id": 68,
+    "slug": "trueshot-jewel-1",
     "name": "Trueshot Jewel 1",
     "rarity": 7,
-    "slot": 1,
     "skill": 60,
-    "id": 68,
-    "slug": "trueshot-jewel-1"
+    "slot": 1
   },
   {
+    "id": 69,
+    "slug": "enhancer-jewel-2",
     "name": "Enhancer Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 43,
-    "id": 69,
-    "slug": "enhancer-jewel-2"
+    "slot": 2
   },
   {
+    "id": 70,
+    "slug": "forceshot-jewel-3",
     "name": "Forceshot Jewel 3",
     "rarity": 7,
-    "slot": 3,
     "skill": 35,
-    "id": 70,
-    "slug": "forceshot-jewel-3"
+    "slot": 3
   },
   {
+    "id": 71,
+    "slug": "furor-jewel-2",
     "name": "Furor Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 56,
-    "id": 71,
-    "slug": "furor-jewel-2"
+    "slot": 2
   },
   {
+    "id": 72,
+    "slug": "potential-jewel-2",
     "name": "Potential Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 54,
-    "id": 72,
-    "slug": "potential-jewel-2"
+    "slot": 2
   },
   {
+    "id": 73,
+    "slug": "paralyzer-jewel-1",
     "name": "Paralyzer Jewel 1",
     "rarity": 7,
-    "slot": 1,
     "skill": 32,
-    "id": 73,
-    "slug": "paralyzer-jewel-1"
+    "slot": 1
   },
   {
+    "id": 74,
+    "slug": "sleep-jewel-1",
     "name": "Sleep Jewel 1",
     "rarity": 7,
-    "slot": 1,
     "skill": 33,
-    "id": 74,
-    "slug": "sleep-jewel-1"
+    "slot": 1
   },
   {
+    "id": 75,
+    "slug": "ironwall-jewel-1",
     "name": "Ironwall Jewel 1",
     "rarity": 7,
-    "slot": 1,
     "skill": 70,
-    "id": 75,
-    "slug": "ironwall-jewel-1"
+    "slot": 1
   },
   {
+    "id": 76,
+    "slug": "refresh-jewel-2",
     "name": "Refresh Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 66,
-    "id": 76,
-    "slug": "refresh-jewel-2"
+    "slot": 2
   },
   {
+    "id": 77,
+    "slug": "blast-jewel-1",
     "name": "Blast Jewel 1",
     "rarity": 7,
-    "slot": 1,
     "skill": 34,
-    "id": 77,
-    "slug": "blast-jewel-1"
+    "slot": 1
   },
   {
+    "id": 78,
+    "slug": "sleepcoat-jewel-3",
     "name": "Sleepcoat Jewel 3",
     "rarity": 7,
-    "slot": 3,
     "skill": 131,
-    "id": 78,
-    "slug": "sleepcoat-jewel-3"
+    "slot": 3
   },
   {
+    "id": 79,
+    "slug": "blastcoat-jewel-3",
     "name": "Blastcoat Jewel 3",
     "rarity": 7,
-    "slot": 3,
     "skill": 132,
-    "id": 79,
-    "slug": "blastcoat-jewel-3"
+    "slot": 3
   },
   {
+    "id": 80,
+    "slug": "throttle-jewel-2",
     "name": "Throttle Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 51,
-    "id": 80,
-    "slug": "throttle-jewel-2"
+    "slot": 2
   },
   {
+    "id": 81,
+    "slug": "challenger-jewel-2",
     "name": "Challenger Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 52,
-    "id": 81,
-    "slug": "challenger-jewel-2"
+    "slot": 2
   },
   {
+    "id": 82,
+    "slug": "attack-jewel-1",
     "name": "Attack Jewel 1",
     "rarity": 7,
-    "slot": 1,
     "skill": 15,
-    "id": 82,
-    "slug": "attack-jewel-1"
+    "slot": 1
   },
   {
+    "id": 83,
+    "slug": "flawless-jewel-2",
     "name": "Flawless Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 53,
-    "id": 83,
-    "slug": "flawless-jewel-2"
+    "slot": 2
   },
   {
+    "id": 84,
+    "slug": "magazine-jewel-2",
     "name": "Magazine Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 59,
-    "id": 84,
-    "slug": "magazine-jewel-2"
+    "slot": 2
   },
   {
+    "id": 85,
+    "slug": "mighty-jewel-2",
     "name": "Mighty Jewel 2",
     "rarity": 7,
-    "slot": 2,
     "skill": 88,
-    "id": 85,
-    "slug": "mighty-jewel-2"
+    "slot": 2
   },
   {
+    "id": 86,
+    "slug": "sprinter-jewel-2",
     "name": "Sprinter Jewel 2",
     "rarity": 8,
-    "slot": 2,
     "skill": 63,
-    "id": 86,
-    "slug": "sprinter-jewel-2"
+    "slot": 2
   },
   {
+    "id": 87,
+    "slug": "critical-jewel-2",
     "name": "Critical Jewel 2",
     "rarity": 8,
-    "slot": 2,
     "skill": 40,
-    "id": 87,
-    "slug": "critical-jewel-2"
+    "slot": 2
   },
   {
+    "id": 88,
+    "slug": "artillery-jewel-1",
     "name": "Artillery Jewel 1",
     "rarity": 8,
-    "slot": 1,
     "skill": 61,
-    "id": 88,
-    "slug": "artillery-jewel-1"
+    "slot": 1
   },
   {
+    "id": 89,
+    "slug": "fungiform-jewel-1",
     "name": "Fungiform Jewel 1",
     "rarity": 8,
-    "slot": 1,
     "skill": 78,
-    "id": 89,
-    "slug": "fungiform-jewel-1"
+    "slot": 1
   },
   {
+    "id": 90,
+    "slug": "release-jewel-3",
     "name": "Release Jewel 3",
     "rarity": 8,
-    "slot": 3,
     "skill": 38,
-    "id": 90,
-    "slug": "release-jewel-3"
+    "slot": 3
   },
   {
+    "id": 91,
+    "slug": "spread-jewel-3",
     "name": "Spread Jewel 3",
     "rarity": 8,
-    "slot": 3,
     "skill": 37,
-    "id": 91,
-    "slug": "spread-jewel-3"
+    "slot": 3
   },
   {
+    "id": 92,
+    "slug": "charger-jewel-2",
     "name": "Charger Jewel 2",
     "rarity": 8,
-    "slot": 2,
     "skill": 42,
-    "id": 92,
-    "slug": "charger-jewel-2"
+    "slot": 2
   },
   {
+    "id": 93,
+    "slug": "handicraft-jewel-3",
     "name": "Handicraft Jewel 3",
     "rarity": 8,
-    "slot": 3,
     "skill": 44,
-    "id": 93,
-    "slug": "handicraft-jewel-3"
+    "slot": 3
   },
   {
+    "id": 94,
+    "slug": "mighty-bow-jewel-2",
     "name": "Mighty Bow Jewel 2",
     "rarity": 8,
-    "slot": 2,
     "skill": 126,
-    "id": 94,
-    "slug": "mighty-bow-jewel-2"
+    "slot": 2
   },
   {
+    "id": 95,
+    "slug": "minds-eye-jewel-2",
     "name": "Mind's Eye Jewel 2",
     "rarity": 8,
-    "slot": 2,
     "skill": 115,
-    "id": 95,
-    "slug": "minds-eye-jewel-2"
+    "slot": 2
   },
   {
+    "id": 96,
+    "slug": "draw-jewel-2",
     "name": "Draw Jewel 2",
     "rarity": 8,
-    "slot": 2,
     "skill": 45,
-    "id": 96,
-    "slug": "draw-jewel-2"
+    "slot": 2
   },
   {
+    "id": 97,
+    "slug": "pierce-jewel-3",
     "name": "Pierce Jewel 3",
     "rarity": 8,
-    "slot": 3,
     "skill": 36,
-    "id": 97,
-    "slug": "pierce-jewel-3"
+    "slot": 3
   }
 ]
