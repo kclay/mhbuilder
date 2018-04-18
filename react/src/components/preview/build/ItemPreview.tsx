@@ -25,7 +25,7 @@ const ItemPreview = ({type, item, small = false}: Props) => {
     return <div className={classNames.join(' ')}>
         <div className="item">
             <div className="img-wrapper">
-                {slots && <DecorationSlots slots={slots}/>}
+                {slots && <DecorationSlots id={item.name} slots={slots}/>}
                 {image && <img src={image} alt=""/>}
             </div>
             <div className="item-tooltip"/>

@@ -131,7 +131,10 @@ const attachDecorations = (gear: Gear, names: string[], canAdd: boolean = false)
     }
     const slots = gear.attributes.slots;
     decos.forEach((deco) => {
-        const slot = slots.find(slot => !slot.decoration && slot.rank === deco.slot);
+        let slot = slots.find(slot => !slot.decoration && slot.rank === deco.slot);
+        if (!slot) {
+            slot = slots.find(slot => !slot.decoration && slot.rank > deco.slot)
+        }
         if (slot) {
             slot.decoration = deco;
         } else if (canAdd) {
