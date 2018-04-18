@@ -88,9 +88,6 @@ const transformArray = (objectKey, transform, valueKey,
                         useTransform = false, merger = defaultArrayMerger) => {
     return (item) => {
         if (!item.attributes) return item;
-        if (item.name === 'Damascus Mail Beta') {
-            console.log(item);
-        }
         item.attributes = _.reduce(item.attributes, (acc, value, key) => {
             const updated = transform(key);
             const changed = key !== updated;
@@ -116,6 +113,9 @@ const elementArrayMerger = (acc, objectKey, valueKey, value) => {
         currentValue.splice(index, 1, element)
     }
     valueKey = valueKey.replace(number, '').toLowerCase();
+    if (valueKey === 'hidden') {
+        value = true;
+    }
     element[valueKey] = value;
     return currentValue;
 };

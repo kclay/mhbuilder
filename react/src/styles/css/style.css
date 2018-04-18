@@ -11,6 +11,9 @@
   font-weight: 700;
   src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(https://fonts.gstatic.com/s/notosans/v7/o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf) format('truetype');
 }
+.gem-tooltip {
+  max-width: 200px;
+}
 /* ---------------------------------------------------------------------------------- FONTS */
 html {
   font-size: 62.5%;
