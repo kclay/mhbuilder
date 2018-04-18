@@ -85,7 +85,7 @@ export default function computeSkills(build: Build, forSet: boolean): BuildSkill
         }]
     }, []);
     return orderBy(computed, (skill: BuildSkill) => {
-        return skill.points + skill.max
-    }).reverse()
+        return [skill.points]
+    }, ['desc'])
 }
 
