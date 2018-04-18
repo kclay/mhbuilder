@@ -125,7 +125,8 @@
         "description": "Prevents stun.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "yellow"
   },
   {
     "id": 5,
@@ -237,7 +238,8 @@
         "description": "Prevents Defense Down.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "brown"
   },
   {
     "id": 9,
@@ -285,7 +287,8 @@
         "description": "Nullifies weak and strong monster roars.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "light-grey"
   },
   {
     "id": 10,
@@ -365,7 +368,8 @@
         "description": "Nullifies minor and major ground tremors.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "grey"
   },
   {
     "id": 12,
@@ -495,7 +499,8 @@
           "affinity": 5
         }
       }
-    ]
+    ],
+    "color": "pink"
   },
   {
     "id": 16,
@@ -615,7 +620,8 @@
           "health": 50
         }
       }
-    ]
+    ],
+    "color": "green"
   },
   {
     "id": 18,
@@ -959,7 +965,8 @@
           "damageFire": "100+10%"
         }
       }
-    ]
+    ],
+    "color": "pink"
   },
   {
     "id": 27,
@@ -1181,7 +1188,8 @@
         "description": "Dragon attack +10% Bonus: +100",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "dark-red"
   },
   {
     "id": 31,
@@ -1309,7 +1317,8 @@
         "description": "Blast buildup +20% Bonus: +10",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "dark-brown"
   },
   {
     "id": 35,
@@ -1341,7 +1350,8 @@
         "description": "Increases the power of piercing ammo and Dragon Piercer.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "blue"
   },
   {
     "id": 37,
@@ -1357,7 +1367,8 @@
         "description": "Increases the power of spread ammo and power shot arrows.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "dark-green"
   },
   {
     "id": 38,
@@ -1389,7 +1400,8 @@
         "description": "Draws out 100% of hidden element and expands clip size for some ammo.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "light-blue"
   },
   {
     "id": 39,
@@ -1499,7 +1511,8 @@
         "description": "Increases damage dealt by critical hits by 40%.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "purple"
   },
   {
     "id": 41,
@@ -1531,7 +1544,8 @@
         "description": "Attacks that hit weak spots have 50% increased affinity.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "purple"
   },
   {
     "id": 42,
@@ -1563,7 +1577,8 @@
         "description": "Increases gauge fill rate by 20% and reduces charge times by 20%.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "brown"
   },
   {
     "id": 43,
@@ -1653,7 +1668,8 @@
           "sharpnessBonus": 50
         }
       }
-    ]
+    ],
+    "color": "light-grey"
   },
   {
     "id": 45,
@@ -1685,7 +1701,8 @@
         "description": "Draw attack affinity +100%",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "purple"
   },
   {
     "id": 46,
@@ -1861,7 +1878,8 @@
         "description": "While active, increases affinity by 50% and reduces stamina depletion by 50%.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "pink"
   },
   {
     "id": 52,
@@ -1909,7 +1927,8 @@
         "description": "While active, grants attack +20 and increases affinity by 15%.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "pink"
   },
   {
     "id": 53,
@@ -1941,7 +1960,8 @@
         "description": "While active, grants attack +20.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "red"
   },
   {
     "id": 54,
@@ -2069,7 +2089,8 @@
         "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "light-blue"
   },
   {
     "id": 58,
@@ -2101,7 +2122,8 @@
         "description": "Loading capacity +1",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "grey"
   },
   {
     "id": 60,
@@ -2125,7 +2147,8 @@
         "description": "Increases the power of bowgun special ammo and Dragon Piercer by 20%.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "grey"
   },
   {
     "id": 61,
@@ -2157,7 +2180,8 @@
         "description": "Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "grey"
   },
   {
     "id": 62,
@@ -2309,7 +2333,8 @@
         "description": "Stamina recovery speed +30%",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "brown"
   },
   {
     "id": 67,
@@ -2389,7 +2414,8 @@
         "description": "Massively increases invulnerability window.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "light-blue"
   },
   {
     "id": 69,
@@ -2469,7 +2495,8 @@
         "description": "Greatly decreases the impact of attacks and redcues stamina depletion by 50%.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "light-grey"
   },
   {
     "id": 71,
@@ -2501,7 +2528,8 @@
         "description": "Greatly increases sheathing speed.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "brown"
   },
   {
     "id": 72,
@@ -2597,7 +2625,8 @@
         "description": "Activates 25% of the time.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "brown"
   },
   {
     "id": 75,
@@ -2661,7 +2690,8 @@
         "description": "Removes three cycles from the sharpening process.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "yellow"
   },
   {
     "id": 77,
@@ -2693,7 +2723,8 @@
         "description": "Explosive power +30%",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "dark-brown"
   },
   {
     "id": 78,
@@ -2957,7 +2988,8 @@
         "description": "Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "brown"
   },
   {
     "id": 88,
@@ -2989,7 +3021,8 @@
         "description": "While active, increases affinity by 30%.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "pink"
   },
   {
     "id": 89,
@@ -3341,7 +3374,8 @@
         "description": "Increases the likelihood of rare gathering points respawning.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "light-grey"
   },
   {
     "id": 104,
@@ -3597,7 +3631,8 @@
         "description": "Powers up non-elemental weapons you have equipped.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "brown"
   },
   {
     "id": 118,
@@ -3629,7 +3664,8 @@
         "description": "Allows you to guard against ordinarily unblockable attacks.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "yellow"
   },
   {
     "id": 120,
@@ -3773,7 +3809,8 @@
         "description": "Weapon sharpness does not decrease for a set time after sharpening.",
         "modifiers": []
       }
-    ]
+    ],
+    "color": "red"
   },
   {
     "id": 129,

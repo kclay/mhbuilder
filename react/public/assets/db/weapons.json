@@ -108,7 +108,7 @@
       "attack": 672,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Poison"
         }
@@ -141,7 +141,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Poison"
         }
@@ -177,7 +177,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 420,
           "type": "Poison"
         }
@@ -522,7 +522,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/frost_blaze_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/frost_blaze_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/frost_blaze.png"
     }
   },
   {
@@ -603,7 +604,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Ice"
         }
@@ -638,7 +639,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Ice"
         }
@@ -674,7 +675,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Ice"
         }
@@ -1340,7 +1341,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Ice"
         }
@@ -1372,7 +1373,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Ice"
         }
@@ -1405,7 +1406,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Ice"
         }
@@ -1820,7 +1821,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -1857,7 +1858,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Paralysis"
         }
@@ -1894,7 +1895,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 390,
           "type": "Paralysis"
         }
@@ -2435,7 +2436,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Blast"
         }
@@ -2468,7 +2469,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Blast"
         }
@@ -2597,7 +2598,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Water"
         }
@@ -2630,7 +2631,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Water"
         }
@@ -2666,7 +2667,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Water"
         }
@@ -2802,7 +2803,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Thunder"
         }
@@ -2835,7 +2836,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Thunder"
         }
@@ -2868,7 +2869,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 360,
           "type": "Thunder"
         }
@@ -2960,7 +2961,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Sleep"
         }
@@ -2989,7 +2990,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Sleep"
         }
@@ -3018,7 +3019,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Sleep"
         }
@@ -3416,7 +3417,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Sleep"
         }
@@ -3448,7 +3449,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Sleep"
         }
@@ -3481,7 +3482,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Sleep"
         }
@@ -4290,7 +4291,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Paralysis"
         }
@@ -4323,7 +4324,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -4356,7 +4357,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -4686,7 +4687,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Dragon"
         }
@@ -4720,7 +4721,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Dragon"
         }
@@ -4735,7 +4736,6 @@
       "elderseal": "high"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/divine_slasher_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/divine_slasher.png"
     }
   },
@@ -4868,7 +4868,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Sleep"
         }
@@ -4901,7 +4901,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Sleep"
         }
@@ -4937,7 +4937,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Sleep"
         }
@@ -5181,7 +5181,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Thunder"
         }
@@ -5214,7 +5214,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Thunder"
         }
@@ -5712,7 +5712,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Blast"
         }
@@ -5748,7 +5748,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Blast"
         }
@@ -5784,7 +5784,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Blast"
         }
@@ -6227,7 +6227,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Paralysis"
         }
@@ -6259,7 +6259,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -6292,7 +6292,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Paralysis"
         }
@@ -6520,7 +6520,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Water"
         }
@@ -6556,7 +6556,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Water"
         }
@@ -6592,7 +6592,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 360,
           "type": "Water"
         }
@@ -6833,7 +6833,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Paralysis"
         }
@@ -6869,7 +6869,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Paralysis"
         }
@@ -6906,7 +6906,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Paralysis"
         }
@@ -7454,7 +7454,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Poison"
         }
@@ -7487,7 +7487,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Poison"
         }
@@ -7523,7 +7523,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Poison"
         }
@@ -7662,7 +7662,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Thunder"
         }
@@ -7695,7 +7695,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Thunder"
         }
@@ -7728,7 +7728,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Thunder"
         }
@@ -8008,7 +8008,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Sleep"
         }
@@ -8037,7 +8037,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Sleep"
         }
@@ -8066,7 +8066,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Sleep"
         }
@@ -8287,7 +8287,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Blast"
         }
@@ -8319,7 +8319,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Blast"
         }
@@ -8349,7 +8349,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Blast"
         }
@@ -8537,7 +8537,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Ice"
         }
@@ -8570,7 +8570,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Ice"
         }
@@ -8604,7 +8604,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Ice"
         }
@@ -8920,7 +8920,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Paralysis"
         }
@@ -8953,7 +8953,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Paralysis"
         }
@@ -8986,7 +8986,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Paralysis"
         }
@@ -9217,7 +9217,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Fire"
         }
@@ -9246,7 +9246,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Fire"
         }
@@ -9275,7 +9275,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Fire"
         }
@@ -9798,7 +9798,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Blast"
         }
@@ -9831,7 +9831,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Blast"
         }
@@ -9867,7 +9867,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Blast"
         }
@@ -10741,7 +10741,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 360,
           "type": "Thunder"
         }
@@ -10773,7 +10773,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 390,
           "type": "Thunder"
         }
@@ -10806,7 +10806,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 420,
           "type": "Thunder"
         }
@@ -11158,7 +11158,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Sleep"
         }
@@ -11186,7 +11186,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Sleep"
         }
@@ -11214,7 +11214,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 360,
           "type": "Sleep"
         }
@@ -11269,7 +11269,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Ice"
         }
@@ -11302,7 +11302,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Ice"
         }
@@ -11335,7 +11335,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Ice"
         }
@@ -11432,7 +11432,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -11468,7 +11468,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Paralysis"
         }
@@ -11504,7 +11504,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 390,
           "type": "Paralysis"
         }
@@ -12129,7 +12129,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -12162,7 +12162,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -12198,7 +12198,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -12500,7 +12500,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Sleep"
         }
@@ -12525,7 +12525,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Sleep"
         }
@@ -12551,7 +12551,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 360,
           "type": "Sleep"
         }
@@ -13086,7 +13086,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Ice"
         }
@@ -13118,7 +13118,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Ice"
         }
@@ -13151,7 +13151,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Ice"
         }
@@ -13256,8 +13256,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_horn_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_horn.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_horn_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blazing_horn_96x96.png"
     }
   },
   {
@@ -14396,6 +14396,7 @@
       "elderseal": "low"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_manasheena_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_manasheena.png"
     }
   },
@@ -14414,8 +14415,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_lance_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_lance_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_lance_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/iron_lance.png"
     }
   },
   {
@@ -14513,7 +14514,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -14546,7 +14547,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -14582,7 +14583,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -14629,7 +14630,6 @@
       "elderseal": "high"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergal_impaler_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergal_impaler.png"
     }
   },
@@ -14788,8 +14788,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu_lance_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu_lance_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu_lance_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu_lance.png"
     }
   },
   {
@@ -14845,7 +14845,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Sleep"
         }
@@ -14874,7 +14874,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Sleep"
         }
@@ -14903,7 +14903,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 360,
           "type": "Sleep"
         }
@@ -15160,8 +15160,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_lance_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_lance_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_lance_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_lance.png"
     }
   },
   {
@@ -15409,6 +15409,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/red_tail_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/red_tail.png"
     }
   },
@@ -15493,8 +15494,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_lance_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_lance_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_lance_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_lance.png"
     }
   },
   {
@@ -15591,7 +15592,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Poison"
         }
@@ -15623,7 +15624,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Poison"
         }
@@ -15656,7 +15657,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Poison"
         }
@@ -15789,7 +15790,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Blast"
         }
@@ -15822,7 +15823,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Blast"
         }
@@ -15855,7 +15856,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Blast"
         }
@@ -15948,7 +15949,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Paralysis"
         }
@@ -15984,7 +15985,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Paralysis"
         }
@@ -16020,7 +16021,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 390,
           "type": "Paralysis"
         }
@@ -16069,7 +16070,7 @@
       "attack": 322,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Fire"
         }
@@ -16098,7 +16099,7 @@
       "affinity": 30,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Fire"
         }
@@ -16127,7 +16128,7 @@
       "affinity": 30,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Fire"
         }
@@ -16430,7 +16431,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rookslayer_lance_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rookslayer_lance.png"
     }
   },
@@ -16483,7 +16483,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/thunderpike_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/thunderpike.png"
     }
   },
@@ -16511,7 +16510,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/thunderspear_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/thunderspear.png"
     }
   },
@@ -16539,7 +16537,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/thunderpiercer_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/thunderpiercer.png"
     }
   },
@@ -16625,7 +16622,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/icesteel_spear_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/icesteel_spear.png"
     }
   },
@@ -16709,7 +16705,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Fire"
         }
@@ -16723,6 +16719,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/babel_spear_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/babel_spear.png"
     }
   },
@@ -16741,7 +16738,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Fire"
         }
@@ -16905,7 +16902,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Blast"
         }
@@ -16942,7 +16939,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Blast"
         }
@@ -17025,7 +17022,6 @@
       "elderseal": "high"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/eradication_flame_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/eradication_flame.png"
     }
   },
@@ -17467,7 +17463,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rose_burst_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rose_burst.png"
     }
   },
@@ -17899,7 +17894,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Thunder"
         }
@@ -17932,7 +17927,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Thunder"
         }
@@ -17966,7 +17961,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Thunder"
         }
@@ -18070,8 +18065,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_gunlance_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_gunlance_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_gunlance_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_gunlance.png"
     }
   },
   {
@@ -18134,7 +18129,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Sleep"
         }
@@ -18170,7 +18165,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Sleep"
         }
@@ -18207,7 +18202,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Sleep"
         }
@@ -18511,7 +18506,7 @@
       "affinity": -10,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -18540,7 +18535,7 @@
       "affinity": -10,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 330,
           "type": "Paralysis"
         }
@@ -18570,7 +18565,7 @@
       "affinity": -10,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 390,
           "type": "Paralysis"
         }
@@ -18847,6 +18842,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/magda_lahat_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/magda_lahat.png"
     }
   },
@@ -19033,7 +19029,6 @@
       "elderseal": "low"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_hemta_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_hemta.png"
     }
   },
@@ -19053,8 +19048,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/proto_iron_axe_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/proto_iron_axe_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/proto_iron_axe_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/proto_iron_axe.png"
     }
   },
   {
@@ -19156,7 +19151,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Poison"
         }
@@ -19190,7 +19185,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 360,
           "type": "Poison"
         }
@@ -19227,7 +19222,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 420,
           "type": "Poison"
         }
@@ -19276,7 +19271,6 @@
       "elderseal": "high"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergal_gash_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergal_gash.png"
     }
   },
@@ -19658,8 +19652,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_axe_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_axe_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_axe_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_axe.png"
     }
   },
   {
@@ -19719,7 +19713,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Sleep"
         }
@@ -19756,7 +19750,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Sleep"
         }
@@ -19793,7 +19787,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Sleep"
         }
@@ -19842,8 +19836,8 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_raider_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_raider.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_raider_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bazel_raider_96x96.png"
     }
   },
   {
@@ -20495,7 +20489,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 360,
           "type": "Blast"
         }
@@ -20529,7 +20523,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 390,
           "type": "Blast"
         }
@@ -20564,7 +20558,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 420,
           "type": "Blast"
         }
@@ -20601,8 +20595,8 @@
       }
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_axe_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_axe_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_axe_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/carapace_axe.png"
     }
   },
   {
@@ -20665,7 +20659,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Paralysis"
         }
@@ -20702,7 +20696,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Paralysis"
         }
@@ -20739,7 +20733,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Paralysis"
         }
@@ -20796,7 +20790,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Ice"
         }
@@ -20830,7 +20824,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Ice"
         }
@@ -20845,7 +20839,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_semper_tyrannis_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_semper_tyrannis.png"
     }
   },
@@ -20865,7 +20858,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Ice"
         }
@@ -20880,7 +20873,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_of_thanatos_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/axe_of_thanatos.png"
     }
   },
@@ -20900,7 +20892,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Ice"
         }
@@ -21118,6 +21110,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/peal_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/peal.png"
     }
   },
@@ -21438,7 +21431,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Thunder"
         }
@@ -21472,7 +21465,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Thunder"
         }
@@ -21509,7 +21502,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Thunder"
         }
@@ -21558,6 +21551,7 @@
       "elderseal": "high"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergal_lacerator_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergal_lacerator.png"
     }
   },
@@ -22057,6 +22051,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_lutemis_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_lutemis.png"
     }
   },
@@ -22128,7 +22123,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatel_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatel.png"
     }
   },
@@ -22164,6 +22158,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatelia_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dear_hecatelia.png"
     }
   },
@@ -22280,7 +22275,7 @@
       "attack": 576,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Blast"
         }
@@ -22313,7 +22308,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Blast"
         }
@@ -22347,7 +22342,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Blast"
         }
@@ -22399,7 +22394,7 @@
       "affinity": -30,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Ice"
         }
@@ -22428,7 +22423,7 @@
       "affinity": -30,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Ice"
         }
@@ -22458,7 +22453,7 @@
       "affinity": -30,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Ice"
         }
@@ -22558,7 +22553,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Sleep"
         }
@@ -22594,7 +22589,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Sleep"
         }
@@ -22631,7 +22626,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Sleep"
         }
@@ -23152,7 +23147,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Fire"
         }
@@ -23182,7 +23177,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Fire"
         }
@@ -23209,7 +23204,7 @@
       "affinity": 25,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Fire"
         }
@@ -23653,7 +23648,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Blast"
         }
@@ -23687,7 +23682,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Blast"
         }
@@ -23724,7 +23719,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Blast"
         }
@@ -24012,7 +24007,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Sleep"
         }
@@ -24042,7 +24037,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Sleep"
         }
@@ -24072,7 +24067,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Sleep"
         }
@@ -24148,7 +24143,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Thunder"
         }
@@ -24182,7 +24177,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Thunder"
         }
@@ -24216,7 +24211,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Thunder"
         }
@@ -24739,7 +24734,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Paralysis"
         }
@@ -24772,7 +24767,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -24806,7 +24801,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Paralysis"
         }
@@ -24944,6 +24939,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/flammenkaefer+_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/flammenkaefer+.png"
     }
   },
@@ -24972,7 +24968,6 @@
       }
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gnashing_flammenkaefer_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gnashing_flammenkaefer.png"
     }
   },
@@ -25193,7 +25188,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Ice"
         }
@@ -25227,7 +25222,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Ice"
         }
@@ -25262,7 +25257,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Ice"
         }
@@ -25500,7 +25495,7 @@
       "affinity": 10,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Fire"
         }
@@ -25535,7 +25530,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Fire"
         }
@@ -25567,7 +25562,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Fire"
         }
@@ -25900,6 +25895,7 @@
       }
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_shmaena_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/xeno_shmaena.png"
     }
   },
@@ -25992,8 +25988,8 @@
       "specialAmmo": "Wyvernblast"
     },
     "images": {
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/chain_blitz_i.png",
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/chain_blitz_96x96.png"
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/chain_blitz_96x96.png",
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/chain_blitz.png"
     }
   },
   {
@@ -32516,7 +32512,6 @@
       "specialAmmo": "Wyvernblast"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/karma_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/karma.png"
     }
   },
@@ -38504,8 +38499,8 @@
       "specialAmmo": "Wyvernsnipe"
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_shooter_96x96.png",
-      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_shooter.png"
+      "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_shooter_i.png",
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/blooming_shooter_96x96.png"
     }
   },
   {
@@ -40599,6 +40594,7 @@
       "specialAmmo": "Wyvernsnipe"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/quickcaster_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/quickcaster.png"
     }
   },
@@ -41565,7 +41561,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Thunder"
         }
@@ -41595,7 +41591,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Thunder"
         }
@@ -41628,7 +41624,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Thunder"
         }
@@ -41774,7 +41770,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Blast"
         }
@@ -41799,7 +41795,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Blast"
         }
@@ -41824,7 +41820,7 @@
       "affinity": 20,
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 270,
           "type": "Blast"
         }
@@ -41937,7 +41933,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Dragon"
         }
@@ -41973,7 +41969,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Dragon"
         }
@@ -42432,7 +42428,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Water"
         }
@@ -42460,7 +42456,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 300,
           "type": "Water"
         }
@@ -42488,7 +42484,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 360,
           "type": "Water"
         }
@@ -42602,7 +42598,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 60,
           "type": "Ice"
         }
@@ -42637,7 +42633,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 90,
           "type": "Ice"
         }
@@ -42672,7 +42668,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 120,
           "type": "Ice"
         }
@@ -42707,7 +42703,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 150,
           "type": "Ice"
         }
@@ -42798,7 +42794,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Blast"
         }
@@ -42832,7 +42828,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 210,
           "type": "Blast"
         }
@@ -42866,7 +42862,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Blast"
         }
@@ -43148,7 +43144,6 @@
       ]
     },
     "images": {
-      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/flying_kadachi_strikebow_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/flying_kadachi_strikebow.png"
     }
   },
@@ -43781,6 +43776,7 @@
       "elderseal": "high"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/deep_vero_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/deep_vero.png"
     }
   },
@@ -44343,6 +44339,7 @@
       "specialAmmo": "Wyvernheart"
     },
     "images": {
+      "preview": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gluttonous_cannon_96x96.png",
       "base": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gluttonous_cannon.png"
     }
   },
@@ -44507,7 +44504,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 180,
           "type": "Thunder"
         }
@@ -44536,7 +44533,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 240,
           "type": "Thunder"
         }
@@ -44587,7 +44584,7 @@
       ],
       "element": [
         {
-          "hidden": 1,
+          "hidden": true,
           "damage": 510,
           "type": "Fire"
         }

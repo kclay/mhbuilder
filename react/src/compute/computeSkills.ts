@@ -66,7 +66,7 @@ const resolveAllSkills = (build: Build) => {
 export default function computeSkills(build: Build, forSet: boolean): BuildSkill[] {
 
     const skills = resolveAllSkills(build);
-    const computed = reduce(skills, (acc, levels: SkillLevel[], name: string) => {
+    const computed = reduce(skills, (acc, levels: SkillLevel[]) => {
         const skillId = levels[0].skillId;
         const skill = db.skills(skillId).head;
         if (!skill) {
@@ -78,7 +78,7 @@ export default function computeSkills(build: Build, forSet: boolean): BuildSkill
         return [...acc, {
             id: skillId,
             name: skill.name,
-            image: assets('skills/ice-attack-skill-mhw.png'),
+            image: assets(`skills/${skill.color ? skill.color : 'light-grey'}.png`),
             points,
             max,
             completed

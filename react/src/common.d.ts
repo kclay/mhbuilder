@@ -171,6 +171,7 @@ interface Armor extends Gear {
 
 interface Skill extends MHItem {
     slug: string,
+    color?:string,
     description: string,
     ranks: SkillRank[]
 

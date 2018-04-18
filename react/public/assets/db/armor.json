@@ -8647,7 +8647,7 @@
     ],
     "images": {
       "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_greaves_alpha_male.png",
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_greaves_female.png"
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_greaves_alpha_female.png"
     }
   },
   {
@@ -16132,8 +16132,8 @@
       }
     ],
     "images": {
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/legiana_mail_alpha_female.png",
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/legiana_mail_male.png"
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/legiana_mail_alpha_male.png",
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/legiana_mail_alpha_female.png"
     }
   },
   {
@@ -20421,8 +20421,8 @@
       }
     ],
     "images": {
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_bowels_alpha_female.png",
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_bowels_male.png"
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_bowels_alpha_male.png",
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_bowels_alpha_female.png"
     }
   },
   {
@@ -20544,8 +20544,8 @@
       }
     ],
     "images": {
-      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_muscle_beta_female.png",
-      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_muscle_male.png"
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_muscle_beta_male.png",
+      "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/death_stench_muscle_beta_female.png"
     }
   },
   {
@@ -20990,6 +20990,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_helm_beta_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante_helm_beta_female.png"
     }
   },
@@ -21595,6 +21596,7 @@
       }
     ],
     "images": {
+      "male": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_glare_alpha_male.png",
       "female": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_glare_alpha_female.png"
     }
   },

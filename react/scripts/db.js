@@ -11,6 +11,73 @@ const get = async (endpoint) => {
     debug('get - %s', url);
     return request.get(url).then(body => JSON.parse(body));
 };
+
+const skillColors = {
+    pink: [
+        'attack-boost',
+        'agitator',
+        'maximum-might',
+        'latent-power',
+        'fire-attack'
+    ],
+    red: [
+        'protective-polish',
+        'peak-performance'
+    ],
+    'dark-red': [
+        'dragon-attack'
+    ],
+    'light-blue': [
+        'free-elem/ammo-up',
+        'resuscitate',
+        'evade-window'
+    ],
+    green: [
+        'health-boost'
+    ],
+    purple: [
+        'weakness-exploit',
+        'critical-boost',
+        'critical-draw'
+    ],
+    grey: [
+        'artillery',
+        'capacity-boost',
+        'tremor-resistance',
+        'special-ammo-boost'
+    ],
+    'light-grey': [
+        'earplugs',
+        'handicraft',
+        'guard',
+        'foragers-luck'
+    ],
+    blue: [
+        'piercing-shots'
+    ],
+    'dark-brown': [
+        'blast-attack',
+        'bombardier'
+    ],
+    brown: [
+        'quick-sheath',
+        'non-elemental-boost',
+        'iron-skin',
+        'focus',
+        'stamina-surge',
+        'free-meal',
+        'geologist',
+    ],
+    yellow: [
+        'speed-sharpening',
+        'guard-up',
+        'stun-resistance'
+    ],
+    'dark-green': [
+        'spread/power-shots'
+    ]
+};
+
 const write = (json, name) => {
     const output = path.resolve(`${__dirname}/../public/assets/db/${name}.json`);
     debug('write %s - %s', json.length);
@@ -277,7 +344,16 @@ const decorations = () => {
     return get('decorations');
 };
 const skills = async () => {
-    return get('skills');
+    const colors = Object.keys(skillColors);
+    return get('skills').then(skills => {
+        return skills.map(skill => {
+            const color = colors.find(color => skillColors[color].includes(skill.slug))
+            if (color) {
+                skill.color = color;
+            }
+            return skill;
+        })
+    });
 };
 const weapons = async () => {
     const fields = select('id', 'slug', 'name', 'type', 'rarity', 'attributes');
