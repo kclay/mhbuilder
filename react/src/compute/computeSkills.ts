@@ -1,7 +1,7 @@
 import {flattenDeep, groupBy, orderBy, reduce, sumBy, values} from 'lodash'
 import * as db from '../actions/db';
 import {Build, BuildSkill, Gear, GearSkill, Slot} from "../common";
-import {assets} from "../utils";
+import {assets, isCharmLike} from "../utils";
 
 interface SkillLevel {
     skillId: number,
@@ -35,7 +35,7 @@ const computeInheritedSkills = (build: Build): SkillHash => {
 
 const computeSkillsFromDecorations = (build: Build): SkillHash => {
     return reduce(build, (acc, gear: Gear) => {
-        if (!gear || !gear.attributes!.slots) return acc;
+        if (!gear || isCharmLike(gear)) return acc;
         const slots = gear.attributes.slots;
         return reduce(slots, (acc, slot: Slot) => {
             if (!slot.decoration) return acc;

@@ -160,7 +160,7 @@ const init = bindThunkAction(initAction, async (params, dispatch) => {
         hands: buildArmor('Diablos Nero Braces Beta', ['Elementless', 'Vitality']),
         waist: buildArmor('Bazel Coil Beta', ['Sharp']),
         legs: buildArmor('Dodogama Greaves Beta', ['Attack']),
-        charm: charms('Earplugs Charm 3').head,
+        charm: charms('Earplugs Charm').head.ranks[2],
 
     };
     return dispatch(loadBuild(build));

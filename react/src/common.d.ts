@@ -10,7 +10,7 @@ interface NodeModule {
 
 interface Build {
     head?: Armor,
-    charm?: Charm,
+    charm?: CharmRank,
     chest?: Armor,
     hands?: Armor,
     legs?: Armor,
@@ -52,8 +52,9 @@ enum Rank {
 
 interface MHItem {
     id: number;
+    slug?: string;
     name: string;
-    type: ItemType;
+    type?: ItemType;
     rank?: Rank;
     rarity?: string;
 }
@@ -120,7 +121,16 @@ interface Decoration extends Gear {
     skill: number
 }
 
+type CharmLike = Charm | CharmRank;
+interface CharmRank extends Gear {
+    id: number,
+    slug: string,
+    name: string,
+    skills: SkillRank[]
+}
+
 interface Charm extends Gear {
+    ranks: CharmRank[]
 }
 
 
@@ -172,6 +182,7 @@ interface SkillRank {
     level: number,
     description: string,
     modifiers: SkillModifiers,
+    skillName: string,
     slug: string,
 
 }

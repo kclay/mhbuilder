@@ -18,7 +18,7 @@ const ItemPreview = ({type, item, small = false}: Props) => {
     if (small) classNames.push('item-small');
 
     const image = get(item, 'images.male',
-        get(item, 'images.base', assets(`armors/${type}.png`))
+        get(item, 'images.base', (item && assets(`armors/${type}.png`)) || null)
     );
     const {slots = null} = item && item.attributes || {};
 

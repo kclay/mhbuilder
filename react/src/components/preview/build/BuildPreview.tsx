@@ -13,11 +13,11 @@ export const UnconnectedBuildPreview = ({build}: Props) => {
             {
                 type: 'head', item: build.head
             },
-            {small: true, type: 'charm'}
+            {small: true, type: 'charm', item: build.charm}
 
         ],
         'second-row': [
-            {type: 'weapon'},
+            {type: 'weapon', item: build.weapon},
             {type: 'chest', item: build.chest},
             {type: 'hands', item: build.hands}
         ],
