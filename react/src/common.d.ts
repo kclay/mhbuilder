@@ -10,11 +10,12 @@ interface NodeModule {
 
 interface Build {
     head?: Armor,
-    charm?: Gear,
+    charm?: Charm,
     chest?: Armor,
     hands?: Armor,
     legs?: Armor,
-    waist?: Armor
+    waist?: Armor,
+    weapon?: Weapon
 
 }
 
@@ -52,22 +53,76 @@ enum Rank {
 interface MHItem {
     id: number;
     name: string;
+    type: ItemType;
+    rank?: Rank;
+    rarity?: string;
+}
+
+type WeaponType =
+    'great-sword'
+    | 'long-sword'
+    | 'sword-and-shield'
+    | 'dual-blades'
+    | 'hammer'
+    | 'hunting-horn'
+    | 'lance'
+    | 'gunlance'
+    | 'switch-axe'
+    | 'charge-blade'
+    | 'insect-glaive'
+    | 'light-bowgun'
+    | 'heavy-bowgun'
+    | 'bow'
+type ItemType = GearType | WeaponType
+
+interface GearAttributes {
+    slots?: Slot[];
 }
 
 interface Gear extends MHItem {
-    type: GearType;
-    rank?: Rank;
+
     attributes: GearAttributes;
     skills?: GearSkill[]
 }
 
-interface Charm extends Gear {
-    name: string;
+
+interface WeaponElement {
+    damage: number;
+    type: string;
 }
 
-type GearAttributes = {
-    slots?: Slot[];
+interface WeaponAttributes extends GearAttributes {
+    attack: number,
+    element?: WeaponElement
 }
+
+interface WeaponSharpness {
+    red: number,
+    orange: number,
+    yellow: number,
+    green?: number,
+    blue?: number,
+    white?: number;
+}
+
+interface Weapon extends Gear {
+    attributes: WeaponAttributes
+    sharpness: WeaponSharpness
+
+}
+
+interface WeaponAguments {
+    type: string;
+}
+
+interface Decoration extends Gear {
+    slot: number;
+    skill: number
+}
+
+interface Charm extends Gear {
+}
+
 
 interface ArmorAttributes extends GearAttributes {
     defense: ArmorDefense;
@@ -88,6 +143,7 @@ interface ArmorDefense {
 
 interface Slot {
     rank: number;
+    decoration?: Decoration
 }
 
 /*
@@ -103,12 +159,11 @@ interface Armor extends Gear {
 
 }
 
-interface Skill {
-    id: number,
+interface Skill extends MHItem {
     slug: string,
-    name: string,
     description: string,
     ranks: SkillRank[]
+
 }
 
 interface SkillRank {

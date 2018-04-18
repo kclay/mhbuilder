@@ -9,7 +9,7 @@ const renderValue = (value) => {
     return <span className={`status-value ${value < 0 ? 'negative-value' : ''}`}>
             {value}
             </span>
-}
+};
 export const DefenseStatus = ({build}: Props) => {
 
     const computed = computeDefense(build);
