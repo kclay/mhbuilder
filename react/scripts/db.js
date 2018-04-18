@@ -54,6 +54,10 @@ const transformAttributes = (transform) => {
     }
 };
 
+const tryNumber = (value) => {
+    return !isNaN(Number(value)) ? Number(value) : value;
+};
+
 const transformObject = (objectKey, transform, booleanValue = false) => {
     return (item) => {
         if (!item.attributes) return item;
@@ -61,7 +65,15 @@ const transformObject = (objectKey, transform, booleanValue = false) => {
             const updated = transform(key);
             const changed = key !== updated;
             if (changed) {
-                return {...acc, [objectKey]: {...acc[objectKey], [updated]: booleanValue ? true : value}}
+                return {
+                    ...acc,
+                    [objectKey]: {
+                        ...acc[objectKey],
+                        [updated]: booleanValue
+                            ? true
+                            : tryNumber(value)
+                    }
+                }
             }
             return {...acc, [key]: value}
         }, {});
@@ -79,7 +91,7 @@ const transformArray = (objectKey, transform, valueKey,
         item.attributes = _.reduce(item.attributes, (acc, value, key) => {
             const updated = transform(key);
             const changed = key !== updated;
-            const updatedValue = useTransform ? updated : value;
+            const updatedValue = tryNumber(useTransform ? updated : value);
             if (changed) {
                 return {...acc, [objectKey]: merger(acc, objectKey, valueKey || updated, updatedValue)}
             }

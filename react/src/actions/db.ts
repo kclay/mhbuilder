@@ -123,7 +123,7 @@ const buildArmor = (name: string, jewels: string[] = []) => {
     return buildItem<Armor>(armor, name, jewels);
 };
 const attachDecorations = (gear: Gear, names: string[], canAdd: boolean = false) => {
-    const decos = decorations(name).results;
+    const decos = decorations(names).results;
     if (!gear.attributes.slots) {
         gear.attributes.slots = [];
     }
