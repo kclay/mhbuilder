@@ -10,6 +10,7 @@ interface SearchFilterChoices {
 export interface SearchState {
     filters: SearchFilterChoices,
     term: string
+    page: number
 }
 
 export function buildInitialState(): SearchState {
@@ -20,7 +21,8 @@ export function buildInitialState(): SearchState {
             [SearchFilterType.DecorationSlot]: [],
             [SearchFilterType.Rarity]: []
         },
-        term: ''
+        term: '',
+        page: 1
 
     }
 };

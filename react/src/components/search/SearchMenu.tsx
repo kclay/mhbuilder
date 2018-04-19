@@ -32,7 +32,7 @@ export class SearchMenu extends Component<any, State> {
         return {
             type: SearchFilterType.Skills,
             title: 'Skills',
-            choices: db.skills(SearchQuery.All).results.map(skill => {
+            choices: db.skills(SearchQuery.All).items.map(skill => {
                 return {name: skill.name, value: skill.id}
             })
         }

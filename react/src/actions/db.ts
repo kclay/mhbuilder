@@ -69,9 +69,11 @@ const load = bindThunkAction(loadAction, async () => {
 
 });
 
-interface SearchResults<T> {
+export interface SearchResults<T> {
     head?: T
-    results: T[]
+    items: T[],
+    page?: number,
+    total: number
 }
 
 type QueryTypes = string | number | object;
@@ -123,9 +125,11 @@ const search = <T extends MHItem>(records: DBStorage<T>, query: Query, unique: b
     if (unique) {
         results = uniqBy(results, 'id');
     }
+    
     return {
         head: results.length ? results[0] : null,
-        results
+        items: results,
+        total: results.length
     }
 };
 type DBSearcher<T extends Gear> = (query: Query, unique?: boolean) => SearchResults<T>
@@ -162,7 +166,7 @@ const buildArmor = (name: string, jewels: string[] = []) => {
     return buildItem<Armor>(armor, name, jewels);
 };
 const attachDecorations = (gear: Gear, names: string[], canAdd: boolean = false) => {
-    const decos = decorations(names, false).results;
+    const decos = decorations(names, false).items;
     if (!gear.attributes.slots) {
         gear.attributes.slots = [];
     }

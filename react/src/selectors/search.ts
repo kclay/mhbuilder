@@ -65,7 +65,35 @@ export const computeQuery = (search: SearchState) => {
         return {...acc, ...buildFilterQuery(filter, choices)}
     }, {});
 };
-export const searchResultsSelector = createSelector(searchSelector,
-    (search: SearchState) => {
-        return db.armor(computeQuery(search))
+
+
+export const computeSearchQuerySelector = createSelector(
+    searchSelector,
+    (search: SearchState) => computeQuery(search)
+);
+export const computeSearchResultsSelector = createSelector(
+    computeSearchQuerySelector,
+    (query) => {
+        return db.all(query)
     });
+
+const pageSelector = createSelector(searchSelector,
+    (search: SearchState) => {
+        return search.page
+    });
+const ITEMS_PER_PAGE = 12;
+export const searchResultsSelector = createSelector(
+    pageSelector,
+    computeSearchResultsSelector,
+    (page, results) => {
+        const start = (page - 1) * ITEMS_PER_PAGE;
+        const end = start + ITEMS_PER_PAGE;
+        const items = results.items.slice(start, end);
+        return {
+            head: items.length ? results[0] : null,
+            items,
+            page,
+            total: results.total
+        }
+    }
+);

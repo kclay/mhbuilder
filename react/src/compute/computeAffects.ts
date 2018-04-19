@@ -15,7 +15,7 @@ export default function computeAffects(build: Build, affects: Affects) {
         return [...acc, map(gear.skills, 'id')]
     }, []);
     const results = db.skills(skillIds, true);
-    const skills = results.results || [];
+    const skills = results.items || [];
     const skillByGroup = groupBy(skills, 'id')
     return 0;
 
