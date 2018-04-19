@@ -7,6 +7,8 @@ import * as t from '../constants/actionTypes'
 import {assets} from "../utils";
 import {loadBuild} from "./build";
 
+const Searcher = require('query');
+
 const actionCreator = actionCreatorFactory();
 
 
@@ -31,6 +33,16 @@ class DB {
     decorations = new DBStorage<Decoration>();
     skills = new DBStorage<Skill>();
     weapons = new DBStorage<Weapon>();
+
+    private _all = new DBStorage<Gear>();
+    get all() {
+        if (!this._all.records) {
+            this._all.records = ['armor', 'decorations', 'skills', 'weapons', 'charms'].reduce((acc, name) => {
+                return [...acc, ...this[name].records]
+            }, [])
+        }
+        return this._all;
+    }
 
 }
 
@@ -93,6 +105,9 @@ const processQuery = <T extends MHItem>(storage: DBStorage<T>, query: Query): T[
                 return record.id === <number>query
             });
             break;
+        case 'object':
+            results = <T[]>Searcher.query(storage.records, query);
+            break;
     }
     // filter out empty values and clone the instance so we dont mess up the
     // underlying item when attaching decos
@@ -130,6 +145,10 @@ export const decorations = (query: Query, unique: boolean = true): SearchResults
 
 export const weapons = (query: Query, unique: boolean = false): SearchResults<Weapon> => {
     return search(database.weapons, query, unique);
+};
+
+export const all = (query: Query): SearchResults<Gear> => {
+    return search(database.all, query)
 };
 
 const initAction = actionCreator.async(t.INIT_DB);

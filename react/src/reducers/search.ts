@@ -1,38 +1,44 @@
 import {reducerWithInitialState} from "typescript-fsa-reducers";
 import {updateSearchChoices} from "../actions/search";
-import {SearchChoice, SearchFieldType} from "../components/search";
+import {SearchFilterChoice, SearchFilterType} from "../components/search";
 
 
-interface SearchFieldChoices {
-    [key: string]: any[]
+interface SearchFilterChoices {
+    [key: string]: SearchFilterChoice[]
 }
 
 export interface SearchState {
-    fields: SearchFieldChoices,
+    filters: SearchFilterChoices,
     term: string
 }
 
-const INITIAL_STATE: SearchState = {
-    fields: {
-        [SearchFieldType.Skills]: [],
-        [SearchFieldType.ArmorSlot]: [],
-        [SearchFieldType.DecorationSlot]: [],
-        [SearchFieldType.Rarity]: []
-    },
-    term: ''
-};
-export type UpdateSearchChoicePayload = {
-    field: SearchFieldType,
-    choice: SearchChoice, add: boolean
-}
-const updateSearchChoicesHandler = (state: SearchState, {field, choice, add}: UpdateSearchChoicePayload) => {
-
-    const {fields} = state;
+export function buildInitialState(): SearchState {
     return {
-        ...state, fields: {
-            [field]: add ? [
-                ...fields[field], choice.value
-            ] : fields[field].filter(value => value !== choice.value)
+        filters: {
+            [SearchFilterType.Skills]: [],
+            [SearchFilterType.ArmorSlot]: [],
+            [SearchFilterType.DecorationSlot]: [],
+            [SearchFilterType.Rarity]: []
+        },
+        term: ''
+
+    }
+};
+
+const INITIAL_STATE: SearchState = buildInitialState();
+
+export type UpdateSearchChoicePayload = {
+    filter: SearchFilterType,
+    choice: SearchFilterChoice, add: boolean
+}
+const updateSearchChoicesHandler = (state: SearchState, {filter, choice, add}: UpdateSearchChoicePayload) => {
+
+    const {filters} = state;
+    return {
+        ...state, filters: {
+            [filter]: add ? [
+                ...filters[filter], choice
+            ] : filters[filter].filter(c => c.value !== choice.value)
         }
     }
 

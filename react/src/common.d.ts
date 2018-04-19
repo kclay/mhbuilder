@@ -1,5 +1,6 @@
 /* SystemJS module definition */
 import * as Redux from 'redux';
+import {SearchState} from "./reducers/search";
 
 
 declare var module: NodeModule;
@@ -26,7 +27,8 @@ interface BuildState {
 }
 
 interface RootState {
-    build: BuildState
+    build: BuildState,
+    search:SearchState
 }
 
 type Dispatch = Redux.Dispatch<RootState>

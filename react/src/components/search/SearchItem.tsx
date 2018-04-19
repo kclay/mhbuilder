@@ -6,12 +6,13 @@ import * as search from '../../actions/search'
 import {Dispatch} from "../../common";
 
 
-export interface SearchChoice {
+export interface SearchFilterChoice {
     value: string | number | object,
     name: string
+    belongsTo?: SearchFilterType
 }
 
-export enum SearchFieldType {
+export enum SearchFilterType {
     Skills = 'skills',
     ArmorSlot = 'armor_slots',
     DecorationSlot = 'decoration_slot',
@@ -20,22 +21,22 @@ export enum SearchFieldType {
 
 }
 
-export interface SearchField {
-    type: SearchFieldType,
+export interface SearchFilter {
+    type: SearchFilterType,
     title: string,
-    choices: SearchChoice[]
+    choices: SearchFilterChoice[]
 }
 
 
 type State = {
     opened: boolean,
-    choices: SearchChoice[]
+    choices: SearchFilterChoice[]
 }
 type Props = {
     actions: typeof search,
     active: boolean,
-    field: SearchField,
-    onClick: (type: SearchFieldType) => void
+    filter: SearchFilter,
+    onClick: (type: SearchFilterType) => void
 }
 
 export class UnconnectedSearchItem extends Component<Props, State> {
@@ -55,15 +56,15 @@ export class UnconnectedSearchItem extends Component<Props, State> {
         }
     };
     onClick = () => {
-        const {field} = this.props;
-        this.props.onClick(field.type);
+        const {filter} = this.props;
+        this.props.onClick(filter.type);
 
     };
-    updateChoices = (choice: SearchChoice) => {
-        const {actions, field} = this.props;
+    updateChoices = (choice: SearchFilterChoice) => {
+        const {actions, filter} = this.props;
         const {choices} = this.state;
         const add = !choices.find(c => c.name === choice.name);
-        actions.updateSearchChoices({field: field.type, choice, add});
+        actions.updateSearchChoices({filter: filter.type, choice, add});
         this.setState({
             choices: add ? [
                 ...choices, choice
@@ -73,15 +74,15 @@ export class UnconnectedSearchItem extends Component<Props, State> {
 
     render() {
 
-        const {field} = this.props;
+        const {filter} = this.props;
         return <div className="search-item">
             <ButtonDropdown isOpen={this.state.opened} toggle={this.onToggle}>
                 <DropdownToggle className="search-dropdown">
-                    {field.title}
+                    {filter.title}
                 </DropdownToggle>
 
                 <DropdownMenu>
-                    {field.choices.map(choice => {
+                    {filter.choices.map(choice => {
                         return <DropdownItem key={`search-source-${choice.name}`}
 
                                              onClick={() => this.updateChoices(choice)}>

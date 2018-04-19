@@ -1,37 +1,36 @@
 import React, {Component} from 'react'
 import * as db from '../../actions/db'
 import {SearchQuery} from '../../actions/db'
-import {SearchField, SearchFieldType, SearchItem} from "./SearchItem";
+import {SearchFilter, SearchFilterType, SearchItem} from "./SearchItem";
 
 type State = {
-    activeField: SearchFieldType
+    activeFilter: SearchFilterType
 }
 
 export class SearchMenu extends Component<any, State> {
-    fields: SearchField[];
+    filters: SearchFilter[];
 
     state = {
-        activeField: null
+        activeFilter: null
     };
 
     constructor(props) {
         super(props);
-        this.fields = this.getSearchFields();
+        this.filters = this.getSearchFilters();
     }
 
-
-    getSearchFields() {
+    getSearchFilters() {
         return [
-            this.getSkillsSearchField(),
-            this.getArmorSlotSearchField(),
-            this.getDecorationSlotSearchField(),
-            this.getRaritySearchField()
+            this.getSkillsSearchFilter(),
+            this.getArmorSlotSearchFilter(),
+            this.getDecorationSlotSearchFilter(),
+            this.getRaritySearchFilter()
         ]
     }
 
-    getSkillsSearchField() {
+    getSkillsSearchFilter() {
         return {
-            type: SearchFieldType.Skills,
+            type: SearchFilterType.Skills,
             title: 'Skills',
             choices: db.skills(SearchQuery.All).results.map(skill => {
                 return {name: skill.name, value: skill.id}
@@ -39,9 +38,9 @@ export class SearchMenu extends Component<any, State> {
         }
     }
 
-    getArmorSlotSearchField() {
+    getArmorSlotSearchFilter() {
         return {
-            type: SearchFieldType.ArmorSlot,
+            type: SearchFilterType.ArmorSlot,
             title: 'Armor Slot',
             choices: ['1 Slot', '2 Slots', '3 Slots'].map((name, index) => {
                 return {name, value: index + 1}
@@ -49,9 +48,9 @@ export class SearchMenu extends Component<any, State> {
         }
     }
 
-    getDecorationSlotSearchField() {
+    getDecorationSlotSearchFilter() {
         return {
-            type: SearchFieldType.DecorationSlot,
+            type: SearchFilterType.DecorationSlot,
             title: 'Decoration Slot',
             choices: ['1 Slot', '2 Slots', '3 Slots'].map((name, index) => {
                 return {name, value: index + 1}
@@ -59,9 +58,9 @@ export class SearchMenu extends Component<any, State> {
         }
     }
 
-    getRaritySearchField() {
+    getRaritySearchFilter() {
         return {
-            type: SearchFieldType.Rarity,
+            type: SearchFilterType.Rarity,
             title: 'Rarity',
             choices: [1, 2, 3, 4, 5, 6, 7, 8].map(name => {
                 return {name: String(name), value: name}
@@ -71,26 +70,26 @@ export class SearchMenu extends Component<any, State> {
 
     getStatusSearchField() {
         return {
-            type: SearchFieldType.Status,
+            type: SearchFilterType.Status,
             title: 'Status',
             choices: []
         }
     }
 
-    onSearchItemClicked = (type: SearchFieldType) => {
+    onSearchItemClicked = (type: SearchFilterType) => {
         this.setState({
-            activeField: type
+            activeFilter: type
         })
     };
 
     render() {
-        const {activeField} = this.state;
+        const {activeFilter} = this.state;
 
         return <div className="search-menu">
-            {this.fields.map(field => {
-                return <SearchItem key={field.type}
-                                   active={activeField === field.type}
-                                   field={field}
+            {this.filters.map(filter => {
+                return <SearchItem key={filter.type}
+                                   active={activeFilter === filter.type}
+                                   filter={filter}
                                    onClick={this.onSearchItemClicked}/>
             })}
         </div>
