@@ -1,5 +1,6 @@
 import {combineReducers} from 'redux';
 import buildReducer from './build'
+import searchReducer from './search'
 
 /**
  * combineReducers is important to understand. As your app might grow in size
@@ -18,7 +19,8 @@ import buildReducer from './build'
 
 
 const rootReducer = combineReducers({
-    build: buildReducer
+    build: buildReducer,
+    search: searchReducer
 });
 
 export default rootReducer;

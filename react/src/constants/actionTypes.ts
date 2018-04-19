@@ -84,6 +84,8 @@ export const LOAD_DB = makeThunkActionType('LOAD_DB');
 export const INIT_DB = makeThunkActionType('INIT_DB');
 export const LOAD_BUILD = makeThunkActionType('LOAD_BUILD');
 
+export const UPDATE_SEARCH_FIELD_CHOICE = 'UPDATE_SEARCH_FIELD_CHOICE'
+
 export function creator<T>(type: string) {
     return actionCreator<T>(type)
 }

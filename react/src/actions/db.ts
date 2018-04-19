@@ -17,8 +17,13 @@ interface Lookup<T> {
 class DBStorage<T> {
     byName: Lookup<T> = {};
     byId: Lookup<T> = {};
-    records: T[] = []
+    records: T[] = [];
+
+    get names() {
+        return Object.keys(this.byName);
+    }
 }
+
 
 class DB {
     armor = new DBStorage<Armor>();
@@ -26,9 +31,11 @@ class DB {
     decorations = new DBStorage<Decoration>();
     skills = new DBStorage<Skill>();
     weapons = new DBStorage<Weapon>();
+
 }
 
 const database = new DB();
+
 const loadAction = actionCreator.async(t.LOAD_DB);
 const load = bindThunkAction(loadAction, async () => {
     const loaders = ['armor', 'decorations', 'skills', 'weapons', 'charms'].map(name => {
@@ -56,7 +63,13 @@ interface SearchResults<T> {
 }
 
 type QueryTypes = string | number | object;
-type Query = QueryTypes | QueryTypes[]
+
+export enum SearchQuery {
+    All = 'special_all'
+}
+
+type Query = QueryTypes | QueryTypes[] | SearchQuery
+
 
 const clone = <T>(value: T): T => {
     return <T>JSON.parse(JSON.stringify(value));
@@ -66,9 +79,13 @@ const processQuery = <T extends MHItem>(storage: DBStorage<T>, query: Query): T[
     const lookupKey = String(query);
     switch (typeof query) {
         case 'string': {
-            results = storage.byName[lookupKey] ? [storage.byName[lookupKey]] : storage.records.filter(record => {
-                return record.name.includes(<string>query)
-            })
+            if (lookupKey === <any>SearchQuery.All) {
+                results = storage.records;
+            } else {
+                results = storage.byName[lookupKey] ? [storage.byName[lookupKey]] : storage.records.filter(record => {
+                    return record.name.includes(<string>query)
+                })
+            }
         }
             break;
         case 'number':
@@ -100,6 +117,7 @@ type DBSearcher<T extends Gear> = (query: Query, unique?: boolean) => SearchResu
 export const armor = (query: Query, unique: boolean = true): SearchResults<Armor> => {
     return search(database.armor, query, unique);
 };
+
 export const charms = (query: Query, unique: boolean = true): SearchResults<Charm> => {
     return search(database.charms, query, unique);
 };

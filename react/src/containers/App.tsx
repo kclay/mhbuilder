@@ -1,15 +1,15 @@
 import React, {Component} from 'react';
 import {connect} from "react-redux";
-import {bindActionCreators} from "redux";
 import {dbActions} from '../actions'
 import {Dispatch, RootState} from "../common";
 import {NavBar} from "../components/NavBar";
 
 import {PreviewSection} from "../components/preview";
+import {SearchSection} from "../components/search/SearchSection";
 import '../styles/css/style.css';
 
 type Props = {
-    actions: typeof dbActions,
+    actions: any,
     loading: boolean
 }
 
@@ -34,6 +34,7 @@ class UnconnectedApp extends Component<Props, State> {
         return <React.Fragment>
             <NavBar/>
             <PreviewSection/>
+            <SearchSection/>
         </React.Fragment>
     }
 }
@@ -46,7 +47,9 @@ const mapStateToProps = (state: RootState) => {
 
 const mapDispatchToProps = (dispatch: Dispatch) => {
     return {
-        actions: bindActionCreators(dbActions, dispatch)
+        actions: {
+            init: () => dispatch(dbActions.init())
+        }
     }
 };
 

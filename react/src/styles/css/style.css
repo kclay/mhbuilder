@@ -14,6 +14,9 @@
 .gem-tooltip {
   max-width: 200px;
 }
+.search-item .btn-group {
+  width: 100%;
+}
 /* ---------------------------------------------------------------------------------- FONTS */
 html {
   font-size: 62.5%;
