@@ -1,6 +1,7 @@
+import {map} from 'lodash'
 import React, {Component} from 'react'
 import * as db from '../../db'
-import {SearchQuery} from '../../db'
+import {GearTypes, SearchQuery} from '../../db'
 import {SearchFilter, SearchFilterType, SearchItem} from "./SearchItem";
 
 type State = {
@@ -42,8 +43,8 @@ export class SearchMenu extends Component<any, State> {
         return {
             type: SearchFilterType.ArmorSlot,
             title: 'Armor Slot',
-            choices: ['1 Slot', '2 Slots', '3 Slots'].map((name, index) => {
-                return {name, value: index + 1}
+            choices: map(GearTypes, (value, name) => {
+                return {name, value}
             })
         }
     }
@@ -63,7 +64,7 @@ export class SearchMenu extends Component<any, State> {
             type: SearchFilterType.Rarity,
             title: 'Rarity',
             choices: [1, 2, 3, 4, 5, 6, 7, 8].map(name => {
-                return {name: String(name), value: name}
+                return {name: `Rarity ${name}`, value: name}
             })
         }
     }

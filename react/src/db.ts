@@ -1,9 +1,7 @@
 import {uniqBy} from 'lodash'
-
 import {Armor, Charm, Decoration, Gear, MHItem, Skill, Weapon} from "./common";
+import Searcher from './query'
 
-
-const Searcher = require('query');
 
 
 interface Lookup<T> {
@@ -20,6 +18,15 @@ class DBStorage<T> {
     }
 }
 
+
+export enum GearTypes {
+    Head = 'head',
+    Charm = 'charm',
+    Chest = 'chest',
+    Gloves = 'gloves',
+    Legs = 'legs',
+    Waist = 'waist'
+}
 
 class DB {
     armor = new DBStorage<Armor>();

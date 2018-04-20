@@ -19,7 +19,7 @@ export const UnconnectedBuildPreview = ({build}: Props) => {
         'second-row': [
             {type: 'weapon', item: build.weapon},
             {type: 'chest', item: build.chest},
-            {type: 'hands', item: build.hands}
+            {type: 'gloves', item: build.gloves}
         ],
         'third-row': [
             {type: 'legs', item: build.legs},

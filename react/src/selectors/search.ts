@@ -1,8 +1,8 @@
 import {flatten, map, reduce, values} from 'lodash'
 import {createSelector} from 'reselect'
-import * as db from '../db'
 import {RootState} from "../common";
 import {SearchFilterChoice, SearchFilterType} from "../components/search/SearchItem";
+import * as db from '../db'
 import {SearchState} from "../reducers/search";
 
 export const searchSelector = (state: RootState) => state.search;
@@ -22,7 +22,8 @@ export const allSearchFilterChoicesSelector = createSelector(searchSelector,
 
 
 const buildFilterQuery = (filter: SearchFilterType, choices: SearchFilterChoice[]) => {
-    const $any = {$any: choices.map(choice => choice.value)}
+    const choiceValues = choices.map(choice => choice.value);
+    const $any = {$any: choiceValues};
     switch (filter) {
         case SearchFilterType.Skills: {
             return {
@@ -41,11 +42,11 @@ const buildFilterQuery = (filter: SearchFilterType, choices: SearchFilterChoice[
         case SearchFilterType.DecorationSlot: {
             return {
                 attributes: {
-                    slots: {
-                        $elemMatch: {
-                            rank: $any
-                        }
+                    $cb: (attrs) => {
+                        return !!(attrs && attrs.slots && attrs.slots.find(slot =>
+                            choiceValues.includes(slot.rank)))
                     }
+
                 }
             }
         }

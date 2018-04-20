@@ -38,6 +38,7 @@ const updateSearchChoicesHandler = (state: SearchState, {filter, choice, add}: U
     const {filters} = state;
     return {
         ...state, filters: {
+            ...filters,
             [filter]: add ? [
                 ...filters[filter], choice
             ] : filters[filter].filter(c => c.value !== choice.value)

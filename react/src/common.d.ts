@@ -13,7 +13,7 @@ interface Build {
     head?: Armor,
     charm?: CharmRank,
     chest?: Armor,
-    hands?: Armor,
+    gloves?: Armor,
     legs?: Armor,
     waist?: Armor,
     weapon?: Weapon
@@ -33,16 +33,8 @@ interface RootState {
 
 type Dispatch = Redux.Dispatch<RootState>
 
-type GearType = 'head' | 'charm' | 'chest' | 'hands' | 'legs' | 'waist'
-/*
-enum GearType {
-   Head = 'head',
-   Charm = 'charm',
-   Chest = 'chest',
-   Hands = 'hands',
-   Legs = 'legs',
-   Waist = 'waist'
-}  */
+type GearType = 'head' | 'charm' | 'chest' | 'gloves' | 'legs' | 'waist'
+
 type Rank = 'high' | 'low'
 
 /*

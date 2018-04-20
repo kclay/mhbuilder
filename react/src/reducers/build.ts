@@ -9,7 +9,7 @@ const INITIAL_STATE: BuildState = {
         head: null,
         charm: null,
         chest: null,
-        hands: null,
+        gloves: null,
         legs: null,
         waist: null
     }

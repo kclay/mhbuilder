@@ -40,7 +40,7 @@ const init = bindThunkAction(initAction, async (params, dispatch) => {
         weapon: buildWeapon('Diablos Tyrannis 2', ['Vitality']),
         head: buildArmor('Rathalos Helm Beta', ['Vitality']),
         chest: buildArmor('Damascus Mail Beta', ['Artillery Jewel 1', 'Artillery Jewel 1', 'Artillery Jewel 1']),
-        hands: buildArmor('Diablos Nero Braces Beta', ['Elementless', 'Vitality']),
+        gloves: buildArmor('Diablos Nero Braces Beta', ['Elementless', 'Vitality']),
         waist: buildArmor('Bazel Coil Beta', ['Sharp']),
         legs: buildArmor('Dodogama Greaves Beta', ['Attack']),
         charm: charms('Earplugs Charm').head.ranks[2],

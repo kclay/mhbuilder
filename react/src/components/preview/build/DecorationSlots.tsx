@@ -9,13 +9,7 @@ type Props = {
 }
 
 
-const getDescription = (slot: Slot) => {
-    if (slot.decoration) {
-        const skill = db.skills(slot.decoration.skill).head;
-        return `<strong>${skill.name}</strong><p>${skill.description}</p>`;
-    }
-    return null;
-};
+
 
 const DecorationSlots = ({id, slots = []}: Props) => {
     return <div className="item-decoration-slots">
@@ -24,7 +18,8 @@ const DecorationSlots = ({id, slots = []}: Props) => {
                 return slot.rank ?
                     <li key={`slot-${index}-${slot.rank}`}>
                         <GemSlot rank={slot.rank} id={`${id}-${index}-${slot.rank}`}
-                                 description={getDescription(slot)}/>
+                                 decoration={slot.decoration}
+                                 />
 
                     </li>
                     : null;
