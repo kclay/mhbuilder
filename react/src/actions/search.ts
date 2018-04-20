@@ -8,5 +8,8 @@ export const updateSearchChoices = actionCreator<{
     choice: SearchFilterChoice, add: boolean
 }>(t.UPDATE_SEARCH_FIELD_CHOICE);
 
+export const updateSearchPage = actionCreator<number>(t.UPDATE_SEARCH_PAGE)
+export const initSearch = actionCreator(t.INIT_SEARCH);
+
 
 

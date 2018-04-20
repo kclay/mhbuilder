@@ -1,20 +1,30 @@
 import React from 'react'
-import {Build} from "../../../common";
+import {Build, Gear} from "../../../common";
 import computeDefense from "../../../compute/computeDefense";
+import {DecorationStatus} from "./DecorationStatus";
 
 type Props = {
-    build: Build
+    build?: Build,
+    gear?: Gear
+    className?: string
+
 }
 const renderValue = (value) => {
     return <span className={`status-value ${value < 0 ? 'negative-value' : ''}`}>
             {value}
             </span>
 };
-export const DefenseStatus = ({build}: Props) => {
+export const DefenseStatus = ({
+                                  build = null,
+                                  gear = null,
+                                  className = 'status-list'
 
-    const computed = computeDefense(build);
+                              }: Props) => {
 
-    return <ul className="status-list">
+    const computed = computeDefense(build || gear);
+
+    return <ul className={className}>
+        {gear && <DecorationStatus gear={gear}/>}
         <li className="defense-raw">
             <span className="status-name">Defense</span>
             {renderValue(computed.defense)}

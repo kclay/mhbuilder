@@ -1,5 +1,5 @@
 import {groupBy, map, reduce} from 'lodash'
-import * as db from '../actions/db'
+import * as db from '../db'
 import {Build, Gear} from "../common";
 
 export enum Affects {

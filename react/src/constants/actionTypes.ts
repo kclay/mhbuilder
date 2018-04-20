@@ -85,6 +85,8 @@ export const INIT_DB = makeThunkActionType('INIT_DB');
 export const LOAD_BUILD = makeThunkActionType('LOAD_BUILD');
 
 export const UPDATE_SEARCH_FIELD_CHOICE = 'UPDATE_SEARCH_FIELD_CHOICE'
+export const UPDATE_SEARCH_PAGE = 'UPDATE_SEARCH_PAGE';
+export const INIT_SEARCH = 'INIT_SEARCH';
 
 export function creator<T>(type: string) {
     return actionCreator<T>(type)

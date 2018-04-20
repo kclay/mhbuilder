@@ -1,5 +1,5 @@
 import {reducerWithInitialState} from "typescript-fsa-reducers";
-import {updateSearchChoices} from "../actions/search";
+import {initSearch, updateSearchChoices, updateSearchPage} from "../actions/search";
 import {SearchFilterChoice, SearchFilterType} from "../components/search";
 
 
@@ -22,7 +22,7 @@ export function buildInitialState(): SearchState {
             [SearchFilterType.Rarity]: []
         },
         term: '',
-        page: 1
+        page: 0
 
     }
 };
@@ -49,5 +49,11 @@ const updateSearchChoicesHandler = (state: SearchState, {filter, choice, add}: U
 
 const reducer = reducerWithInitialState(INITIAL_STATE)
     .case(updateSearchChoices, updateSearchChoicesHandler)
+    .case(initSearch, (state) => {
+        return {...state, page: 1}
+    })
+    .case(updateSearchPage, (state, page) => {
+        return {...state, page: page};
+    })
     .build();
 export default reducer

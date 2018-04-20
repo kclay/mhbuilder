@@ -1,5 +1,5 @@
 import React from 'react'
-import * as db from '../../../actions/db'
+import * as db from '../../../db'
 import {Slot} from "../../../common";
 import {GemSlot} from "../../GemSlot";
 

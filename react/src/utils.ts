@@ -1,9 +1,27 @@
-import {Armor, Charm, CharmLike, CharmRank, Gear} from "./common";
+import {values} from 'lodash'
+import {Armor, Build, Charm, CharmLike, CharmRank, Gear} from "./common";
 
 export const assets = (path) => {
     return `${process.env.PUBLIC_URL}assets/${path}`;
 };
+
+
+export const skillImage = (color = null) => {
+    return assets(`skills/${color ? color : 'light-grey'}.png`)
+};
 export const range = (start, end) => Array.from({length: (end - start)}, (v, k) => k + start);
+
+export function isBuild(value): value is Build {
+    return value && 'head' in value;
+}
+
+export function collectAllGear(buildOrGear: Build | Gear): Gear[] {
+    return isBuild(buildOrGear) ? values(buildOrGear) : [buildOrGear];
+}
+
+export function isGear(value): value is Gear {
+    return value && 'attributes' in value;
+}
 
 export function isArmor(gear: Gear): gear is Armor {
 

@@ -1,6 +1,6 @@
 import {flatten, map, reduce, values} from 'lodash'
 import {createSelector} from 'reselect'
-import * as db from '../actions/db'
+import * as db from '../db'
 import {RootState} from "../common";
 import {SearchFilterChoice, SearchFilterType} from "../components/search/SearchItem";
 import {SearchState} from "../reducers/search";

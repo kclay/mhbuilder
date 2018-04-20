@@ -1,5 +1,6 @@
-import {each, get, sumBy, values} from 'lodash'
+import {each, get, sumBy} from 'lodash'
 import {Build, Gear} from "../common";
+import {collectAllGear} from "../utils";
 
 class ComputeDefense {
     defense: number = 0;
@@ -25,15 +26,17 @@ export enum DefenseType {
     Augmented = 'augmented'
 }
 
-export default function computeDefense(build: Build, defenseType: DefenseType = DefenseType.Augmented): ComputeDefense {
+
+export default function computeDefense(build: Build | Gear, defenseType: DefenseType = DefenseType.Augmented): ComputeDefense {
     const computed = new ComputeDefense();
+    const collection = collectAllGear(build);
     each(ResistanceType, (name) => {
-        computed[name] = sumBy(values(build), (gear: Gear) => {
+        computed[name] = sumBy(collection, (gear: Gear) => {
             return computeResistance(gear, name);
         })
     });
 
-    computed.defense = sumBy(values(build), (gear: Gear) => {
+    computed.defense = sumBy(collection, (gear: Gear) => {
         return get(gear, `attributes.defense.${defenseType}`, 0);
     });
 

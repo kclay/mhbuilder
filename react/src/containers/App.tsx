@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {connect} from "react-redux";
-import {dbActions} from '../actions'
+import * as dbActions from '../actions/db'
 import {Dispatch, RootState} from "../common";
 import {NavBar} from "../components/NavBar";
 

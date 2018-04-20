@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
-import * as db from '../../actions/db'
-import {SearchQuery} from '../../actions/db'
+import * as db from '../../db'
+import {SearchQuery} from '../../db'
 import {SearchFilter, SearchFilterType, SearchItem} from "./SearchItem";
 
 type State = {

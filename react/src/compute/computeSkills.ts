@@ -1,7 +1,7 @@
 import {flattenDeep, groupBy, orderBy, reduce, sumBy, values} from 'lodash'
-import * as db from '../actions/db';
 import {Build, BuildSkill, Gear, GearSkill, Slot} from "../common";
-import {assets, isCharmLike} from "../utils";
+import * as db from '../db';
+import {collectAllGear, isCharmLike, skillImage} from "../utils";
 
 interface SkillLevel {
     skillId: number,
@@ -14,8 +14,10 @@ interface SkillHash {
     [index: string]: SkillLevel[]
 }
 
-const computeInheritedSkills = (build: Build): SkillHash => {
-    return reduce(build, (acc, gear: Gear) => {
+
+const computeInheritedSkills = (collection: Gear[]): SkillHash => {
+
+    return reduce(collection, (acc, gear: Gear) => {
         if (!gear || !gear.skills) return acc;
         return reduce(gear.skills, (acc, skill: GearSkill) => {
             const id = '' + skill.skill;
@@ -33,8 +35,8 @@ const computeInheritedSkills = (build: Build): SkillHash => {
     }, {});
 };
 
-const computeSkillsFromDecorations = (build: Build): SkillHash => {
-    return reduce(build, (acc, gear: Gear) => {
+const computeSkillsFromDecorations = (collection: Gear[]): SkillHash => {
+    return reduce(collection, (acc, gear: Gear) => {
         if (!gear || isCharmLike(gear)) return acc;
         const slots = gear.attributes.slots;
         return reduce(slots, (acc, slot: Slot) => {
@@ -55,30 +57,27 @@ const computeSkillsFromDecorations = (build: Build): SkillHash => {
 
     }, {})
 };
-const resolveAllSkills = (build: Build) => {
-    const inherited = computeInheritedSkills(build);
-    const fromDecorations = computeSkillsFromDecorations(build);
+const resolveAllSkills = (buildOrGear: Build | Gear) => {
+    const collection = collectAllGear(buildOrGear);
+    const inherited = computeInheritedSkills(collection);
+    const fromDecorations = computeSkillsFromDecorations(collection);
     const grouped = <any>groupBy(flattenDeep([values(inherited), values(fromDecorations)]), 'skillId');
     return <SkillHash>grouped;
 
 };
 
-export default function computeSkills(build: Build, forSet: boolean): BuildSkill[] {
-
-    const skills = resolveAllSkills(build);
+export default function computeSkills(buildOrGear: Build | Gear, forSet: boolean = false): BuildSkill[] {
+    const skills = resolveAllSkills(buildOrGear);
     const computed = reduce(skills, (acc, levels: SkillLevel[]) => {
         const skillId = levels[0].skillId;
         const skill = db.skills(skillId).head;
-        if (!skill) {
-            console.log(levels);
-        }
         const points = sumBy(levels, 'level');
         const max = skill.ranks.length;
         const completed = skill.ranks.length === points;
         return [...acc, {
             id: skillId,
             name: skill.name,
-            image: assets(`skills/${skill.color ? skill.color : 'light-grey'}.png`),
+            image: skillImage(skill.color),
             points,
             max,
             completed

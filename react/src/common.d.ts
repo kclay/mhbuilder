@@ -28,7 +28,7 @@ interface BuildState {
 
 interface RootState {
     build: BuildState,
-    search:SearchState
+    search: SearchState
 }
 
 type Dispatch = Redux.Dispatch<RootState>
@@ -52,6 +52,13 @@ enum Rank {
 }
  */
 
+interface Images {
+    male?: string,
+    female?: string,
+    base?: string,
+    preview?: string
+}
+
 interface MHItem {
     id: number;
     slug?: string;
@@ -59,6 +66,7 @@ interface MHItem {
     type?: ItemType;
     rank?: Rank;
     rarity?: string;
+    images?: Images
 }
 
 type WeaponType =
@@ -124,6 +132,7 @@ interface Decoration extends Gear {
 }
 
 type CharmLike = Charm | CharmRank;
+
 interface CharmRank extends Gear {
     id: number,
     slug: string,
@@ -173,7 +182,7 @@ interface Armor extends Gear {
 
 interface Skill extends MHItem {
     slug: string,
-    color?:string,
+    color?: string,
     description: string,
     ranks: SkillRank[]
 

@@ -1,4 +1,4 @@
-import * as dbActions from './db'
+import * as dbActions from '../db'
 
 export {
     dbActions
